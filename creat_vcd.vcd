@@ -1,0 +1,26 @@
+$comment Acquisition with 8/8 channels at 20 kHz $end
+$date today $end
+$timescale 1 ns $end
+$version libsigrok 0.5.1 $end
+$scope module libsigrok $end
+$var wire 1 # D0 $end
+$var wire 1 ! D1 $end
+$var wire 1 $ D2 $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0#
+1!
+0$
+$end
+#6
+1#
+0!
+#9
+0#
+1!
+#17
+1#
+#19
+0#
