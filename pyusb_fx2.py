@@ -40,12 +40,40 @@ ret = dev.ctrl_transfer(0xc0,0xb2,0,0,0x01,0x00)
 
 # time.sleep(1)
 
-Setdata = [0x00,0x05,0xdb]
+# 计算采样率
+samplerate = 24000000 # 可设定的采样率
+
+SR_48MHz = 48000000
+SR_30MHz = 30000000
+
+delay = 0
+flags = 0
+delay_h = 0
+delay_l =0
+
+if (SR_48MHz % samplerate == 0):
+    falgs = 0x40
+    delay = int(SR_48MHz / samplerate -1)
+    if delay > ( 6*256 ):
+        delay = int(0)
+
+if (delay == 0 and ((SR_30MHz % samplerate) == 0)):
+    flags = 0x00
+    delay = int(SR_30MHz / samplerate - 1)
+
+delay_h = delay & 0xff00
+delay_l = delay & 0x00ff
+
+
+Setdata = [flags,delay_h,delay_l]
+
 ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
 # print(ret)
 
 # 读取数据
-buf = intf[0].read(512)
+samples = 4096*2048 # 捕获的字节数，只能是2的幂次方，1个字节是8bit就是8个通道，例如1024个字节代表一个通道1024个点，总共1024*8个点,目前的interface最大字节数是4096*2048
+buf = intf[0].read(samples)
+# print(len(buf))
 
 '''############'''
 '''按vcd格式保存'''
@@ -119,7 +147,13 @@ for i in range(0,len(D2_timestamp)):
 
 
 # 注意timescale在writer.py中值只能设置为TIMESCALE_NUMS = [1, 10, 100]，需要其他间隔值和采样频率对上的话，在TIMESCALE_NUMS把间隔值添加进去即可
-with VCDWriter(sys.stdout, timescale='50 us', date='today', comment='Acquisition with 8/8 channels at 20 kHz',version='libsigrok 0.5.1') as writer:  # timescale='1 ns'这里单位不对有问题
+if samplerate == 24000000:
+    timescale_unit = '41666667 fs'
+
+if samplerate == 20000:
+    timescale_unit = '50 us'
+
+with VCDWriter(sys.stdout, timescale=timescale_unit, date='today', comment='Acquisition with 8/8 channels at 24 MHz',version='libsigrok 0.5.1') as writer:  # timescale='1 ns'这里单位不对有问题
     counter_var0 = writer.register_var('libsigrok', 'D0', 'wire',size=1,init=D0_init,ident='#')    # init是这个var的初始值
     counter_var1 = writer.register_var('libsigrok', 'D1', 'wire', size=1,init=D1_init,ident='!')   # init是这个var的初始值
     counter_var2 = writer.register_var('libsigrok', 'D2', 'wire', size=1, init=D2_init, ident='$')  # init是这个var的初始值

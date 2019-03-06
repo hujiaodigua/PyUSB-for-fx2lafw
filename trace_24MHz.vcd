@@ -1,0 +1,41 @@
+$date Wed Mar 06 22:03:52 2019 $end
+$version libsigrok 0.5.1 $end
+$comment
+  Acquisition with 8/8 channels at 24 MHz
+$end
+$timescale 1 ns $end
+$scope module libsigrok $end
+$var wire 1 ! D0 $end
+$var wire 1 " D1 $end
+$var wire 1 # D2 $end
+$var wire 1 $ D3 $end
+$var wire 1 % D4 $end
+$var wire 1 & D5 $end
+$var wire 1 ' D6 $end
+$var wire 1 ( D7 $end
+$upscope $end
+$enddefinitions $end
+#0 1! 1" 1# 1$ 1% 1& 1' 1(
+#167917 0#
+#1168042 1#
+#2168083 0#
+#3168208 1#
+#3179917 0"
+#4168292 0#
+#5168417 1#
+#6168458 0#
+#7168583 1#
+#8168667 0#
+#9168792 1#
+#10168833 0#
+#11169000 1#
+#12169042 0#
+#13169167 1#
+#13182167 1"
+#14169208 0#
+#15169333 1#
+#16169417 0#
+#17169542 1#
+#18169583 0#
+#19169708 1#
+#20169792 0#
