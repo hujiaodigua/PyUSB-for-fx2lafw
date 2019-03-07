@@ -69,19 +69,22 @@ Setdata = [flags,delay_h,delay_l]
 
 # print(ret)
 
+# 读取数据的字节数决定了采集的时长
 # 读取数据 4096*2048 = 8388608字节
-samples = 4096*2048 # 捕获的字节数，只能是2的幂次方，1个字节是8bit就是8个通道，例如1024个字节代表一个通道1024个点，总共1024*8个点,目前的interface最大字节数是4096*2048
+# samples = 4096*2048 # 捕获的字节数，只能是2的幂次方(最少是512)，1个字节是8bit就是8个通道，例如1024个字节代表一个通道1024个点，总共1024*8个点,目前的interface最大字节数是4096*2048
+samples = 4096*128*2
 
 # 先读一次，使buf不为空
 ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
 buf = intf[0].read(samples)
 
 # D0没有trace数据，D1和D2一般波形最多再读19次,由于bin转成字符串非常占用空间，目前最大只能1+19=20次（约7秒时间），超过20次就爆内存了,buf本身不占多少内存，下面的部分比较占内存
-for i in range(0,1):
+'''for i in range(0,1):
     ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
     buf_temp = intf[0].read(samples)
     buf = buf + buf_temp
-    del buf_temp
+    del buf_temp'''
+# 像上面那样分段发采集指令，然后读取数据得到的数据有错误帧，显然是有数据丢失的，如果只发一个采集指令采集然后采集多个数据的话，会报错，但是sigrok源码却可以实现，所以这个问题也有待解决
 
 '''ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
 buf_2 = intf[0].read(samples)
