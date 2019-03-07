@@ -52,12 +52,12 @@ delay_h = 0
 delay_l =0
 
 if (SR_48MHz % samplerate == 0):
-    falgs = 0x40
+    flags = 0x40
     delay = int(SR_48MHz / samplerate -1)
     if delay > ( 6*256 ):
         delay = int(0)
 
-if (delay == 0 and ((SR_30MHz % samplerate) == 0)):
+if (delay == 0) and ((SR_30MHz % samplerate) == 0):
     flags = 0x00
     delay = int(SR_30MHz / samplerate - 1)
 
@@ -67,12 +67,37 @@ delay_l = delay & 0x00ff
 
 Setdata = [flags,delay_h,delay_l]
 
-ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
 # print(ret)
 
-# 读取数据
+# 读取数据 4096*2048 = 8388608字节
 samples = 4096*2048 # 捕获的字节数，只能是2的幂次方，1个字节是8bit就是8个通道，例如1024个字节代表一个通道1024个点，总共1024*8个点,目前的interface最大字节数是4096*2048
+
+# 先读一次，使buf不为空
+ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
 buf = intf[0].read(samples)
+
+# D0没有trace数据，D1和D2一般波形最多再读19次,由于bin转成字符串非常占用空间，目前最大只能1+19=20次（约7秒时间），超过20次就爆内存了,buf本身不占多少内存，下面的部分比较占内存
+for i in range(0,1):
+    ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
+    buf_temp = intf[0].read(samples)
+    buf = buf + buf_temp
+    del buf_temp
+
+'''ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
+buf_2 = intf[0].read(samples)
+
+ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
+buf_3 = intf[0].read(samples)
+
+ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
+buf_4 = intf[0].read(samples)
+
+ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
+buf_5 = intf[0].read(samples)
+
+buf = buf_1 + buf_2 + buf_3 + buf_4 + buf_5
+del buf_1,buf_2,buf_3,buf_4,buf_5'''
+# buf = intf[0].read(samples)
 # print(len(buf))
 
 '''############'''
@@ -82,7 +107,7 @@ buf = intf[0].read(samples)
 buf_bin = []
 
 for i in range(0,len(buf)):
-    buf_bin.append(bin(buf[i]).replace('0b',''))
+    buf_bin.append(bin(buf[i]).replace('0b',''))  # bin运算转成字符串疯狂占用内存，这个问题需要解决
 
 D0_init = int(buf_bin[0][7])
 D1_init = int(buf_bin[0][6])
@@ -108,6 +133,9 @@ for i in range(1,len(buf)):
     if buf_bin[i-1][5] != buf_bin[i][5]:
         D2_timestamp.append(i)                           # 要注意timestamp为空的情况，说明这一个通道的信号全程一个值，就只有初始值就没有后面的writer.change过程
         D2_Value.append(int(buf_bin[i][5]))
+del buf
+del buf_bin
+
 
 # data的结构： | timestamp | value_counter_var0 | value_counter_var1 |
 # 然后data应该是一个二维list
@@ -138,6 +166,11 @@ for i in range(0,len(D1_timestamp)):
 for i in range(0,len(D2_timestamp)):
     # print(D_timestamp.index(D2_timestamp[i]))
     D_data[D_timestamp.index(D2_timestamp[i])][3] = D2_Value[i]
+
+del D_timestamp
+del D0_Value
+del D1_Value
+del D2_Value
 
 
 '''D_data = [ [3,1,None],    # len(D0_data)算的是最外层[]的长度
@@ -174,6 +207,7 @@ with VCDWriter(sys.stdout, timescale=timescale_unit, date='today', comment='Acqu
             writer.change(counter_var1, D_data[i][0], D_data[i][2])
         if D_data[i][3] != None:
             writer.change(counter_var2, D_data[i][0], D_data[i][3])
+    del D_data
 
     '''writer.change(counter_var0, 100, 0)    # writer.change(变量,时间戳（位置）,翻转（值）)，0就是前面都是1这一位从1翻转为0
     writer.change(counter_var1, 100, 0)
@@ -228,5 +262,5 @@ GetFwVersion = [0x40,0xb1,0x00,0x00,0x00,0x00,0x03 ,0x00]
 bytes_writed = intface_01[1].write(GetFwVersion)
 
 # buffer = endpoint_0x2_BulkOut.read(32)
-
-print('123')'''
+'''
+# print('123')
