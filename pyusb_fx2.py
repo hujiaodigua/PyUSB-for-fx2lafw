@@ -5,7 +5,7 @@ import sys
 from vcd import VCDWriter
 from array import array
 
-from array import array
+# from array import array
 
 # 先开pulseview保证fx2有固件
 
@@ -76,7 +76,8 @@ samples = 4096*128*2
 
 # 先读一次，使buf不为空
 ret = dev.ctrl_transfer(0x40,0xb1,0,0,Setdata,0x0300)
-buf = intf[0].read(samples)
+buf = intf[0].read(512)
+print(buf)
 
 # D0没有trace数据，D1和D2一般波形最多再读19次,由于bin转成字符串非常占用空间，目前最大只能1+19=20次（约7秒时间），超过20次就爆内存了,buf本身不占多少内存，下面的部分比较占内存
 '''for i in range(0,1):
