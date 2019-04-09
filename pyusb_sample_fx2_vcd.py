@@ -27,7 +27,8 @@ def binary_search(lis, num):
 
 samplerate = 24000000 # 可设定的采样率
 
-filename = 'mailbox_samples.txt'
+# filename = 'mailbox_samples.txt'
+filename = sys.argv[1]
 file_object = open(filename,'r')
 
 buf_bin = []

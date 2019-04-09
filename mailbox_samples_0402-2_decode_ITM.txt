@@ -1,0 +1,4241 @@
+10:arm_itm-1: Unhandled sync: 00
+22:arm_itm-1: Unhandled sync: 00
+34:arm_itm-1: Unhandled sync: 00
+47:arm_itm-1: Unhandled sync: 00
+60:arm_itm-1: Unhandled sync: 00
+72:arm_itm-1: Unhandled sync: 00
+84:arm_itm-1: Unhandled sync: 00
+96:arm_itm-1: Unhandled sync: 00
+109:arm_itm-1: Unhandled sync: 00
+122:arm_itm-1: Unhandled sync: 00
+135:arm_itm-1: Unhandled sync: 00
+148:arm_itm-1: Unhandled sync: 00
+161:arm_itm-1: Unhandled sync: 00
+174:arm_itm-1: Unhandled sync: 00
+187:arm_itm-1: Unhandled sync: 00
+200:arm_itm-1: Unhandled sync: 00
+213:arm_itm-1: Unhandled sync: 00
+225:arm_itm-1: Unhandled sync: 00
+237:arm_itm-1: Unhandled sync: 00
+249:arm_itm-1: Unhandled sync: 00
+261:arm_itm-1: Unhandled sync: 00
+273:arm_itm-1: Unhandled sync: 00
+285:arm_itm-1: Unhandled sync: 00
+298:arm_itm-1: Unhandled sync: 00
+311:arm_itm-1: Unhandled sync: 00
+323:arm_itm-1: Unhandled sync: 00
+335:arm_itm-1: Unhandled sync: 00
+347:arm_itm-1: Unhandled sync: 00
+360:arm_itm-1: Unhandled sync: 00
+373:arm_itm-1: Unhandled sync: 00
+386:arm_itm-1: Unhandled sync: 00
+399:arm_itm-1: Unhandled sync: 00
+412:arm_itm-1: Unhandled sync: 00
+424:arm_itm-1: Unhandled sync: 00
+436:arm_itm-1: Unhandled sync: 00
+449:arm_itm-1: Unhandled sync: 00
+461:arm_itm-1: Unhandled sync: 00
+473:arm_itm-1: Unhandled sync: 00
+486:arm_itm-1: Unhandled sync: 00
+499:arm_itm-1: Unhandled sync: 00
+512:arm_itm-1: Unhandled sync: 00
+524:arm_itm-1: Unhandled sync: 00
+536:arm_itm-1: Unhandled sync: 00
+548:arm_itm-1: Unhandled sync: 00
+561:arm_itm-1: Unhandled sync: 00
+574:arm_itm-1: Unhandled sync: 00
+587:arm_itm-1: Unhandled sync: 00
+600:arm_itm-1: Unhandled sync: 00
+613:arm_itm-1: Unhandled sync: 00
+625:arm_itm-1: Unhandled sync: 00
+637:arm_itm-1: Unhandled sync: 00
+650:arm_itm-1: Unhandled sync: 00
+662:arm_itm-1: Unhandled sync: 00
+674:arm_itm-1: Unhandled sync: 00
+687:arm_itm-1: Unhandled sync: 00
+700:arm_itm-1: Unhandled sync: 00
+713:arm_itm-1: Unhandled sync: 00
+725:arm_itm-1: Unhandled sync: 00
+737:arm_itm-1: Unhandled sync: 00
+749:arm_itm-1: Unhandled sync: 00
+762:arm_itm-1: Unhandled sync: 00
+775:arm_itm-1: Unhandled sync: 00
+788:arm_itm-1: Unhandled sync: 00
+801:arm_itm-1: Unhandled sync: 00
+814:arm_itm-1: Unhandled sync: 00
+826:arm_itm-1: Unhandled sync: 00
+838:arm_itm-1: Unhandled sync: 00
+851:arm_itm-1: Unhandled sync: 00
+863:arm_itm-1: Unhandled sync: 00
+875:arm_itm-1: Unhandled sync: 00
+888:arm_itm-1: Unhandled sync: 00
+901:arm_itm-1: Unhandled sync: 00
+913:arm_itm-1: Unhandled sync: 00
+925:arm_itm-1: Unhandled sync: 00
+937:arm_itm-1: Unhandled sync: 00
+949:arm_itm-1: Unhandled sync: 00
+961:arm_itm-1: Unhandled sync: 00
+974:arm_itm-1: Unhandled sync: 00
+987:arm_itm-1: Unhandled sync: 00
+1000:arm_itm-1: Unhandled sync: 00
+1013:arm_itm-1: Unhandled sync: 00
+1026:arm_itm-1: Unhandled sync: 00
+1038:arm_itm-1: Unhandled sync: 00
+1050:arm_itm-1: Unhandled sync: 00
+1063:arm_itm-1: Unhandled sync: 00
+1075:arm_itm-1: Unhandled sync: 00
+1087:arm_itm-1: Unhandled sync: 00
+1100:arm_itm-1: Unhandled sync: 00
+1113:arm_itm-1: Unhandled sync: 00
+1125:arm_itm-1: Unhandled sync: 00
+1137:arm_itm-1: Unhandled sync: 00
+1149:arm_itm-1: Unhandled sync: 00
+1161:arm_itm-1: Unhandled sync: 00
+1174:arm_itm-1: Unhandled sync: 00
+1187:arm_itm-1: Unhandled sync: 00
+1200:arm_itm-1: Unhandled sync: 00
+1213:arm_itm-1: Unhandled sync: 00
+1226:arm_itm-1: Unhandled sync: 00
+1238:arm_itm-1: Unhandled sync: 00
+1250:arm_itm-1: Unhandled sync: 00
+1263:arm_itm-1: Unhandled sync: 00
+1275:arm_itm-1: Unhandled sync: 00
+1287:arm_itm-1: Unhandled sync: 00
+1300:arm_itm-1: Unhandled sync: 00
+1313:arm_itm-1: Unhandled sync: 00
+1325:arm_itm-1: Unhandled sync: 00
+1337:arm_itm-1: Unhandled sync: 00
+1349:arm_itm-1: Unhandled sync: 00
+1362:arm_itm-1: Unhandled sync: 00
+1375:arm_itm-1: Unhandled sync: 00
+1388:arm_itm-1: Unhandled sync: 00
+1401:arm_itm-1: Unhandled sync: 00
+1414:arm_itm-1: Unhandled sync: 00
+1426:arm_itm-1: Unhandled sync: 00
+1438:arm_itm-1: Unhandled sync: 00
+1451:arm_itm-1: Unhandled sync: 00
+1463:arm_itm-1: Unhandled sync: 00
+1475:arm_itm-1: Unhandled sync: 00
+1488:arm_itm-1: Unhandled sync: 00
+1501:arm_itm-1: Unhandled sync: 00
+1513:arm_itm-1: Unhandled sync: 00
+1525:arm_itm-1: Unhandled sync: 00
+1537:arm_itm-1: Unhandled sync: 00
+1550:arm_itm-1: Unhandled sync: 00
+1563:arm_itm-1: Unhandled sync: 00
+1576:arm_itm-1: Unhandled sync: 00
+1589:arm_itm-1: Unhandled sync: 00
+1602:arm_itm-1: Unhandled sync: 00
+1614:arm_itm-1: Unhandled sync: 00
+1626:arm_itm-1: Unhandled sync: 00
+1639:arm_itm-1: Unhandled sync: 00
+1651:arm_itm-1: Unhandled sync: 00
+1663:arm_itm-1: Unhandled sync: 00
+1676:arm_itm-1: Unhandled sync: 00
+1689:arm_itm-1: Unhandled sync: 00
+1701:arm_itm-1: Unhandled sync: 00
+1713:arm_itm-1: Unhandled sync: 00
+1725:arm_itm-1: Unhandled sync: 00
+1738:arm_itm-1: Unhandled sync: 00
+1751:arm_itm-1: Unhandled sync: 00
+1764:arm_itm-1: Unhandled sync: 00
+1777:arm_itm-1: Unhandled sync: 00
+1790:arm_itm-1: Unhandled sync: 00
+1802:arm_itm-1: Unhandled sync: 00
+1814:arm_itm-1: Unhandled sync: 00
+1827:arm_itm-1: Unhandled sync: 00
+1839:arm_itm-1: Unhandled sync: 00
+1851:arm_itm-1: Unhandled sync: 00
+1864:arm_itm-1: Unhandled sync: 00
+1877:arm_itm-1: Unhandled sync: 00
+1890:arm_itm-1: Unhandled sync: 00
+1902:arm_itm-1: Unhandled sync: 00
+1914:arm_itm-1: Unhandled sync: 00
+1926:arm_itm-1: Unhandled sync: 00
+1939:arm_itm-1: Unhandled sync: 00
+1952:arm_itm-1: Unhandled sync: 00
+1965:arm_itm-1: Unhandled sync: 00
+1978:arm_itm-1: Unhandled sync: 00
+1991:arm_itm-1: Unhandled sync: 00
+2003:arm_itm-1: Unhandled sync: 00
+2015:arm_itm-1: Unhandled sync: 00
+2028:arm_itm-1: Unhandled sync: 00
+2041:arm_itm-1: Unhandled sync: 00
+2054:arm_itm-1: Unhandled sync: 00
+2067:arm_itm-1: Unhandled sync: 00
+2079:arm_itm-1: Unhandled sync: 00
+2092:arm_itm-1: Unhandled sync: 00
+2105:arm_itm-1: Unhandled sync: 00
+2118:arm_itm-1: Unhandled sync: 00
+2131:arm_itm-1: Unhandled sync: 00
+2143:arm_itm-1: Unhandled sync: 00
+2156:arm_itm-1: Unhandled sync: 00
+2169:arm_itm-1: Unhandled sync: 00
+2182:arm_itm-1: Unhandled sync: 00
+2195:arm_itm-1: Unhandled sync: 00
+2208:arm_itm-1: Unhandled sync: 00
+2221:arm_itm-1: Unhandled sync: 00
+2233:arm_itm-1: Unhandled sync: 00
+2246:arm_itm-1: Unhandled sync: 00
+2259:arm_itm-1: Unhandled sync: 00
+2272:arm_itm-1: Unhandled sync: 00
+2285:arm_itm-1: Unhandled sync: 00
+2298:arm_itm-1: Unhandled sync: 00
+2310:arm_itm-1: Unhandled sync: 00
+2322:arm_itm-1: Unhandled sync: 00
+2335:arm_itm-1: Unhandled sync: 00
+2348:arm_itm-1: Unhandled sync: 00
+2361:arm_itm-1: Unhandled sync: 00
+2374:arm_itm-1: Unhandled sync: 00
+2387:arm_itm-1: Unhandled sync: 00
+2400:arm_itm-1: Unhandled sync: 00
+2413:arm_itm-1: Unhandled sync: 00
+2425:arm_itm-1: Unhandled sync: 00
+2437:arm_itm-1: Unhandled sync: 00
+2450:arm_itm-1: Unhandled sync: 00
+2463:arm_itm-1: Unhandled sync: 00
+2475:arm_itm-1: Unhandled sync: 00
+2487:arm_itm-1: Unhandled sync: 00
+2500:arm_itm-1: Unhandled sync: 00
+2513:arm_itm-1: Unhandled sync: 00
+2526:arm_itm-1: Unhandled sync: 00
+2539:arm_itm-1: Unhandled sync: 00
+2551:arm_itm-1: Unhandled sync: 00
+2564:arm_itm-1: Unhandled sync: 00
+2577:arm_itm-1: Unhandled sync: 00
+2590:arm_itm-1: Unhandled sync: 00
+2603:arm_itm-1: Unhandled sync: 00
+2616:arm_itm-1: Unhandled sync: 00
+2628:arm_itm-1: Unhandled sync: 00
+2641:arm_itm-1: Unhandled sync: 00
+2653:arm_itm-1: Unhandled sync: 00
+2665:arm_itm-1: Unhandled sync: 00
+2678:arm_itm-1: Unhandled sync: 00
+2690:arm_itm-1: Unhandled sync: 00
+2702:arm_itm-1: Unhandled sync: 00
+2715:arm_itm-1: Unhandled sync: 00
+2728:arm_itm-1: Unhandled sync: 00
+2741:arm_itm-1: Unhandled sync: 00
+2753:arm_itm-1: Unhandled sync: 00
+2766:arm_itm-1: Unhandled sync: 00
+2779:arm_itm-1: Unhandled sync: 00
+2792:arm_itm-1: Unhandled sync: 00
+2805:arm_itm-1: Unhandled sync: 00
+2818:arm_itm-1: Unhandled sync: 00
+2831:arm_itm-1: Unhandled sync: 00
+2843:arm_itm-1: Unhandled sync: 00
+2856:arm_itm-1: Unhandled sync: 00
+2868:arm_itm-1: Unhandled sync: 00
+2880:arm_itm-1: Unhandled sync: 00
+2893:arm_itm-1: Unhandled sync: 00
+2905:arm_itm-1: Unhandled sync: 00
+2917:arm_itm-1: Unhandled sync: 00
+2930:arm_itm-1: Unhandled sync: 00
+2943:arm_itm-1: Unhandled sync: 00
+2956:arm_itm-1: Unhandled sync: 00
+2968:arm_itm-1: Unhandled sync: 00
+2981:arm_itm-1: Unhandled sync: 00
+2994:arm_itm-1: Unhandled sync: 00
+3007:arm_itm-1: Unhandled sync: 00
+3020:arm_itm-1: Unhandled sync: 00
+3033:arm_itm-1: Unhandled sync: 00
+3046:arm_itm-1: Unhandled sync: 00
+3059:arm_itm-1: Unhandled sync: 00
+3071:arm_itm-1: Unhandled sync: 00
+3083:arm_itm-1: Unhandled sync: 00
+3095:arm_itm-1: Unhandled sync: 00
+3108:arm_itm-1: Unhandled sync: 00
+3120:arm_itm-1: Unhandled sync: 00
+3132:arm_itm-1: Unhandled sync: 00
+3145:arm_itm-1: Unhandled sync: 00
+3158:arm_itm-1: Unhandled sync: 00
+3170:arm_itm-1: Unhandled sync: 00
+3182:arm_itm-1: Unhandled sync: 00
+3194:arm_itm-1: Unhandled sync: 00
+3206:arm_itm-1: Unhandled sync: 00
+3219:arm_itm-1: Unhandled sync: 00
+3232:arm_itm-1: Unhandled sync: 00
+3245:arm_itm-1: Unhandled sync: 00
+3258:arm_itm-1: Unhandled sync: 00
+3271:arm_itm-1: Unhandled sync: 00
+3283:arm_itm-1: Unhandled sync: 00
+3295:arm_itm-1: Unhandled sync: 00
+3308:arm_itm-1: Unhandled sync: 00
+3320:arm_itm-1: Unhandled sync: 00
+3332:arm_itm-1: Unhandled sync: 00
+3345:arm_itm-1: Unhandled sync: 00
+3358:arm_itm-1: Unhandled sync: 00
+3371:arm_itm-1: Unhandled sync: 00
+3384:arm_itm-1: Unhandled sync: 00
+3396:arm_itm-1: Unhandled sync: 00
+3409:arm_itm-1: Unhandled sync: 00
+3422:arm_itm-1: Unhandled sync: 00
+3435:arm_itm-1: Unhandled sync: 00
+3448:arm_itm-1: Unhandled sync: 00
+3461:arm_itm-1: Unhandled sync: 00
+3473:arm_itm-1: Unhandled sync: 00
+3485:arm_itm-1: Unhandled sync: 00
+3542:arm_itm-1: PC: 0x08001154
+3576:arm_itm-1: Timestamp: 1023 (exact)
+3610:arm_itm-1: Enter: IRQ 30
+3644:arm_itm-1: Timestamp: 1467 (exact)
+3678:arm_itm-1: IRQ 30
+3679:arm_itm-1: Exit: IRQ 30
+3713:arm_itm-1: Timestamp: 1791 (exact)
+3747:arm_itm-1: Resume: Thread
+3782:arm_itm-1: Timestamp: 10096 (timestamp delayed)
+3806:arm_itm-1: 2: 0xcf
+3819:arm_itm-1: Unhandled sync: 00
+3831:arm_itm-1: Unhandled sw_extension: 08
+3865:arm_itm-1: Timestamp: 10815 (event and timestamp delayed)
+3921:arm_itm-1: PC: 0x08001214
+3955:arm_itm-1: Timestamp: 11528 (event and timestamp delayed)
+4011:arm_itm-1: PC: 0x08001636
+4045:arm_itm-1: Timestamp: 12247 (timestamp delayed)
+4101:arm_itm-1: PC: 0x08001848
+4135:arm_itm-1: Timestamp: 13192 (exact)
+4191:arm_itm-1: PC: 0x08002c1e
+4225:arm_itm-1: Timestamp: 14215 (exact)
+4281:arm_itm-1: PC: 0x0800163a
+4315:arm_itm-1: Timestamp: 15238 (exact)
+4371:arm_itm-1: PC: 0x08001b7e
+4405:arm_itm-1: Timestamp: 16261 (exact)
+4461:arm_itm-1: PC: 0x08001f42
+4495:arm_itm-1: Timestamp: 17284 (exact)
+4551:arm_itm-1: PC: 0x08001b1a
+4585:arm_itm-1: Timestamp: 18307 (exact)
+4641:arm_itm-1: PC: 0x08001df4
+4675:arm_itm-1: Timestamp: 19330 (exact)
+4731:arm_itm-1: PC: 0x08001d6c
+4765:arm_itm-1: Timestamp: 20353 (exact)
+4799:arm_itm-1: Thread
+4800:arm_itm-1: Enter: SVCall
+4834:arm_itm-1: Timestamp: 20708 (exact)
+4868:arm_itm-1: SVCall
+4869:arm_itm-1: Exit: SVCall
+4892:arm_itm-1: Timestamp: 20740 (exact)
+4926:arm_itm-1: Resume: Thread
+4960:arm_itm-1: Timestamp: 21254 (event and timestamp delayed)
+5016:arm_itm-1: PC: 0x08001862
+5050:arm_itm-1: Timestamp: 21973 (event and timestamp delayed)
+5084:arm_itm-1: Thread
+5085:arm_itm-1: Enter: PendSV
+5097:arm_itm-1: Overflow
+5131:arm_itm-1: PendSV
+5132:arm_itm-1: Resume: Thread
+5188:arm_itm-1: PC: 0x08002160
+5222:arm_itm-1: Timestamp: 23232 (event and timestamp delayed)
+5256:arm_itm-1: Thread
+5257:arm_itm-1: Enter: PendSV
+5291:arm_itm-1: PendSV
+5292:arm_itm-1: Exit: PendSV
+5326:arm_itm-1: Resume: Thread
+5338:arm_itm-1: Overflow
+5394:arm_itm-1: PC: 0x08001a64
+5428:arm_itm-1: Thread
+5429:arm_itm-1: Enter: PendSV
+5441:arm_itm-1: Overflow
+5475:arm_itm-1: PendSV
+5476:arm_itm-1: Resume: Thread
+5532:arm_itm-1: PC: 0x080020aa
+5566:arm_itm-1: Timestamp: 25931 (event and timestamp delayed)
+5622:arm_itm-1: PC: 0x080020c6
+5656:arm_itm-1: Timestamp: 26740 (timestamp delayed)
+5712:arm_itm-1: PC: 0x080020c2
+5746:arm_itm-1: Timestamp: 27513 (exact)
+5802:arm_itm-1: PC: 0x080020a8
+5836:arm_itm-1: Timestamp: 28536 (exact)
+5892:arm_itm-1: PC: 0x080020b0
+5926:arm_itm-1: Timestamp: 29559 (exact)
+5982:arm_itm-1: PC: 0x080020c8
+6016:arm_itm-1: Timestamp: 30582 (exact)
+6072:arm_itm-1: PC: 0x0800206c
+6106:arm_itm-1: Timestamp: 31605 (exact)
+6162:arm_itm-1: PC: 0x080020a8
+6196:arm_itm-1: Timestamp: 32628 (exact)
+6252:arm_itm-1: PC: 0x080020b0
+6286:arm_itm-1: Timestamp: 33651 (exact)
+6342:arm_itm-1: PC: 0x080020cc
+6376:arm_itm-1: Timestamp: 34674 (exact)
+6432:arm_itm-1: PC: 0x0800206c
+6466:arm_itm-1: Timestamp: 35697 (exact)
+6522:arm_itm-1: PC: 0x080020aa
+6556:arm_itm-1: Timestamp: 36720 (exact)
+6612:arm_itm-1: PC: 0x080020c6
+6646:arm_itm-1: Timestamp: 37743 (exact)
+6702:arm_itm-1: PC: 0x080020cc
+6736:arm_itm-1: Timestamp: 38766 (exact)
+6792:arm_itm-1: PC: 0x0800206e
+6826:arm_itm-1: Timestamp: 39789 (exact)
+6882:arm_itm-1: PC: 0x080020a8
+6916:arm_itm-1: Timestamp: 40812 (exact)
+6972:arm_itm-1: PC: 0x080020b0
+7006:arm_itm-1: Timestamp: 41835 (exact)
+7062:arm_itm-1: PC: 0x080020cc
+7096:arm_itm-1: Timestamp: 42858 (exact)
+7152:arm_itm-1: PC: 0x0800206e
+7186:arm_itm-1: Timestamp: 43881 (exact)
+7242:arm_itm-1: PC: 0x080020aa
+7276:arm_itm-1: Timestamp: 44904 (exact)
+7332:arm_itm-1: PC: 0x080020b0
+7366:arm_itm-1: Timestamp: 45927 (exact)
+7422:arm_itm-1: PC: 0x080020cc
+7456:arm_itm-1: Timestamp: 46950 (exact)
+7512:arm_itm-1: PC: 0x0800206e
+7546:arm_itm-1: Timestamp: 47973 (exact)
+7602:arm_itm-1: PC: 0x080020aa
+7636:arm_itm-1: Timestamp: 48996 (exact)
+7692:arm_itm-1: PC: 0x080020c6
+7726:arm_itm-1: Timestamp: 50019 (exact)
+7782:arm_itm-1: PC: 0x080020c2
+7816:arm_itm-1: Timestamp: 51042 (exact)
+7872:arm_itm-1: PC: 0x0800206e
+7906:arm_itm-1: Timestamp: 52065 (exact)
+7962:arm_itm-1: PC: 0x080020b0
+7996:arm_itm-1: Timestamp: 53088 (exact)
+8052:arm_itm-1: PC: 0x080020c8
+8086:arm_itm-1: Timestamp: 54111 (exact)
+8142:arm_itm-1: PC: 0x0800206c
+8176:arm_itm-1: Timestamp: 55134 (exact)
+8232:arm_itm-1: PC: 0x080020a8
+8266:arm_itm-1: Timestamp: 56157 (exact)
+8322:arm_itm-1: PC: 0x080020c6
+8356:arm_itm-1: Timestamp: 57180 (exact)
+8412:arm_itm-1: PC: 0x080020cc
+8446:arm_itm-1: Timestamp: 58203 (exact)
+8502:arm_itm-1: PC: 0x0800206e
+8536:arm_itm-1: Timestamp: 59226 (exact)
+8592:arm_itm-1: PC: 0x080020b0
+8626:arm_itm-1: Timestamp: 60249 (exact)
+8682:arm_itm-1: PC: 0x080020c6
+8716:arm_itm-1: Timestamp: 61272 (exact)
+8772:arm_itm-1: PC: 0x080020c2
+8806:arm_itm-1: Timestamp: 62295 (exact)
+8862:arm_itm-1: PC: 0x080020a8
+8896:arm_itm-1: Timestamp: 63318 (exact)
+8952:arm_itm-1: PC: 0x080020b0
+8986:arm_itm-1: Timestamp: 64341 (exact)
+9042:arm_itm-1: PC: 0x080020c8
+9076:arm_itm-1: Timestamp: 65364 (exact)
+9132:arm_itm-1: PC: 0x080020c2
+9166:arm_itm-1: Timestamp: 66387 (exact)
+9222:arm_itm-1: PC: 0x080020a8
+9256:arm_itm-1: Timestamp: 67410 (exact)
+9312:arm_itm-1: PC: 0x080020c6
+9346:arm_itm-1: Timestamp: 68433 (exact)
+9402:arm_itm-1: PC: 0x080020ca
+9436:arm_itm-1: Timestamp: 69456 (exact)
+9492:arm_itm-1: PC: 0x0800206c
+9526:arm_itm-1: Timestamp: 70479 (exact)
+9582:arm_itm-1: PC: 0x080020a8
+9616:arm_itm-1: Timestamp: 71502 (exact)
+9672:arm_itm-1: PC: 0x080020b0
+9706:arm_itm-1: Timestamp: 72525 (exact)
+9762:arm_itm-1: PC: 0x080020c8
+9796:arm_itm-1: Timestamp: 73548 (exact)
+9852:arm_itm-1: PC: 0x080020c2
+9886:arm_itm-1: Timestamp: 74571 (exact)
+9942:arm_itm-1: PC: 0x080020a8
+9976:arm_itm-1: Timestamp: 75594 (exact)
+10032:arm_itm-1: PC: 0x080020b0
+10066:arm_itm-1: Timestamp: 76617 (exact)
+10122:arm_itm-1: PC: 0x080020c6
+10156:arm_itm-1: Timestamp: 77640 (exact)
+10212:arm_itm-1: PC: 0x080020c2
+10246:arm_itm-1: Timestamp: 78663 (exact)
+10302:arm_itm-1: PC: 0x080020a8
+10336:arm_itm-1: Timestamp: 79686 (exact)
+10392:arm_itm-1: PC: 0x080020c6
+10426:arm_itm-1: Timestamp: 80709 (exact)
+10460:arm_itm-1: Thread
+10461:arm_itm-1: Enter: IRQ 30
+10495:arm_itm-1: Timestamp: 81473 (exact)
+10529:arm_itm-1: Watchpoint 0: address 0x????1410
+10585:arm_itm-1: Watchpoint 0: Write data 0x00040000
+10619:arm_itm-1: Timestamp: 81710 (exact)
+10631:arm_itm-1: Overflow
+10665:arm_itm-1: IRQ 30
+10666:arm_itm-1: Resume: Thread
+10678:arm_itm-1: Overflow
+10712:arm_itm-1: Thread
+10713:arm_itm-1: Exit: SysTick
+10747:arm_itm-1: Resume: Thread
+10759:arm_itm-1: Overflow
+10815:arm_itm-1: PC: 0x080020c6
+10849:arm_itm-1: Timestamp: 83366 (event and timestamp delayed)
+10905:arm_itm-1: PC: 0x080020c2
+10939:arm_itm-1: Timestamp: 84175 (event and timestamp delayed)
+10995:arm_itm-1: PC: 0x080020a8
+11029:arm_itm-1: Timestamp: 84894 (timestamp delayed)
+11085:arm_itm-1: PC: 0x080020b0
+11119:arm_itm-1: Timestamp: 85823 (exact)
+11175:arm_itm-1: PC: 0x080020c6
+11209:arm_itm-1: Timestamp: 86846 (exact)
+11265:arm_itm-1: PC: 0x080020c2
+11299:arm_itm-1: Timestamp: 87869 (exact)
+11355:arm_itm-1: PC: 0x080020a8
+11389:arm_itm-1: Timestamp: 88892 (exact)
+11445:arm_itm-1: PC: 0x080020b0
+11479:arm_itm-1: Timestamp: 89915 (exact)
+11535:arm_itm-1: PC: 0x080020cc
+11569:arm_itm-1: Timestamp: 90938 (exact)
+11625:arm_itm-1: PC: 0x0800206c
+11659:arm_itm-1: Timestamp: 91961 (exact)
+11715:arm_itm-1: PC: 0x080020a8
+11749:arm_itm-1: Timestamp: 92984 (exact)
+11805:arm_itm-1: PC: 0x080020c6
+11839:arm_itm-1: Timestamp: 94007 (exact)
+11895:arm_itm-1: PC: 0x080020c2
+11929:arm_itm-1: Timestamp: 95030 (exact)
+11985:arm_itm-1: PC: 0x0800206e
+12019:arm_itm-1: Timestamp: 96053 (exact)
+12075:arm_itm-1: PC: 0x080020b0
+12109:arm_itm-1: Timestamp: 97076 (exact)
+12165:arm_itm-1: PC: 0x080020c6
+12199:arm_itm-1: Timestamp: 98099 (exact)
+12255:arm_itm-1: PC: 0x080020c2
+12289:arm_itm-1: Timestamp: 99122 (exact)
+12345:arm_itm-1: PC: 0x080020a8
+12379:arm_itm-1: Timestamp: 100145 (exact)
+12435:arm_itm-1: PC: 0x080020c6
+12469:arm_itm-1: Timestamp: 101168 (exact)
+12525:arm_itm-1: PC: 0x080020cc
+12559:arm_itm-1: Timestamp: 102191 (exact)
+12615:arm_itm-1: PC: 0x0800206e
+12649:arm_itm-1: Timestamp: 103214 (exact)
+12705:arm_itm-1: PC: 0x080020ac
+12739:arm_itm-1: Timestamp: 104237 (exact)
+12795:arm_itm-1: PC: 0x080020c6
+12829:arm_itm-1: Timestamp: 105260 (exact)
+12885:arm_itm-1: PC: 0x080020c2
+12919:arm_itm-1: Timestamp: 106283 (exact)
+12975:arm_itm-1: PC: 0x0800206e
+13009:arm_itm-1: Timestamp: 107306 (exact)
+13065:arm_itm-1: PC: 0x080020b0
+13099:arm_itm-1: Timestamp: 108329 (exact)
+13155:arm_itm-1: PC: 0x080020c6
+13189:arm_itm-1: Timestamp: 109352 (exact)
+13245:arm_itm-1: PC: 0x080020c2
+13279:arm_itm-1: Timestamp: 110375 (exact)
+13335:arm_itm-1: PC: 0x080020a8
+13369:arm_itm-1: Timestamp: 111398 (exact)
+13425:arm_itm-1: PC: 0x080020a8
+13459:arm_itm-1: Timestamp: 112421 (exact)
+13515:arm_itm-1: PC: 0x080020c6
+13549:arm_itm-1: Timestamp: 113444 (exact)
+13605:arm_itm-1: PC: 0x080020c2
+13639:arm_itm-1: Timestamp: 114467 (exact)
+13695:arm_itm-1: PC: 0x0800206e
+13729:arm_itm-1: Timestamp: 115490 (exact)
+13785:arm_itm-1: PC: 0x080020b0
+13819:arm_itm-1: Timestamp: 116513 (exact)
+13875:arm_itm-1: PC: 0x080020c6
+13909:arm_itm-1: Timestamp: 117536 (exact)
+13965:arm_itm-1: PC: 0x080020cc
+13999:arm_itm-1: Timestamp: 118559 (exact)
+14055:arm_itm-1: PC: 0x0800206e
+14089:arm_itm-1: Timestamp: 119582 (exact)
+14145:arm_itm-1: PC: 0x080020b0
+14179:arm_itm-1: Timestamp: 120605 (exact)
+14235:arm_itm-1: PC: 0x080020c6
+14269:arm_itm-1: Timestamp: 121628 (exact)
+14325:arm_itm-1: PC: 0x080020c2
+14359:arm_itm-1: Timestamp: 122651 (exact)
+14415:arm_itm-1: PC: 0x080020a8
+14449:arm_itm-1: Timestamp: 123674 (exact)
+14505:arm_itm-1: PC: 0x080020b0
+14539:arm_itm-1: Timestamp: 124697 (exact)
+14595:arm_itm-1: PC: 0x080020cc
+14629:arm_itm-1: Timestamp: 125720 (exact)
+14685:arm_itm-1: PC: 0x0800206e
+14719:arm_itm-1: Timestamp: 126743 (exact)
+14775:arm_itm-1: PC: 0x080020a8
+14809:arm_itm-1: Timestamp: 127766 (exact)
+14865:arm_itm-1: PC: 0x080020c6
+14899:arm_itm-1: Timestamp: 128789 (exact)
+14955:arm_itm-1: PC: 0x080020c2
+14989:arm_itm-1: Timestamp: 129812 (exact)
+15045:arm_itm-1: PC: 0x080020a8
+15079:arm_itm-1: Timestamp: 130835 (exact)
+15135:arm_itm-1: PC: 0x080020b0
+15169:arm_itm-1: Timestamp: 131858 (exact)
+15225:arm_itm-1: PC: 0x080020c6
+15259:arm_itm-1: Timestamp: 132881 (exact)
+15315:arm_itm-1: PC: 0x080020c2
+15349:arm_itm-1: Timestamp: 133904 (exact)
+15405:arm_itm-1: PC: 0x080020a8
+15439:arm_itm-1: Timestamp: 134927 (exact)
+15495:arm_itm-1: PC: 0x080020b0
+15529:arm_itm-1: Timestamp: 135950 (exact)
+15585:arm_itm-1: PC: 0x080020cc
+15619:arm_itm-1: Timestamp: 136973 (exact)
+15675:arm_itm-1: PC: 0x0800206e
+15709:arm_itm-1: Timestamp: 137996 (exact)
+15765:arm_itm-1: PC: 0x080020a8
+15799:arm_itm-1: Timestamp: 139019 (exact)
+15855:arm_itm-1: PC: 0x080020c6
+15889:arm_itm-1: Timestamp: 140042 (exact)
+15945:arm_itm-1: PC: 0x080020cc
+15979:arm_itm-1: Timestamp: 141065 (exact)
+16035:arm_itm-1: PC: 0x0800206e
+16069:arm_itm-1: Timestamp: 142088 (exact)
+16125:arm_itm-1: PC: 0x080020ae
+16159:arm_itm-1: Timestamp: 143111 (exact)
+16215:arm_itm-1: PC: 0x080020b0
+16249:arm_itm-1: Timestamp: 144134 (exact)
+16305:arm_itm-1: PC: 0x080020cc
+16339:arm_itm-1: Timestamp: 145157 (exact)
+16395:arm_itm-1: PC: 0x0800206c
+16429:arm_itm-1: Timestamp: 146180 (exact)
+16485:arm_itm-1: PC: 0x080020aa
+16519:arm_itm-1: Timestamp: 147203 (exact)
+16575:arm_itm-1: PC: 0x080020c6
+16609:arm_itm-1: Timestamp: 148226 (exact)
+16665:arm_itm-1: PC: 0x080020c8
+16699:arm_itm-1: Timestamp: 149249 (exact)
+16755:arm_itm-1: PC: 0x0800206c
+16789:arm_itm-1: Timestamp: 150272 (exact)
+16845:arm_itm-1: PC: 0x080020a8
+16879:arm_itm-1: Timestamp: 151295 (exact)
+16935:arm_itm-1: PC: 0x080020c6
+16969:arm_itm-1: Timestamp: 152318 (exact)
+17025:arm_itm-1: PC: 0x080020c2
+17059:arm_itm-1: Timestamp: 153341 (exact)
+17093:arm_itm-1: Thread
+17094:arm_itm-1: Enter: IRQ 30
+17117:arm_itm-1: Timestamp: 153401 (exact)
+17151:arm_itm-1: Watchpoint 0: address 0x????1410
+17207:arm_itm-1: Watchpoint 0: Write data 0x00000004
+17219:arm_itm-1: Overflow
+17253:arm_itm-1: IRQ 30
+17254:arm_itm-1: Resume: Thread
+17310:arm_itm-1: PC: 0x080020b0
+17344:arm_itm-1: Timestamp: 154872 (event and timestamp delayed)
+17400:arm_itm-1: PC: 0x080020cc
+17434:arm_itm-1: Timestamp: 155681 (event and timestamp delayed)
+17490:arm_itm-1: PC: 0x0800206e
+17524:arm_itm-1: Timestamp: 156409 (exact)
+17580:arm_itm-1: PC: 0x080020ae
+17614:arm_itm-1: Timestamp: 157432 (exact)
+17670:arm_itm-1: PC: 0x080020c6
+17704:arm_itm-1: Timestamp: 158455 (exact)
+17760:arm_itm-1: PC: 0x080020c2
+17794:arm_itm-1: Timestamp: 159478 (exact)
+17850:arm_itm-1: PC: 0x080020a8
+17884:arm_itm-1: Timestamp: 160501 (exact)
+17940:arm_itm-1: PC: 0x080020b0
+17974:arm_itm-1: Timestamp: 161524 (exact)
+18030:arm_itm-1: PC: 0x080020ca
+18064:arm_itm-1: Timestamp: 162547 (exact)
+18120:arm_itm-1: PC: 0x0800206c
+18154:arm_itm-1: Timestamp: 163570 (exact)
+18210:arm_itm-1: PC: 0x080020a8
+18244:arm_itm-1: Timestamp: 164593 (exact)
+18300:arm_itm-1: PC: 0x080020c6
+18334:arm_itm-1: Timestamp: 165616 (exact)
+18390:arm_itm-1: PC: 0x080020c2
+18424:arm_itm-1: Timestamp: 166639 (exact)
+18480:arm_itm-1: PC: 0x0800206e
+18514:arm_itm-1: Timestamp: 167662 (exact)
+18570:arm_itm-1: PC: 0x080020b0
+18604:arm_itm-1: Timestamp: 168685 (exact)
+18660:arm_itm-1: PC: 0x080020c6
+18694:arm_itm-1: Timestamp: 169708 (exact)
+18750:arm_itm-1: PC: 0x080020c2
+18784:arm_itm-1: Timestamp: 170731 (exact)
+18840:arm_itm-1: PC: 0x080020a8
+18874:arm_itm-1: Timestamp: 171754 (exact)
+18930:arm_itm-1: PC: 0x080020b0
+18964:arm_itm-1: Timestamp: 172777 (exact)
+19020:arm_itm-1: PC: 0x080020ca
+19054:arm_itm-1: Timestamp: 173800 (exact)
+19110:arm_itm-1: PC: 0x0800206c
+19144:arm_itm-1: Timestamp: 174823 (exact)
+19200:arm_itm-1: PC: 0x080020a8
+19234:arm_itm-1: Timestamp: 175846 (exact)
+19290:arm_itm-1: PC: 0x080020b0
+19324:arm_itm-1: Timestamp: 176869 (exact)
+19380:arm_itm-1: PC: 0x080020cc
+19414:arm_itm-1: Timestamp: 177892 (exact)
+19470:arm_itm-1: PC: 0x0800206e
+19504:arm_itm-1: Timestamp: 178915 (exact)
+19560:arm_itm-1: PC: 0x080020a8
+19594:arm_itm-1: Timestamp: 179938 (exact)
+19650:arm_itm-1: PC: 0x080020b0
+19684:arm_itm-1: Timestamp: 180961 (exact)
+19740:arm_itm-1: PC: 0x080020c8
+19774:arm_itm-1: Timestamp: 181984 (exact)
+19830:arm_itm-1: PC: 0x0800206c
+19864:arm_itm-1: Timestamp: 183007 (exact)
+19920:arm_itm-1: PC: 0x080020a8
+19954:arm_itm-1: Timestamp: 184030 (exact)
+20010:arm_itm-1: PC: 0x080020b0
+20044:arm_itm-1: Timestamp: 185053 (exact)
+20100:arm_itm-1: PC: 0x080020c8
+20134:arm_itm-1: Timestamp: 186076 (exact)
+20190:arm_itm-1: PC: 0x0800206c
+20224:arm_itm-1: Timestamp: 187099 (exact)
+20280:arm_itm-1: PC: 0x080020a8
+20314:arm_itm-1: Timestamp: 188122 (exact)
+20370:arm_itm-1: PC: 0x080020c6
+20404:arm_itm-1: Timestamp: 189145 (exact)
+20460:arm_itm-1: PC: 0x080020cc
+20494:arm_itm-1: Timestamp: 190168 (exact)
+20550:arm_itm-1: PC: 0x0800206e
+20584:arm_itm-1: Timestamp: 191191 (exact)
+20640:arm_itm-1: PC: 0x080020ae
+20674:arm_itm-1: Timestamp: 192214 (exact)
+20730:arm_itm-1: PC: 0x080020c6
+20764:arm_itm-1: Timestamp: 193237 (exact)
+20820:arm_itm-1: PC: 0x080020c2
+20854:arm_itm-1: Timestamp: 194260 (exact)
+20910:arm_itm-1: PC: 0x080020a8
+20944:arm_itm-1: Timestamp: 195283 (exact)
+21000:arm_itm-1: PC: 0x080020b0
+21034:arm_itm-1: Timestamp: 196306 (exact)
+21090:arm_itm-1: PC: 0x080020cc
+21124:arm_itm-1: Timestamp: 197329 (exact)
+21180:arm_itm-1: PC: 0x0800206e
+21214:arm_itm-1: Timestamp: 198352 (exact)
+21270:arm_itm-1: PC: 0x080020aa
+21304:arm_itm-1: Timestamp: 199375 (exact)
+21360:arm_itm-1: PC: 0x080020c6
+21394:arm_itm-1: Timestamp: 200398 (exact)
+21450:arm_itm-1: PC: 0x080020c2
+21484:arm_itm-1: Timestamp: 201421 (exact)
+21540:arm_itm-1: PC: 0x0800206e
+21574:arm_itm-1: Timestamp: 202444 (exact)
+21630:arm_itm-1: PC: 0x080020ae
+21664:arm_itm-1: Timestamp: 203467 (exact)
+21720:arm_itm-1: PC: 0x080020c6
+21754:arm_itm-1: Timestamp: 204490 (exact)
+21810:arm_itm-1: PC: 0x080020c2
+21844:arm_itm-1: Timestamp: 205513 (exact)
+21900:arm_itm-1: PC: 0x080020a8
+21934:arm_itm-1: Timestamp: 206536 (exact)
+21990:arm_itm-1: PC: 0x080020b0
+22024:arm_itm-1: Timestamp: 207559 (exact)
+22080:arm_itm-1: PC: 0x080020c6
+22114:arm_itm-1: Timestamp: 208582 (exact)
+22170:arm_itm-1: PC: 0x080020c2
+22204:arm_itm-1: Timestamp: 209605 (exact)
+22260:arm_itm-1: PC: 0x0800206e
+22294:arm_itm-1: Timestamp: 210628 (exact)
+22350:arm_itm-1: PC: 0x080020b0
+22384:arm_itm-1: Timestamp: 211651 (exact)
+22440:arm_itm-1: PC: 0x080020c6
+22474:arm_itm-1: Timestamp: 212674 (exact)
+22530:arm_itm-1: PC: 0x080020c2
+22564:arm_itm-1: Timestamp: 213697 (exact)
+22620:arm_itm-1: PC: 0x080020a8
+22654:arm_itm-1: Timestamp: 214720 (exact)
+22710:arm_itm-1: PC: 0x080020aa
+22744:arm_itm-1: Timestamp: 215743 (exact)
+22800:arm_itm-1: PC: 0x080020c6
+22834:arm_itm-1: Timestamp: 216766 (exact)
+22890:arm_itm-1: PC: 0x080020c2
+22924:arm_itm-1: Timestamp: 217789 (exact)
+22980:arm_itm-1: PC: 0x080020a8
+23014:arm_itm-1: Timestamp: 218812 (exact)
+23070:arm_itm-1: PC: 0x080020b0
+23104:arm_itm-1: Timestamp: 219835 (exact)
+23160:arm_itm-1: PC: 0x080020c8
+23194:arm_itm-1: Timestamp: 220858 (exact)
+23250:arm_itm-1: PC: 0x0800206c
+23284:arm_itm-1: Timestamp: 221881 (exact)
+23340:arm_itm-1: PC: 0x080020a8
+23374:arm_itm-1: Timestamp: 222904 (exact)
+23430:arm_itm-1: PC: 0x080020c6
+23464:arm_itm-1: Timestamp: 223927 (exact)
+23520:arm_itm-1: PC: 0x080020c2
+23554:arm_itm-1: Timestamp: 224950 (exact)
+23588:arm_itm-1: Thread
+23589:arm_itm-1: Enter: IRQ 30
+23623:arm_itm-1: Timestamp: 225330 (exact)
+23657:arm_itm-1: Watchpoint 0: address 0x????1410
+23713:arm_itm-1: Watchpoint 0: Write data 0x00040000
+23725:arm_itm-1: Overflow
+23759:arm_itm-1: IRQ 30
+23760:arm_itm-1: Enter: SysTick
+23772:arm_itm-1: Overflow
+23806:arm_itm-1: SysTick
+23807:arm_itm-1: Resume: Thread
+23863:arm_itm-1: PC: 0x08001ed6
+23897:arm_itm-1: Timestamp: 226927 (event and timestamp delayed)
+23953:arm_itm-1: PC: 0x080020c2
+23987:arm_itm-1: Timestamp: 227736 (event and timestamp delayed)
+24043:arm_itm-1: PC: 0x080020a8
+24077:arm_itm-1: Timestamp: 228455 (event and timestamp delayed)
+24133:arm_itm-1: PC: 0x080020b0
+24167:arm_itm-1: Timestamp: 229174 (timestamp delayed)
+24223:arm_itm-1: PC: 0x080020c8
+24257:arm_itm-1: Timestamp: 230064 (exact)
+24313:arm_itm-1: PC: 0x080020c2
+24347:arm_itm-1: Timestamp: 231087 (exact)
+24403:arm_itm-1: PC: 0x080020a8
+24437:arm_itm-1: Timestamp: 232110 (exact)
+24493:arm_itm-1: PC: 0x080020c6
+24527:arm_itm-1: Timestamp: 233133 (exact)
+24583:arm_itm-1: PC: 0x080020cc
+24617:arm_itm-1: Timestamp: 234156 (exact)
+24673:arm_itm-1: PC: 0x0800206e
+24707:arm_itm-1: Timestamp: 235179 (exact)
+24763:arm_itm-1: PC: 0x080020ac
+24797:arm_itm-1: Timestamp: 236202 (exact)
+24853:arm_itm-1: PC: 0x080020c6
+24887:arm_itm-1: Timestamp: 237225 (exact)
+24943:arm_itm-1: PC: 0x080020c2
+24977:arm_itm-1: Timestamp: 238248 (exact)
+25033:arm_itm-1: PC: 0x080020a8
+25067:arm_itm-1: Timestamp: 239271 (exact)
+25123:arm_itm-1: PC: 0x080020b0
+25157:arm_itm-1: Timestamp: 240294 (exact)
+25213:arm_itm-1: PC: 0x080020ca
+25247:arm_itm-1: Timestamp: 241317 (exact)
+25303:arm_itm-1: PC: 0x0800206c
+25337:arm_itm-1: Timestamp: 242340 (exact)
+25393:arm_itm-1: PC: 0x080020aa
+25427:arm_itm-1: Timestamp: 243363 (exact)
+25483:arm_itm-1: PC: 0x080020c6
+25517:arm_itm-1: Timestamp: 244386 (exact)
+25573:arm_itm-1: PC: 0x080020cc
+25607:arm_itm-1: Timestamp: 245409 (exact)
+25663:arm_itm-1: PC: 0x0800206e
+25697:arm_itm-1: Timestamp: 246432 (exact)
+25753:arm_itm-1: PC: 0x080020ac
+25787:arm_itm-1: Timestamp: 247455 (exact)
+25843:arm_itm-1: PC: 0x080020c6
+25877:arm_itm-1: Timestamp: 248478 (exact)
+25933:arm_itm-1: PC: 0x080020c2
+25967:arm_itm-1: Timestamp: 249501 (exact)
+26023:arm_itm-1: PC: 0x0800206e
+26057:arm_itm-1: Timestamp: 250524 (exact)
+26113:arm_itm-1: PC: 0x080020a8
+26147:arm_itm-1: Timestamp: 251547 (exact)
+26203:arm_itm-1: PC: 0x080020c6
+26237:arm_itm-1: Timestamp: 252570 (exact)
+26293:arm_itm-1: PC: 0x080020cc
+26327:arm_itm-1: Timestamp: 253593 (exact)
+26383:arm_itm-1: PC: 0x0800206e
+26417:arm_itm-1: Timestamp: 254616 (exact)
+26473:arm_itm-1: PC: 0x080020ae
+26507:arm_itm-1: Timestamp: 255639 (exact)
+26563:arm_itm-1: PC: 0x080020b0
+26597:arm_itm-1: Timestamp: 256662 (exact)
+26653:arm_itm-1: PC: 0x080020cc
+26687:arm_itm-1: Timestamp: 257685 (exact)
+26743:arm_itm-1: PC: 0x0800206e
+26777:arm_itm-1: Timestamp: 258708 (exact)
+26833:arm_itm-1: PC: 0x080020ac
+26867:arm_itm-1: Timestamp: 259731 (exact)
+26923:arm_itm-1: PC: 0x080020c6
+26957:arm_itm-1: Timestamp: 260754 (exact)
+27013:arm_itm-1: PC: 0x080020c2
+27047:arm_itm-1: Timestamp: 261777 (exact)
+27103:arm_itm-1: PC: 0x080020a8
+27137:arm_itm-1: Timestamp: 262800 (exact)
+27193:arm_itm-1: PC: 0x080020b0
+27227:arm_itm-1: Timestamp: 263823 (exact)
+27283:arm_itm-1: PC: 0x080020c8
+27317:arm_itm-1: Timestamp: 264846 (exact)
+27373:arm_itm-1: PC: 0x0800206c
+27407:arm_itm-1: Timestamp: 265869 (exact)
+27463:arm_itm-1: PC: 0x080020a8
+27497:arm_itm-1: Timestamp: 266892 (exact)
+27553:arm_itm-1: PC: 0x080020c6
+27587:arm_itm-1: Timestamp: 267915 (exact)
+27643:arm_itm-1: PC: 0x080020cc
+27677:arm_itm-1: Timestamp: 268938 (exact)
+27733:arm_itm-1: PC: 0x0800206e
+27767:arm_itm-1: Timestamp: 269961 (exact)
+27823:arm_itm-1: PC: 0x080020b0
+27857:arm_itm-1: Timestamp: 270984 (exact)
+27913:arm_itm-1: PC: 0x080020c6
+27947:arm_itm-1: Timestamp: 272007 (exact)
+28003:arm_itm-1: PC: 0x080020c2
+28037:arm_itm-1: Timestamp: 273030 (exact)
+28093:arm_itm-1: PC: 0x080020a8
+28127:arm_itm-1: Timestamp: 274053 (exact)
+28183:arm_itm-1: PC: 0x080020b0
+28217:arm_itm-1: Timestamp: 275076 (exact)
+28273:arm_itm-1: PC: 0x080020c8
+28307:arm_itm-1: Timestamp: 276099 (exact)
+28363:arm_itm-1: PC: 0x080020c2
+28397:arm_itm-1: Timestamp: 277122 (exact)
+28453:arm_itm-1: PC: 0x080020a8
+28487:arm_itm-1: Timestamp: 278145 (exact)
+28543:arm_itm-1: PC: 0x080020c6
+28577:arm_itm-1: Timestamp: 279168 (exact)
+28633:arm_itm-1: PC: 0x080020cc
+28667:arm_itm-1: Timestamp: 280191 (exact)
+28723:arm_itm-1: PC: 0x0800206e
+28757:arm_itm-1: Timestamp: 281214 (exact)
+28813:arm_itm-1: PC: 0x080020a8
+28847:arm_itm-1: Timestamp: 282237 (exact)
+28903:arm_itm-1: PC: 0x080020b0
+28937:arm_itm-1: Timestamp: 283260 (exact)
+28993:arm_itm-1: PC: 0x080020ca
+29027:arm_itm-1: Timestamp: 284283 (exact)
+29083:arm_itm-1: PC: 0x0800206c
+29117:arm_itm-1: Timestamp: 285306 (exact)
+29173:arm_itm-1: PC: 0x080020a8
+29207:arm_itm-1: Timestamp: 286329 (exact)
+29263:arm_itm-1: PC: 0x080020b0
+29297:arm_itm-1: Timestamp: 287352 (exact)
+29353:arm_itm-1: PC: 0x080020c6
+29387:arm_itm-1: Timestamp: 288375 (exact)
+29443:arm_itm-1: PC: 0x080020c2
+29477:arm_itm-1: Timestamp: 289398 (exact)
+29533:arm_itm-1: PC: 0x080020a8
+29567:arm_itm-1: Timestamp: 290421 (exact)
+29623:arm_itm-1: PC: 0x080020c6
+29657:arm_itm-1: Timestamp: 291444 (exact)
+29713:arm_itm-1: PC: 0x080020cc
+29747:arm_itm-1: Timestamp: 292467 (exact)
+29803:arm_itm-1: PC: 0x0800206e
+29837:arm_itm-1: Timestamp: 293490 (exact)
+29893:arm_itm-1: PC: 0x080020ac
+29927:arm_itm-1: Timestamp: 294513 (exact)
+29983:arm_itm-1: PC: 0x080020c6
+30017:arm_itm-1: Timestamp: 295536 (exact)
+30073:arm_itm-1: PC: 0x080020c2
+30107:arm_itm-1: Timestamp: 296559 (exact)
+30141:arm_itm-1: Thread
+30142:arm_itm-1: Enter: IRQ 30
+30176:arm_itm-1: Timestamp: 297259 (exact)
+30210:arm_itm-1: Watchpoint 0: address 0x????1410
+30266:arm_itm-1: Watchpoint 0: Write data 0x00000004
+30300:arm_itm-1: Timestamp: 297514 (exact)
+30312:arm_itm-1: Overflow
+30346:arm_itm-1: IRQ 30
+30347:arm_itm-1: Resume: Thread
+30359:arm_itm-1: Overflow
+30393:arm_itm-1: Thread
+30394:arm_itm-1: Resume: Thread
+30450:arm_itm-1: PC: 0x08000a3e
+30506:arm_itm-1: PC: 0x080020cc
+30540:arm_itm-1: Timestamp: 299350 (event and timestamp delayed)
+30596:arm_itm-1: PC: 0x0800206e
+30630:arm_itm-1: Timestamp: 300069 (event and timestamp delayed)
+30686:arm_itm-1: PC: 0x080020ae
+30720:arm_itm-1: Timestamp: 300788 (timestamp delayed)
+30776:arm_itm-1: PC: 0x080020c6
+30810:arm_itm-1: Timestamp: 301673 (exact)
+30866:arm_itm-1: PC: 0x080020c2
+30900:arm_itm-1: Timestamp: 302696 (exact)
+30956:arm_itm-1: PC: 0x080020a8
+30990:arm_itm-1: Timestamp: 303719 (exact)
+31046:arm_itm-1: PC: 0x080020b0
+31080:arm_itm-1: Timestamp: 304742 (exact)
+31136:arm_itm-1: PC: 0x080020cc
+31170:arm_itm-1: Timestamp: 305765 (exact)
+31226:arm_itm-1: PC: 0x0800206e
+31260:arm_itm-1: Timestamp: 306788 (exact)
+31316:arm_itm-1: PC: 0x080020a8
+31350:arm_itm-1: Timestamp: 307811 (exact)
+31406:arm_itm-1: PC: 0x080020c6
+31440:arm_itm-1: Timestamp: 308834 (exact)
+31496:arm_itm-1: PC: 0x080020c2
+31530:arm_itm-1: Timestamp: 309857 (exact)
+31586:arm_itm-1: PC: 0x0800206e
+31620:arm_itm-1: Timestamp: 310880 (exact)
+31676:arm_itm-1: PC: 0x080020ae
+31710:arm_itm-1: Timestamp: 311903 (exact)
+31766:arm_itm-1: PC: 0x080020c6
+31800:arm_itm-1: Timestamp: 312926 (exact)
+31856:arm_itm-1: PC: 0x080020c2
+31890:arm_itm-1: Timestamp: 313949 (exact)
+31946:arm_itm-1: PC: 0x080020a8
+31980:arm_itm-1: Timestamp: 314972 (exact)
+32036:arm_itm-1: PC: 0x080020b0
+32070:arm_itm-1: Timestamp: 315995 (exact)
+32126:arm_itm-1: PC: 0x080020c6
+32160:arm_itm-1: Timestamp: 317018 (exact)
+32216:arm_itm-1: PC: 0x080020cc
+32250:arm_itm-1: Timestamp: 318041 (exact)
+32306:arm_itm-1: PC: 0x0800206e
+32340:arm_itm-1: Timestamp: 319064 (exact)
+32396:arm_itm-1: PC: 0x080020b0
+32430:arm_itm-1: Timestamp: 320087 (exact)
+32486:arm_itm-1: PC: 0x080020c6
+32520:arm_itm-1: Timestamp: 321110 (exact)
+32576:arm_itm-1: PC: 0x080020c2
+32610:arm_itm-1: Timestamp: 322133 (exact)
+32666:arm_itm-1: PC: 0x0800206e
+32700:arm_itm-1: Timestamp: 323156 (exact)
+32756:arm_itm-1: PC: 0x080020aa
+32790:arm_itm-1: Timestamp: 324179 (exact)
+32846:arm_itm-1: PC: 0x080020c6
+32880:arm_itm-1: Timestamp: 325202 (exact)
+32936:arm_itm-1: PC: 0x080020c2
+32970:arm_itm-1: Timestamp: 326225 (exact)
+33026:arm_itm-1: PC: 0x080020a8
+33060:arm_itm-1: Timestamp: 327248 (exact)
+33116:arm_itm-1: PC: 0x080020b0
+33150:arm_itm-1: Timestamp: 328271 (exact)
+33206:arm_itm-1: PC: 0x080020c8
+33240:arm_itm-1: Timestamp: 329294 (exact)
+33296:arm_itm-1: PC: 0x0800206c
+33330:arm_itm-1: Timestamp: 330317 (exact)
+33386:arm_itm-1: PC: 0x080020a8
+33420:arm_itm-1: Timestamp: 331340 (exact)
+33476:arm_itm-1: PC: 0x080020c6
+33510:arm_itm-1: Timestamp: 332363 (exact)
+33566:arm_itm-1: PC: 0x080020c2
+33600:arm_itm-1: Timestamp: 333386 (exact)
+33656:arm_itm-1: PC: 0x0800206e
+33690:arm_itm-1: Timestamp: 334409 (exact)
+33746:arm_itm-1: PC: 0x080020b0
+33780:arm_itm-1: Timestamp: 335432 (exact)
+33836:arm_itm-1: PC: 0x080020c6
+33870:arm_itm-1: Timestamp: 336455 (exact)
+33926:arm_itm-1: PC: 0x080020c2
+33960:arm_itm-1: Timestamp: 337478 (exact)
+34016:arm_itm-1: PC: 0x080020a8
+34050:arm_itm-1: Timestamp: 338501 (exact)
+34106:arm_itm-1: PC: 0x080020b0
+34140:arm_itm-1: Timestamp: 339524 (exact)
+34196:arm_itm-1: PC: 0x080020cc
+34230:arm_itm-1: Timestamp: 340547 (exact)
+34286:arm_itm-1: PC: 0x0800206c
+34320:arm_itm-1: Timestamp: 341570 (exact)
+34376:arm_itm-1: PC: 0x080020a8
+34410:arm_itm-1: Timestamp: 342593 (exact)
+34466:arm_itm-1: PC: 0x080020c6
+34500:arm_itm-1: Timestamp: 343616 (exact)
+34556:arm_itm-1: PC: 0x080020cc
+34590:arm_itm-1: Timestamp: 344639 (exact)
+34646:arm_itm-1: PC: 0x0800206e
+34680:arm_itm-1: Timestamp: 345662 (exact)
+34736:arm_itm-1: PC: 0x080020aa
+34770:arm_itm-1: Timestamp: 346685 (exact)
+34826:arm_itm-1: PC: 0x080020c6
+34860:arm_itm-1: Timestamp: 347708 (exact)
+34916:arm_itm-1: PC: 0x080020c2
+34950:arm_itm-1: Timestamp: 348731 (exact)
+35006:arm_itm-1: PC: 0x0800206c
+35040:arm_itm-1: Timestamp: 349754 (exact)
+35096:arm_itm-1: PC: 0x080020a8
+35130:arm_itm-1: Timestamp: 350777 (exact)
+35186:arm_itm-1: PC: 0x080020c6
+35220:arm_itm-1: Timestamp: 351800 (exact)
+35276:arm_itm-1: PC: 0x080020cc
+35310:arm_itm-1: Timestamp: 352823 (exact)
+35366:arm_itm-1: PC: 0x0800206e
+35400:arm_itm-1: Timestamp: 353846 (exact)
+35456:arm_itm-1: PC: 0x080020a8
+35490:arm_itm-1: Timestamp: 354869 (exact)
+35546:arm_itm-1: PC: 0x080020c6
+35580:arm_itm-1: Timestamp: 355892 (exact)
+35636:arm_itm-1: PC: 0x080020cc
+35670:arm_itm-1: Timestamp: 356915 (exact)
+35726:arm_itm-1: PC: 0x0800206e
+35760:arm_itm-1: Timestamp: 357938 (exact)
+35816:arm_itm-1: PC: 0x080020b0
+35850:arm_itm-1: Timestamp: 358961 (exact)
+35906:arm_itm-1: PC: 0x080020c6
+35940:arm_itm-1: Timestamp: 359984 (exact)
+35996:arm_itm-1: PC: 0x080020c2
+36030:arm_itm-1: Timestamp: 361007 (exact)
+36086:arm_itm-1: PC: 0x080020a8
+36120:arm_itm-1: Timestamp: 362030 (exact)
+36176:arm_itm-1: PC: 0x080020b0
+36210:arm_itm-1: Timestamp: 363053 (exact)
+36266:arm_itm-1: PC: 0x080020cc
+36300:arm_itm-1: Timestamp: 364076 (exact)
+36356:arm_itm-1: PC: 0x0800206c
+36390:arm_itm-1: Timestamp: 365099 (exact)
+36446:arm_itm-1: PC: 0x080020a8
+36480:arm_itm-1: Timestamp: 366122 (exact)
+36536:arm_itm-1: PC: 0x080020c6
+36570:arm_itm-1: Timestamp: 367145 (exact)
+36626:arm_itm-1: PC: 0x080020c2
+36660:arm_itm-1: Timestamp: 368168 (exact)
+36694:arm_itm-1: Thread
+36695:arm_itm-1: Enter: IRQ 30
+36729:arm_itm-1: Timestamp: 369189 (exact)
+36785:arm_itm-1: PC: 0x0800078c
+36819:arm_itm-1: Watchpoint 0: address 0x????1410
+36875:arm_itm-1: Watchpoint 0: Write data 0x00040000
+36887:arm_itm-1: Overflow
+36921:arm_itm-1: IRQ 30
+36922:arm_itm-1: Enter: SysTick
+36956:arm_itm-1: Timestamp: 370092 (event and timestamp delayed)
+36968:arm_itm-1: Overflow
+37002:arm_itm-1: SysTick
+37003:arm_itm-1: Enter: PendSV
+37015:arm_itm-1: Overflow
+37049:arm_itm-1: PendSV
+37050:arm_itm-1: Resume: Thread
+37106:arm_itm-1: PC: 0x080018dc
+37140:arm_itm-1: Thread
+37141:arm_itm-1: Enter: PendSV
+37153:arm_itm-1: Overflow
+37209:arm_itm-1: Watchpoint 2: PC 0x080004fa
+37221:arm_itm-1: Overflow
+37277:arm_itm-1: Watchpoint 2: Write data 0x00000001
+37289:arm_itm-1: Overflow
+37323:arm_itm-1: PendSV
+37324:arm_itm-1: Resume: Thread
+37336:arm_itm-1: Overflow
+37392:arm_itm-1: PC: 0x080020c6
+37426:arm_itm-1: Timestamp: 373691 (event and timestamp delayed)
+37482:arm_itm-1: PC: 0x080020c2
+37516:arm_itm-1: Timestamp: 374590 (event and timestamp delayed)
+37572:arm_itm-1: PC: 0x080020a8
+37606:arm_itm-1: Timestamp: 375331 (exact)
+37662:arm_itm-1: PC: 0x080020b0
+37696:arm_itm-1: Timestamp: 376354 (exact)
+37752:arm_itm-1: PC: 0x080020c8
+37786:arm_itm-1: Timestamp: 377377 (exact)
+37842:arm_itm-1: PC: 0x0800206c
+37876:arm_itm-1: Timestamp: 378400 (exact)
+37932:arm_itm-1: PC: 0x080020a8
+37966:arm_itm-1: Timestamp: 379423 (exact)
+38022:arm_itm-1: PC: 0x080020c6
+38056:arm_itm-1: Timestamp: 380446 (exact)
+38112:arm_itm-1: PC: 0x080020cc
+38146:arm_itm-1: Timestamp: 381469 (exact)
+38202:arm_itm-1: PC: 0x0800206e
+38236:arm_itm-1: Timestamp: 382492 (exact)
+38292:arm_itm-1: PC: 0x080020aa
+38326:arm_itm-1: Timestamp: 383515 (exact)
+38382:arm_itm-1: PC: 0x080020c6
+38416:arm_itm-1: Timestamp: 384538 (exact)
+38472:arm_itm-1: PC: 0x080020c2
+38506:arm_itm-1: Timestamp: 385561 (exact)
+38562:arm_itm-1: PC: 0x080020a8
+38596:arm_itm-1: Timestamp: 386584 (exact)
+38652:arm_itm-1: PC: 0x080020ae
+38686:arm_itm-1: Timestamp: 387607 (exact)
+38742:arm_itm-1: PC: 0x080020c6
+38776:arm_itm-1: Timestamp: 388630 (exact)
+38832:arm_itm-1: PC: 0x080020c2
+38866:arm_itm-1: Timestamp: 389653 (exact)
+38922:arm_itm-1: PC: 0x0800206e
+38956:arm_itm-1: Timestamp: 390676 (exact)
+39012:arm_itm-1: PC: 0x080020ac
+39046:arm_itm-1: Timestamp: 391699 (exact)
+39102:arm_itm-1: PC: 0x080020c6
+39136:arm_itm-1: Timestamp: 392722 (exact)
+39192:arm_itm-1: PC: 0x080020c2
+39226:arm_itm-1: Timestamp: 393745 (exact)
+39282:arm_itm-1: PC: 0x080020a8
+39316:arm_itm-1: Timestamp: 394768 (exact)
+39372:arm_itm-1: PC: 0x080020a8
+39406:arm_itm-1: Timestamp: 395791 (exact)
+39462:arm_itm-1: PC: 0x080020c6
+39496:arm_itm-1: Timestamp: 396814 (exact)
+39552:arm_itm-1: PC: 0x080020c2
+39586:arm_itm-1: Timestamp: 397837 (exact)
+39642:arm_itm-1: PC: 0x080020a8
+39676:arm_itm-1: Timestamp: 398860 (exact)
+39732:arm_itm-1: PC: 0x080020b0
+39766:arm_itm-1: Timestamp: 399883 (exact)
+39822:arm_itm-1: PC: 0x080020c6
+39856:arm_itm-1: Timestamp: 400906 (exact)
+39912:arm_itm-1: PC: 0x080020c2
+39946:arm_itm-1: Timestamp: 401929 (exact)
+40002:arm_itm-1: PC: 0x080020a8
+40036:arm_itm-1: Timestamp: 402952 (exact)
+40092:arm_itm-1: PC: 0x080020c6
+40126:arm_itm-1: Timestamp: 403975 (exact)
+40182:arm_itm-1: PC: 0x080020cc
+40216:arm_itm-1: Timestamp: 404998 (exact)
+40272:arm_itm-1: PC: 0x0800206e
+40306:arm_itm-1: Timestamp: 406021 (exact)
+40362:arm_itm-1: PC: 0x080020ac
+40396:arm_itm-1: Timestamp: 407044 (exact)
+40452:arm_itm-1: PC: 0x080020c6
+40486:arm_itm-1: Timestamp: 408067 (exact)
+40542:arm_itm-1: PC: 0x080020c2
+40576:arm_itm-1: Timestamp: 409090 (exact)
+40632:arm_itm-1: PC: 0x080020a8
+40666:arm_itm-1: Timestamp: 410113 (exact)
+40722:arm_itm-1: PC: 0x080020b0
+40756:arm_itm-1: Timestamp: 411136 (exact)
+40812:arm_itm-1: PC: 0x080020ca
+40846:arm_itm-1: Timestamp: 412159 (exact)
+40902:arm_itm-1: PC: 0x0800206c
+40936:arm_itm-1: Timestamp: 413182 (exact)
+40992:arm_itm-1: PC: 0x080020a8
+41026:arm_itm-1: Timestamp: 414205 (exact)
+41082:arm_itm-1: PC: 0x080020c6
+41116:arm_itm-1: Timestamp: 415228 (exact)
+41172:arm_itm-1: PC: 0x080020cc
+41206:arm_itm-1: Timestamp: 416251 (exact)
+41262:arm_itm-1: PC: 0x0800206e
+41296:arm_itm-1: Timestamp: 417274 (exact)
+41352:arm_itm-1: PC: 0x080020ac
+41386:arm_itm-1: Timestamp: 418297 (exact)
+41442:arm_itm-1: PC: 0x080020c6
+41476:arm_itm-1: Timestamp: 419320 (exact)
+41532:arm_itm-1: PC: 0x080020c2
+41566:arm_itm-1: Timestamp: 420343 (exact)
+41622:arm_itm-1: PC: 0x080020c2
+41656:arm_itm-1: Timestamp: 421366 (exact)
+41712:arm_itm-1: PC: 0x080020a8
+41746:arm_itm-1: Timestamp: 422389 (exact)
+41802:arm_itm-1: PC: 0x080020c6
+41836:arm_itm-1: Timestamp: 423412 (exact)
+41892:arm_itm-1: PC: 0x080020cc
+41926:arm_itm-1: Timestamp: 424435 (exact)
+41982:arm_itm-1: PC: 0x0800206e
+42016:arm_itm-1: Timestamp: 425458 (exact)
+42072:arm_itm-1: PC: 0x080020a8
+42106:arm_itm-1: Timestamp: 426481 (exact)
+42162:arm_itm-1: PC: 0x080020b0
+42196:arm_itm-1: Timestamp: 427504 (exact)
+42252:arm_itm-1: PC: 0x080020cc
+42286:arm_itm-1: Timestamp: 428527 (exact)
+42342:arm_itm-1: PC: 0x0800206e
+42376:arm_itm-1: Timestamp: 429550 (exact)
+42432:arm_itm-1: PC: 0x080020ac
+42466:arm_itm-1: Timestamp: 430573 (exact)
+42522:arm_itm-1: PC: 0x080020c6
+42556:arm_itm-1: Timestamp: 431596 (exact)
+42612:arm_itm-1: PC: 0x080020c2
+42646:arm_itm-1: Timestamp: 432619 (exact)
+42702:arm_itm-1: PC: 0x080020a8
+42736:arm_itm-1: Timestamp: 433642 (exact)
+42792:arm_itm-1: PC: 0x080020b0
+42826:arm_itm-1: Timestamp: 434665 (exact)
+42882:arm_itm-1: PC: 0x080020c8
+42916:arm_itm-1: Timestamp: 435688 (exact)
+42972:arm_itm-1: PC: 0x080020c2
+43006:arm_itm-1: Timestamp: 436711 (exact)
+43062:arm_itm-1: PC: 0x080020a8
+43096:arm_itm-1: Timestamp: 437734 (exact)
+43152:arm_itm-1: PC: 0x080020c6
+43186:arm_itm-1: Timestamp: 438757 (exact)
+43242:arm_itm-1: PC: 0x080020cc
+43276:arm_itm-1: Timestamp: 439780 (exact)
+43332:arm_itm-1: PC: 0x0800206e
+43366:arm_itm-1: Timestamp: 440803 (exact)
+43400:arm_itm-1: Thread
+43401:arm_itm-1: Enter: IRQ 30
+43435:arm_itm-1: Timestamp: 441122 (exact)
+43469:arm_itm-1: Watchpoint 0: address 0x????1410
+43525:arm_itm-1: Watchpoint 0: Write data 0x00000004
+43537:arm_itm-1: Overflow
+43571:arm_itm-1: IRQ 30
+43572:arm_itm-1: Enter: SysTick
+43584:arm_itm-1: Overflow
+43618:arm_itm-1: SysTick
+43619:arm_itm-1: Resume: Thread
+43675:arm_itm-1: PC: 0x08002dbe
+43709:arm_itm-1: Timestamp: 442788 (event and timestamp delayed)
+43765:arm_itm-1: PC: 0x0800206e
+43799:arm_itm-1: Timestamp: 443597 (event and timestamp delayed)
+43855:arm_itm-1: PC: 0x080020b0
+43889:arm_itm-1: Timestamp: 444316 (event and timestamp delayed)
+43945:arm_itm-1: PC: 0x080020c8
+43979:arm_itm-1: Timestamp: 445035 (timestamp delayed)
+44035:arm_itm-1: PC: 0x0800206c
+44069:arm_itm-1: Timestamp: 445917 (exact)
+44125:arm_itm-1: PC: 0x080020a8
+44159:arm_itm-1: Timestamp: 446940 (exact)
+44215:arm_itm-1: PC: 0x080020c6
+44249:arm_itm-1: Timestamp: 447963 (exact)
+44305:arm_itm-1: PC: 0x080020cc
+44339:arm_itm-1: Timestamp: 448986 (exact)
+44395:arm_itm-1: PC: 0x0800206e
+44429:arm_itm-1: Timestamp: 450009 (exact)
+44485:arm_itm-1: PC: 0x080020b0
+44519:arm_itm-1: Timestamp: 451032 (exact)
+44575:arm_itm-1: PC: 0x080020c6
+44609:arm_itm-1: Timestamp: 452055 (exact)
+44665:arm_itm-1: PC: 0x080020c2
+44699:arm_itm-1: Timestamp: 453078 (exact)
+44755:arm_itm-1: PC: 0x080020a8
+44789:arm_itm-1: Timestamp: 454101 (exact)
+44845:arm_itm-1: PC: 0x080020b0
+44879:arm_itm-1: Timestamp: 455124 (exact)
+44935:arm_itm-1: PC: 0x080020c8
+44969:arm_itm-1: Timestamp: 456147 (exact)
+45025:arm_itm-1: PC: 0x080020c2
+45059:arm_itm-1: Timestamp: 457170 (exact)
+45115:arm_itm-1: PC: 0x080020a8
+45149:arm_itm-1: Timestamp: 458193 (exact)
+45205:arm_itm-1: PC: 0x080020c6
+45239:arm_itm-1: Timestamp: 459216 (exact)
+45295:arm_itm-1: PC: 0x080020ca
+45329:arm_itm-1: Timestamp: 460239 (exact)
+45385:arm_itm-1: PC: 0x0800206c
+45419:arm_itm-1: Timestamp: 461262 (exact)
+45475:arm_itm-1: PC: 0x080020a8
+45509:arm_itm-1: Timestamp: 462285 (exact)
+45565:arm_itm-1: PC: 0x080020b0
+45599:arm_itm-1: Timestamp: 463308 (exact)
+45655:arm_itm-1: PC: 0x080020c8
+45689:arm_itm-1: Timestamp: 464331 (exact)
+45745:arm_itm-1: PC: 0x080020c2
+45779:arm_itm-1: Timestamp: 465354 (exact)
+45835:arm_itm-1: PC: 0x080020a8
+45869:arm_itm-1: Timestamp: 466377 (exact)
+45925:arm_itm-1: PC: 0x080020b0
+45959:arm_itm-1: Timestamp: 467400 (exact)
+46015:arm_itm-1: PC: 0x080020c6
+46049:arm_itm-1: Timestamp: 468423 (exact)
+46105:arm_itm-1: PC: 0x080020c2
+46139:arm_itm-1: Timestamp: 469446 (exact)
+46195:arm_itm-1: PC: 0x080020a8
+46229:arm_itm-1: Timestamp: 470469 (exact)
+46285:arm_itm-1: PC: 0x080020c6
+46319:arm_itm-1: Timestamp: 471492 (exact)
+46375:arm_itm-1: PC: 0x080020cc
+46409:arm_itm-1: Timestamp: 472515 (exact)
+46465:arm_itm-1: PC: 0x0800206e
+46499:arm_itm-1: Timestamp: 473538 (exact)
+46555:arm_itm-1: PC: 0x080020aa
+46589:arm_itm-1: Timestamp: 474561 (exact)
+46645:arm_itm-1: PC: 0x080020c6
+46679:arm_itm-1: Timestamp: 475584 (exact)
+46735:arm_itm-1: PC: 0x080020c2
+46769:arm_itm-1: Timestamp: 476607 (exact)
+46825:arm_itm-1: PC: 0x080020a8
+46859:arm_itm-1: Timestamp: 477630 (exact)
+46915:arm_itm-1: PC: 0x080020b0
+46949:arm_itm-1: Timestamp: 478653 (exact)
+47005:arm_itm-1: PC: 0x080020c8
+47039:arm_itm-1: Timestamp: 479676 (exact)
+47095:arm_itm-1: PC: 0x0800206c
+47129:arm_itm-1: Timestamp: 480699 (exact)
+47185:arm_itm-1: PC: 0x080020a8
+47219:arm_itm-1: Timestamp: 481722 (exact)
+47275:arm_itm-1: PC: 0x080020c6
+47309:arm_itm-1: Timestamp: 482745 (exact)
+47365:arm_itm-1: PC: 0x080020cc
+47399:arm_itm-1: Timestamp: 483768 (exact)
+47455:arm_itm-1: PC: 0x0800206e
+47489:arm_itm-1: Timestamp: 484791 (exact)
+47545:arm_itm-1: PC: 0x080020aa
+47579:arm_itm-1: Timestamp: 485814 (exact)
+47635:arm_itm-1: PC: 0x080020c6
+47669:arm_itm-1: Timestamp: 486837 (exact)
+47725:arm_itm-1: PC: 0x080020c2
+47759:arm_itm-1: Timestamp: 487860 (exact)
+47815:arm_itm-1: PC: 0x080020a8
+47849:arm_itm-1: Timestamp: 488883 (exact)
+47905:arm_itm-1: PC: 0x080020b0
+47939:arm_itm-1: Timestamp: 489906 (exact)
+47995:arm_itm-1: PC: 0x080020c6
+48029:arm_itm-1: Timestamp: 490929 (exact)
+48085:arm_itm-1: PC: 0x080020c2
+48119:arm_itm-1: Timestamp: 491952 (exact)
+48175:arm_itm-1: PC: 0x0800206e
+48209:arm_itm-1: Timestamp: 492975 (exact)
+48265:arm_itm-1: PC: 0x080020ac
+48299:arm_itm-1: Timestamp: 493998 (exact)
+48355:arm_itm-1: PC: 0x080020c6
+48389:arm_itm-1: Timestamp: 495021 (exact)
+48445:arm_itm-1: PC: 0x080020c2
+48479:arm_itm-1: Timestamp: 496044 (exact)
+48535:arm_itm-1: PC: 0x080020a8
+48569:arm_itm-1: Timestamp: 497067 (exact)
+48625:arm_itm-1: PC: 0x080020b0
+48659:arm_itm-1: Timestamp: 498090 (exact)
+48715:arm_itm-1: PC: 0x080020c8
+48749:arm_itm-1: Timestamp: 499113 (exact)
+48805:arm_itm-1: PC: 0x0800206c
+48839:arm_itm-1: Timestamp: 500136 (exact)
+48895:arm_itm-1: PC: 0x080020a8
+48929:arm_itm-1: Timestamp: 501159 (exact)
+48985:arm_itm-1: PC: 0x080020c6
+49019:arm_itm-1: Timestamp: 502182 (exact)
+49075:arm_itm-1: PC: 0x080020cc
+49109:arm_itm-1: Timestamp: 503205 (exact)
+49165:arm_itm-1: PC: 0x0800206e
+49199:arm_itm-1: Timestamp: 504228 (exact)
+49255:arm_itm-1: PC: 0x080020b0
+49289:arm_itm-1: Timestamp: 505251 (exact)
+49345:arm_itm-1: PC: 0x080020c6
+49379:arm_itm-1: Timestamp: 506274 (exact)
+49435:arm_itm-1: PC: 0x080020c2
+49469:arm_itm-1: Timestamp: 507297 (exact)
+49525:arm_itm-1: PC: 0x080020a8
+49559:arm_itm-1: Timestamp: 508320 (exact)
+49615:arm_itm-1: PC: 0x080020b0
+49649:arm_itm-1: Timestamp: 509343 (exact)
+49705:arm_itm-1: PC: 0x080020cc
+49739:arm_itm-1: Timestamp: 510366 (exact)
+49795:arm_itm-1: PC: 0x0800206c
+49829:arm_itm-1: Timestamp: 511389 (exact)
+49885:arm_itm-1: PC: 0x080020a8
+49919:arm_itm-1: Timestamp: 512412 (exact)
+49953:arm_itm-1: Thread
+49954:arm_itm-1: Enter: IRQ 30
+49988:arm_itm-1: Timestamp: 513048 (exact)
+50022:arm_itm-1: Watchpoint 0: address 0x????1410
+50078:arm_itm-1: Watchpoint 0: Write data 0x00040000
+50112:arm_itm-1: Timestamp: 513313 (timestamp delayed)
+50124:arm_itm-1: Overflow
+50158:arm_itm-1: IRQ 30
+50159:arm_itm-1: Enter: SysTick
+50171:arm_itm-1: Overflow
+50205:arm_itm-1: SysTick
+50206:arm_itm-1: Resume: Thread
+50262:arm_itm-1: PC: 0x080020b0
+50318:arm_itm-1: PC: 0x080020a8
+50352:arm_itm-1: Timestamp: 515202 (event and timestamp delayed)
+50408:arm_itm-1: PC: 0x080020c6
+50442:arm_itm-1: Timestamp: 515921 (event and timestamp delayed)
+50498:arm_itm-1: PC: 0x080020cc
+50532:arm_itm-1: Timestamp: 516640 (timestamp delayed)
+50588:arm_itm-1: PC: 0x0800206e
+50622:arm_itm-1: Timestamp: 517526 (exact)
+50678:arm_itm-1: PC: 0x080020ae
+50712:arm_itm-1: Timestamp: 518549 (exact)
+50768:arm_itm-1: PC: 0x080020c6
+50802:arm_itm-1: Timestamp: 519572 (exact)
+50858:arm_itm-1: PC: 0x080020c2
+50892:arm_itm-1: Timestamp: 520595 (exact)
+50948:arm_itm-1: PC: 0x0800206e
+50982:arm_itm-1: Timestamp: 521618 (exact)
+51038:arm_itm-1: PC: 0x080020b0
+51072:arm_itm-1: Timestamp: 522641 (exact)
+51128:arm_itm-1: PC: 0x080020c6
+51162:arm_itm-1: Timestamp: 523664 (exact)
+51218:arm_itm-1: PC: 0x080020cc
+51252:arm_itm-1: Timestamp: 524687 (exact)
+51308:arm_itm-1: PC: 0x0800206e
+51342:arm_itm-1: Timestamp: 525710 (exact)
+51398:arm_itm-1: PC: 0x080020ac
+51432:arm_itm-1: Timestamp: 526733 (exact)
+51488:arm_itm-1: PC: 0x080020c6
+51522:arm_itm-1: Timestamp: 527756 (exact)
+51578:arm_itm-1: PC: 0x080020c2
+51612:arm_itm-1: Timestamp: 528779 (exact)
+51668:arm_itm-1: PC: 0x0800206e
+51702:arm_itm-1: Timestamp: 529802 (exact)
+51758:arm_itm-1: PC: 0x080020aa
+51792:arm_itm-1: Timestamp: 530825 (exact)
+51848:arm_itm-1: PC: 0x080020c6
+51882:arm_itm-1: Timestamp: 531848 (exact)
+51938:arm_itm-1: PC: 0x080020c2
+51972:arm_itm-1: Timestamp: 532871 (exact)
+52028:arm_itm-1: PC: 0x080020a8
+52062:arm_itm-1: Timestamp: 533894 (exact)
+52118:arm_itm-1: PC: 0x080020b0
+52152:arm_itm-1: Timestamp: 534917 (exact)
+52208:arm_itm-1: PC: 0x080020c8
+52242:arm_itm-1: Timestamp: 535940 (exact)
+52298:arm_itm-1: PC: 0x0800206c
+52332:arm_itm-1: Timestamp: 536963 (exact)
+52388:arm_itm-1: PC: 0x080020a8
+52422:arm_itm-1: Timestamp: 537986 (exact)
+52478:arm_itm-1: PC: 0x080020c6
+52512:arm_itm-1: Timestamp: 539009 (exact)
+52568:arm_itm-1: PC: 0x080020cc
+52602:arm_itm-1: Timestamp: 540032 (exact)
+52658:arm_itm-1: PC: 0x0800206e
+52692:arm_itm-1: Timestamp: 541055 (exact)
+52748:arm_itm-1: PC: 0x080020b0
+52782:arm_itm-1: Timestamp: 542078 (exact)
+52838:arm_itm-1: PC: 0x080020c6
+52872:arm_itm-1: Timestamp: 543101 (exact)
+52928:arm_itm-1: PC: 0x080020c2
+52962:arm_itm-1: Timestamp: 544124 (exact)
+53018:arm_itm-1: PC: 0x080020a8
+53052:arm_itm-1: Timestamp: 545147 (exact)
+53108:arm_itm-1: PC: 0x080020b0
+53142:arm_itm-1: Timestamp: 546170 (exact)
+53198:arm_itm-1: PC: 0x080020c8
+53232:arm_itm-1: Timestamp: 547193 (exact)
+53288:arm_itm-1: PC: 0x0800206c
+53322:arm_itm-1: Timestamp: 548216 (exact)
+53378:arm_itm-1: PC: 0x080020a8
+53412:arm_itm-1: Timestamp: 549239 (exact)
+53468:arm_itm-1: PC: 0x080020c6
+53502:arm_itm-1: Timestamp: 550262 (exact)
+53558:arm_itm-1: PC: 0x080020cc
+53592:arm_itm-1: Timestamp: 551285 (exact)
+53648:arm_itm-1: PC: 0x0800206c
+53682:arm_itm-1: Timestamp: 552308 (exact)
+53738:arm_itm-1: PC: 0x080020aa
+53772:arm_itm-1: Timestamp: 553331 (exact)
+53828:arm_itm-1: PC: 0x080020c6
+53862:arm_itm-1: Timestamp: 554354 (exact)
+53918:arm_itm-1: PC: 0x080020c8
+53952:arm_itm-1: Timestamp: 555377 (exact)
+54008:arm_itm-1: PC: 0x0800206c
+54042:arm_itm-1: Timestamp: 556400 (exact)
+54098:arm_itm-1: PC: 0x080020a8
+54132:arm_itm-1: Timestamp: 557423 (exact)
+54188:arm_itm-1: PC: 0x080020c6
+54222:arm_itm-1: Timestamp: 558446 (exact)
+54278:arm_itm-1: PC: 0x080020cc
+54312:arm_itm-1: Timestamp: 559469 (exact)
+54368:arm_itm-1: PC: 0x080020c2
+54402:arm_itm-1: Timestamp: 560492 (exact)
+54458:arm_itm-1: PC: 0x080020a8
+54492:arm_itm-1: Timestamp: 561515 (exact)
+54548:arm_itm-1: PC: 0x080020c6
+54582:arm_itm-1: Timestamp: 562538 (exact)
+54638:arm_itm-1: PC: 0x080020cc
+54672:arm_itm-1: Timestamp: 563561 (exact)
+54728:arm_itm-1: PC: 0x0800206e
+54762:arm_itm-1: Timestamp: 564584 (exact)
+54818:arm_itm-1: PC: 0x080020aa
+54852:arm_itm-1: Timestamp: 565607 (exact)
+54908:arm_itm-1: PC: 0x080020c6
+54942:arm_itm-1: Timestamp: 566630 (exact)
+54998:arm_itm-1: PC: 0x080020c2
+55032:arm_itm-1: Timestamp: 567653 (exact)
+55088:arm_itm-1: PC: 0x080020a8
+55122:arm_itm-1: Timestamp: 568676 (exact)
+55178:arm_itm-1: PC: 0x080020b0
+55212:arm_itm-1: Timestamp: 569699 (exact)
+55268:arm_itm-1: PC: 0x080020c8
+55302:arm_itm-1: Timestamp: 570722 (exact)
+55358:arm_itm-1: PC: 0x0800206c
+55392:arm_itm-1: Timestamp: 571745 (exact)
+55448:arm_itm-1: PC: 0x080020a8
+55482:arm_itm-1: Timestamp: 572768 (exact)
+55538:arm_itm-1: PC: 0x080020c6
+55572:arm_itm-1: Timestamp: 573791 (exact)
+55628:arm_itm-1: PC: 0x080020c2
+55662:arm_itm-1: Timestamp: 574814 (exact)
+55718:arm_itm-1: PC: 0x0800206e
+55752:arm_itm-1: Timestamp: 575837 (exact)
+55808:arm_itm-1: PC: 0x080020b0
+55842:arm_itm-1: Timestamp: 576860 (exact)
+55898:arm_itm-1: PC: 0x080020c6
+55932:arm_itm-1: Timestamp: 577883 (exact)
+55988:arm_itm-1: PC: 0x080020c2
+56022:arm_itm-1: Timestamp: 578906 (exact)
+56078:arm_itm-1: PC: 0x080020a8
+56112:arm_itm-1: Timestamp: 579929 (exact)
+56168:arm_itm-1: PC: 0x080020aa
+56202:arm_itm-1: Timestamp: 580952 (exact)
+56258:arm_itm-1: PC: 0x080020c6
+56292:arm_itm-1: Timestamp: 581975 (exact)
+56348:arm_itm-1: PC: 0x080020c2
+56382:arm_itm-1: Timestamp: 582998 (exact)
+56438:arm_itm-1: PC: 0x0800206e
+56472:arm_itm-1: Timestamp: 584021 (exact)
+56506:arm_itm-1: Thread
+56507:arm_itm-1: Enter: IRQ 30
+56541:arm_itm-1: Timestamp: 584977 (exact)
+56597:arm_itm-1: PC: 0x08000932
+56620:arm_itm-1: Timestamp: 585043 (exact)
+56654:arm_itm-1: Watchpoint 0: address 0x????1410
+56710:arm_itm-1: Watchpoint 0: Write data 0x00000004
+56722:arm_itm-1: Overflow
+56756:arm_itm-1: IRQ 30
+56757:arm_itm-1: Resume: Thread
+56791:arm_itm-1: Timestamp: 586060 (event and timestamp delayed)
+56847:arm_itm-1: PC: 0x0800206e
+56881:arm_itm-1: Timestamp: 586869 (event and timestamp delayed)
+56937:arm_itm-1: PC: 0x080020ac
+56971:arm_itm-1: Timestamp: 587588 (event and timestamp delayed)
+57027:arm_itm-1: PC: 0x080020c6
+57061:arm_itm-1: Timestamp: 588307 (timestamp delayed)
+57117:arm_itm-1: PC: 0x080020c2
+57151:arm_itm-1: Timestamp: 589134 (exact)
+57207:arm_itm-1: PC: 0x0800206e
+57241:arm_itm-1: Timestamp: 590157 (exact)
+57297:arm_itm-1: PC: 0x080020b0
+57331:arm_itm-1: Timestamp: 591180 (exact)
+57387:arm_itm-1: PC: 0x080020c6
+57421:arm_itm-1: Timestamp: 592203 (exact)
+57477:arm_itm-1: PC: 0x080020c2
+57511:arm_itm-1: Timestamp: 593226 (exact)
+57567:arm_itm-1: PC: 0x080020a8
+57601:arm_itm-1: Timestamp: 594249 (exact)
+57657:arm_itm-1: PC: 0x080020b0
+57691:arm_itm-1: Timestamp: 595272 (exact)
+57747:arm_itm-1: PC: 0x080020c6
+57781:arm_itm-1: Timestamp: 596295 (exact)
+57837:arm_itm-1: PC: 0x080020c2
+57871:arm_itm-1: Timestamp: 597318 (exact)
+57927:arm_itm-1: PC: 0x0800206e
+57961:arm_itm-1: Timestamp: 598341 (exact)
+58017:arm_itm-1: PC: 0x080020b0
+58051:arm_itm-1: Timestamp: 599364 (exact)
+58107:arm_itm-1: PC: 0x080020c6
+58141:arm_itm-1: Timestamp: 600387 (exact)
+58197:arm_itm-1: PC: 0x080020cc
+58231:arm_itm-1: Timestamp: 601410 (exact)
+58287:arm_itm-1: PC: 0x0800206e
+58321:arm_itm-1: Timestamp: 602433 (exact)
+58377:arm_itm-1: PC: 0x080020b0
+58411:arm_itm-1: Timestamp: 603456 (exact)
+58467:arm_itm-1: PC: 0x080020c6
+58501:arm_itm-1: Timestamp: 604479 (exact)
+58557:arm_itm-1: PC: 0x080020c2
+58591:arm_itm-1: Timestamp: 605502 (exact)
+58647:arm_itm-1: PC: 0x080020a8
+58681:arm_itm-1: Timestamp: 606525 (exact)
+58737:arm_itm-1: PC: 0x080020b0
+58771:arm_itm-1: Timestamp: 607548 (exact)
+58827:arm_itm-1: PC: 0x080020cc
+58861:arm_itm-1: Timestamp: 608571 (exact)
+58917:arm_itm-1: PC: 0x0800206e
+58951:arm_itm-1: Timestamp: 609594 (exact)
+59007:arm_itm-1: PC: 0x080020aa
+59041:arm_itm-1: Timestamp: 610617 (exact)
+59097:arm_itm-1: PC: 0x080020c6
+59131:arm_itm-1: Timestamp: 611640 (exact)
+59187:arm_itm-1: PC: 0x080020c2
+59221:arm_itm-1: Timestamp: 612663 (exact)
+59277:arm_itm-1: PC: 0x080020a8
+59311:arm_itm-1: Timestamp: 613686 (exact)
+59367:arm_itm-1: PC: 0x080020b0
+59401:arm_itm-1: Timestamp: 614709 (exact)
+59457:arm_itm-1: PC: 0x080020c8
+59491:arm_itm-1: Timestamp: 615732 (exact)
+59547:arm_itm-1: PC: 0x080020c2
+59581:arm_itm-1: Timestamp: 616755 (exact)
+59637:arm_itm-1: PC: 0x080020a8
+59671:arm_itm-1: Timestamp: 617778 (exact)
+59727:arm_itm-1: PC: 0x080020c6
+59761:arm_itm-1: Timestamp: 618801 (exact)
+59817:arm_itm-1: PC: 0x080020cc
+59851:arm_itm-1: Timestamp: 619824 (exact)
+59907:arm_itm-1: PC: 0x0800206e
+59941:arm_itm-1: Timestamp: 620847 (exact)
+59997:arm_itm-1: PC: 0x080020a8
+60031:arm_itm-1: Timestamp: 621870 (exact)
+60087:arm_itm-1: PC: 0x080020c6
+60121:arm_itm-1: Timestamp: 622893 (exact)
+60177:arm_itm-1: PC: 0x080020c2
+60211:arm_itm-1: Timestamp: 623916 (exact)
+60267:arm_itm-1: PC: 0x0800206e
+60301:arm_itm-1: Timestamp: 624939 (exact)
+60357:arm_itm-1: PC: 0x080020ae
+60391:arm_itm-1: Timestamp: 625962 (exact)
+60447:arm_itm-1: PC: 0x080020b0
+60481:arm_itm-1: Timestamp: 626985 (exact)
+60537:arm_itm-1: PC: 0x080020cc
+60571:arm_itm-1: Timestamp: 628008 (exact)
+60627:arm_itm-1: PC: 0x0800206e
+60661:arm_itm-1: Timestamp: 629031 (exact)
+60717:arm_itm-1: PC: 0x080020aa
+60751:arm_itm-1: Timestamp: 630054 (exact)
+60807:arm_itm-1: PC: 0x080020c6
+60841:arm_itm-1: Timestamp: 631077 (exact)
+60897:arm_itm-1: PC: 0x080020c8
+60931:arm_itm-1: Timestamp: 632100 (exact)
+60987:arm_itm-1: PC: 0x0800206c
+61021:arm_itm-1: Timestamp: 633123 (exact)
+61077:arm_itm-1: PC: 0x080020a8
+61111:arm_itm-1: Timestamp: 634146 (exact)
+61167:arm_itm-1: PC: 0x080020c6
+61201:arm_itm-1: Timestamp: 635169 (exact)
+61257:arm_itm-1: PC: 0x080020c2
+61291:arm_itm-1: Timestamp: 636192 (exact)
+61347:arm_itm-1: PC: 0x0800206e
+61381:arm_itm-1: Timestamp: 637215 (exact)
+61437:arm_itm-1: PC: 0x080020b0
+61471:arm_itm-1: Timestamp: 638238 (exact)
+61527:arm_itm-1: PC: 0x080020c6
+61561:arm_itm-1: Timestamp: 639261 (exact)
+61617:arm_itm-1: PC: 0x080020c2
+61651:arm_itm-1: Timestamp: 640284 (exact)
+61707:arm_itm-1: PC: 0x080020a8
+61741:arm_itm-1: Timestamp: 641307 (exact)
+61797:arm_itm-1: PC: 0x080020b0
+61831:arm_itm-1: Timestamp: 642330 (exact)
+61887:arm_itm-1: PC: 0x080020cc
+61921:arm_itm-1: Timestamp: 643353 (exact)
+61977:arm_itm-1: PC: 0x0800206e
+62011:arm_itm-1: Timestamp: 644376 (exact)
+62067:arm_itm-1: PC: 0x080020ac
+62101:arm_itm-1: Timestamp: 645399 (exact)
+62157:arm_itm-1: PC: 0x080020c6
+62191:arm_itm-1: Timestamp: 646422 (exact)
+62247:arm_itm-1: PC: 0x080020c2
+62281:arm_itm-1: Timestamp: 647445 (exact)
+62337:arm_itm-1: PC: 0x080020a8
+62371:arm_itm-1: Timestamp: 648468 (exact)
+62427:arm_itm-1: PC: 0x080020b0
+62461:arm_itm-1: Timestamp: 649491 (exact)
+62517:arm_itm-1: PC: 0x080020c6
+62551:arm_itm-1: Timestamp: 650514 (exact)
+62607:arm_itm-1: PC: 0x080020c2
+62641:arm_itm-1: Timestamp: 651537 (exact)
+62697:arm_itm-1: PC: 0x080020a8
+62731:arm_itm-1: Timestamp: 652560 (exact)
+62787:arm_itm-1: PC: 0x080020b0
+62821:arm_itm-1: Timestamp: 653583 (exact)
+62877:arm_itm-1: PC: 0x080020cc
+62911:arm_itm-1: Timestamp: 654606 (exact)
+62967:arm_itm-1: PC: 0x0800206c
+63001:arm_itm-1: Timestamp: 655629 (exact)
+63057:arm_itm-1: PC: 0x080020a8
+63091:arm_itm-1: Timestamp: 656652 (exact)
+63125:arm_itm-1: Thread
+63126:arm_itm-1: Enter: IRQ 30
+63160:arm_itm-1: Timestamp: 656906 (exact)
+63194:arm_itm-1: Watchpoint 0: address 0x????1410
+63250:arm_itm-1: Watchpoint 0: Write data 0x00040000
+63262:arm_itm-1: Overflow
+63296:arm_itm-1: IRQ 30
+63297:arm_itm-1: Enter: SysTick
+63309:arm_itm-1: Overflow
+63343:arm_itm-1: SysTick
+63344:arm_itm-1: Resume: Thread
+63400:arm_itm-1: PC: 0x080020c2
+63434:arm_itm-1: Timestamp: 658636 (event and timestamp delayed)
+63490:arm_itm-1: PC: 0x080020a8
+63524:arm_itm-1: Timestamp: 659445 (event and timestamp delayed)
+63580:arm_itm-1: PC: 0x080020b0
+63614:arm_itm-1: Timestamp: 660164 (event and timestamp delayed)
+63670:arm_itm-1: PC: 0x080020ca
+63704:arm_itm-1: Timestamp: 660883 (timestamp delayed)
+63760:arm_itm-1: PC: 0x0800206c
+63794:arm_itm-1: Timestamp: 661766 (exact)
+63850:arm_itm-1: PC: 0x080020a8
+63884:arm_itm-1: Timestamp: 662789 (exact)
+63940:arm_itm-1: PC: 0x080020b0
+63974:arm_itm-1: Timestamp: 663812 (exact)
+64030:arm_itm-1: PC: 0x080020c8
+64064:arm_itm-1: Timestamp: 664835 (exact)
+64120:arm_itm-1: PC: 0x0800206c
+64154:arm_itm-1: Timestamp: 665858 (exact)
+64210:arm_itm-1: PC: 0x080020a8
+64244:arm_itm-1: Timestamp: 666881 (exact)
+64300:arm_itm-1: PC: 0x080020c6
+64334:arm_itm-1: Timestamp: 667904 (exact)
+64390:arm_itm-1: PC: 0x080020cc
+64424:arm_itm-1: Timestamp: 668927 (exact)
+64480:arm_itm-1: PC: 0x0800206e
+64514:arm_itm-1: Timestamp: 669950 (exact)
+64570:arm_itm-1: PC: 0x080020b0
+64604:arm_itm-1: Timestamp: 670973 (exact)
+64660:arm_itm-1: PC: 0x080020c6
+64694:arm_itm-1: Timestamp: 671996 (exact)
+64750:arm_itm-1: PC: 0x080020c2
+64784:arm_itm-1: Timestamp: 673019 (exact)
+64840:arm_itm-1: PC: 0x080020a8
+64874:arm_itm-1: Timestamp: 674042 (exact)
+64930:arm_itm-1: PC: 0x080020b0
+64964:arm_itm-1: Timestamp: 675065 (exact)
+65020:arm_itm-1: PC: 0x080020cc
+65054:arm_itm-1: Timestamp: 676088 (exact)
+65110:arm_itm-1: PC: 0x0800206e
+65144:arm_itm-1: Timestamp: 677111 (exact)
+65200:arm_itm-1: PC: 0x080020aa
+65234:arm_itm-1: Timestamp: 678134 (exact)
+65290:arm_itm-1: PC: 0x080020c6
+65324:arm_itm-1: Timestamp: 679157 (exact)
+65380:arm_itm-1: PC: 0x080020c2
+65414:arm_itm-1: Timestamp: 680180 (exact)
+65470:arm_itm-1: PC: 0x0800206e
+65504:arm_itm-1: Timestamp: 681203 (exact)
+65560:arm_itm-1: PC: 0x080020b0
+65594:arm_itm-1: Timestamp: 682226 (exact)
+65650:arm_itm-1: PC: 0x080020c6
+65684:arm_itm-1: Timestamp: 683249 (exact)
+65740:arm_itm-1: PC: 0x080020c2
+65774:arm_itm-1: Timestamp: 684272 (exact)
+65830:arm_itm-1: PC: 0x080020a8
+65864:arm_itm-1: Timestamp: 685295 (exact)
+65920:arm_itm-1: PC: 0x080020b0
+65954:arm_itm-1: Timestamp: 686318 (exact)
+66010:arm_itm-1: PC: 0x080020c8
+66044:arm_itm-1: Timestamp: 687341 (exact)
+66100:arm_itm-1: PC: 0x080020cc
+66134:arm_itm-1: Timestamp: 688364 (exact)
+66190:arm_itm-1: PC: 0x0800206e
+66224:arm_itm-1: Timestamp: 689387 (exact)
+66280:arm_itm-1: PC: 0x080020b0
+66314:arm_itm-1: Timestamp: 690410 (exact)
+66370:arm_itm-1: PC: 0x080020c6
+66404:arm_itm-1: Timestamp: 691433 (exact)
+66460:arm_itm-1: PC: 0x080020c2
+66494:arm_itm-1: Timestamp: 692456 (exact)
+66550:arm_itm-1: PC: 0x0800206e
+66584:arm_itm-1: Timestamp: 693479 (exact)
+66640:arm_itm-1: PC: 0x080020ac
+66674:arm_itm-1: Timestamp: 694502 (exact)
+66730:arm_itm-1: PC: 0x080020c6
+66764:arm_itm-1: Timestamp: 695525 (exact)
+66820:arm_itm-1: PC: 0x080020c2
+66854:arm_itm-1: Timestamp: 696548 (exact)
+66910:arm_itm-1: PC: 0x080020a8
+66944:arm_itm-1: Timestamp: 697571 (exact)
+67000:arm_itm-1: PC: 0x080020b0
+67034:arm_itm-1: Timestamp: 698594 (exact)
+67090:arm_itm-1: PC: 0x080020c8
+67124:arm_itm-1: Timestamp: 699617 (exact)
+67180:arm_itm-1: PC: 0x0800206c
+67214:arm_itm-1: Timestamp: 700640 (exact)
+67270:arm_itm-1: PC: 0x080020a8
+67304:arm_itm-1: Timestamp: 701663 (exact)
+67360:arm_itm-1: PC: 0x080020c6
+67394:arm_itm-1: Timestamp: 702686 (exact)
+67450:arm_itm-1: PC: 0x080020c2
+67484:arm_itm-1: Timestamp: 703709 (exact)
+67540:arm_itm-1: PC: 0x0800206e
+67574:arm_itm-1: Timestamp: 704732 (exact)
+67630:arm_itm-1: PC: 0x080020b0
+67664:arm_itm-1: Timestamp: 705755 (exact)
+67720:arm_itm-1: PC: 0x080020c6
+67754:arm_itm-1: Timestamp: 706778 (exact)
+67810:arm_itm-1: PC: 0x080020c2
+67844:arm_itm-1: Timestamp: 707801 (exact)
+67900:arm_itm-1: PC: 0x080020a8
+67934:arm_itm-1: Timestamp: 708824 (exact)
+67990:arm_itm-1: PC: 0x080020b0
+68024:arm_itm-1: Timestamp: 709847 (exact)
+68080:arm_itm-1: PC: 0x080020cc
+68114:arm_itm-1: Timestamp: 710870 (exact)
+68170:arm_itm-1: PC: 0x0800206c
+68204:arm_itm-1: Timestamp: 711893 (exact)
+68260:arm_itm-1: PC: 0x080020a8
+68294:arm_itm-1: Timestamp: 712916 (exact)
+68350:arm_itm-1: PC: 0x080020c6
+68384:arm_itm-1: Timestamp: 713939 (exact)
+68440:arm_itm-1: PC: 0x080020cc
+68474:arm_itm-1: Timestamp: 714962 (exact)
+68530:arm_itm-1: PC: 0x0800206e
+68564:arm_itm-1: Timestamp: 715985 (exact)
+68620:arm_itm-1: PC: 0x080020aa
+68654:arm_itm-1: Timestamp: 717008 (exact)
+68710:arm_itm-1: PC: 0x080020c6
+68744:arm_itm-1: Timestamp: 718031 (exact)
+68800:arm_itm-1: PC: 0x080020c2
+68834:arm_itm-1: Timestamp: 719054 (exact)
+68890:arm_itm-1: PC: 0x0800206c
+68924:arm_itm-1: Timestamp: 720077 (exact)
+68980:arm_itm-1: PC: 0x080020aa
+69014:arm_itm-1: Timestamp: 721100 (exact)
+69070:arm_itm-1: PC: 0x080020c6
+69104:arm_itm-1: Timestamp: 722123 (exact)
+69160:arm_itm-1: PC: 0x080020c2
+69194:arm_itm-1: Timestamp: 723146 (exact)
+69250:arm_itm-1: PC: 0x0800206e
+69284:arm_itm-1: Timestamp: 724169 (exact)
+69340:arm_itm-1: PC: 0x080020a8
+69374:arm_itm-1: Timestamp: 725192 (exact)
+69430:arm_itm-1: PC: 0x080020c6
+69464:arm_itm-1: Timestamp: 726215 (exact)
+69520:arm_itm-1: PC: 0x080020cc
+69554:arm_itm-1: Timestamp: 727238 (exact)
+69610:arm_itm-1: PC: 0x0800206e
+69644:arm_itm-1: Timestamp: 728261 (exact)
+69678:arm_itm-1: Thread
+69679:arm_itm-1: Enter: IRQ 30
+69713:arm_itm-1: Timestamp: 728836 (exact)
+69747:arm_itm-1: Watchpoint 0: address 0x????1410
+69803:arm_itm-1: Watchpoint 0: Write data 0x00000004
+69837:arm_itm-1: IRQ 30
+69838:arm_itm-1: Exit: IRQ 30
+69850:arm_itm-1: Overflow
+69884:arm_itm-1: Enter: SysTick
+69940:arm_itm-1: PC: 0x080020ac
+69952:arm_itm-1: Overflow
+69986:arm_itm-1: SysTick
+69987:arm_itm-1: Resume: Thread
+70043:arm_itm-1: PC: 0x08001816
+70077:arm_itm-1: Timestamp: 730961 (event and timestamp delayed)
+70089:arm_itm-1: Overflow
+70123:arm_itm-1: Thread
+70124:arm_itm-1: Resume: Thread
+70136:arm_itm-1: Overflow
+70192:arm_itm-1: Watchpoint 2: PC 0x08000512
+70204:arm_itm-1: Overflow
+70260:arm_itm-1: Watchpoint 2: Write data 0x00000002
+70272:arm_itm-1: Overflow
+70306:arm_itm-1: Thread
+70307:arm_itm-1: Resume: Thread
+70319:arm_itm-1: Overflow
+70375:arm_itm-1: PC: 0x0800186c
+70431:arm_itm-1: PC: 0x080020a8
+70465:arm_itm-1: Timestamp: 734110 (event and timestamp delayed)
+70521:arm_itm-1: PC: 0x080020b0
+70555:arm_itm-1: Timestamp: 734829 (event and timestamp delayed)
+70611:arm_itm-1: PC: 0x080020c6
+70645:arm_itm-1: Timestamp: 735548 (timestamp delayed)
+70701:arm_itm-1: PC: 0x080020c2
+70735:arm_itm-1: Timestamp: 736447 (exact)
+70791:arm_itm-1: PC: 0x080020a8
+70825:arm_itm-1: Timestamp: 737470 (exact)
+70881:arm_itm-1: PC: 0x080020b0
+70915:arm_itm-1: Timestamp: 738493 (exact)
+70971:arm_itm-1: PC: 0x080020ca
+71005:arm_itm-1: Timestamp: 739516 (exact)
+71061:arm_itm-1: PC: 0x080020c2
+71095:arm_itm-1: Timestamp: 740539 (exact)
+71151:arm_itm-1: PC: 0x080020a8
+71185:arm_itm-1: Timestamp: 741562 (exact)
+71241:arm_itm-1: PC: 0x080020c6
+71275:arm_itm-1: Timestamp: 742585 (exact)
+71331:arm_itm-1: PC: 0x080020cc
+71365:arm_itm-1: Timestamp: 743608 (exact)
+71421:arm_itm-1: PC: 0x0800206e
+71455:arm_itm-1: Timestamp: 744631 (exact)
+71511:arm_itm-1: PC: 0x080020ae
+71545:arm_itm-1: Timestamp: 745654 (exact)
+71601:arm_itm-1: PC: 0x080020c6
+71635:arm_itm-1: Timestamp: 746677 (exact)
+71691:arm_itm-1: PC: 0x080020c2
+71725:arm_itm-1: Timestamp: 747700 (exact)
+71781:arm_itm-1: PC: 0x080020a8
+71815:arm_itm-1: Timestamp: 748723 (exact)
+71871:arm_itm-1: PC: 0x080020b0
+71905:arm_itm-1: Timestamp: 749746 (exact)
+71961:arm_itm-1: PC: 0x080020cc
+71995:arm_itm-1: Timestamp: 750769 (exact)
+72051:arm_itm-1: PC: 0x0800206e
+72085:arm_itm-1: Timestamp: 751792 (exact)
+72141:arm_itm-1: PC: 0x080020a8
+72175:arm_itm-1: Timestamp: 752815 (exact)
+72231:arm_itm-1: PC: 0x080020c6
+72265:arm_itm-1: Timestamp: 753838 (exact)
+72321:arm_itm-1: PC: 0x080020cc
+72355:arm_itm-1: Timestamp: 754861 (exact)
+72411:arm_itm-1: PC: 0x080020c2
+72445:arm_itm-1: Timestamp: 755884 (exact)
+72501:arm_itm-1: PC: 0x080020a8
+72535:arm_itm-1: Timestamp: 756907 (exact)
+72591:arm_itm-1: PC: 0x080020b0
+72625:arm_itm-1: Timestamp: 757930 (exact)
+72681:arm_itm-1: PC: 0x080020cc
+72715:arm_itm-1: Timestamp: 758953 (exact)
+72771:arm_itm-1: PC: 0x0800206e
+72805:arm_itm-1: Timestamp: 759976 (exact)
+72861:arm_itm-1: PC: 0x080020a8
+72895:arm_itm-1: Timestamp: 760999 (exact)
+72951:arm_itm-1: PC: 0x080020b0
+72985:arm_itm-1: Timestamp: 762022 (exact)
+73041:arm_itm-1: PC: 0x080020cc
+73075:arm_itm-1: Timestamp: 763045 (exact)
+73131:arm_itm-1: PC: 0x0800206e
+73165:arm_itm-1: Timestamp: 764068 (exact)
+73221:arm_itm-1: PC: 0x080020aa
+73255:arm_itm-1: Timestamp: 765091 (exact)
+73311:arm_itm-1: PC: 0x080020c6
+73345:arm_itm-1: Timestamp: 766114 (exact)
+73401:arm_itm-1: PC: 0x080020c2
+73435:arm_itm-1: Timestamp: 767137 (exact)
+73491:arm_itm-1: PC: 0x0800206e
+73525:arm_itm-1: Timestamp: 768160 (exact)
+73581:arm_itm-1: PC: 0x080020b0
+73615:arm_itm-1: Timestamp: 769183 (exact)
+73671:arm_itm-1: PC: 0x080020c8
+73705:arm_itm-1: Timestamp: 770206 (exact)
+73761:arm_itm-1: PC: 0x080020c2
+73795:arm_itm-1: Timestamp: 771229 (exact)
+73851:arm_itm-1: PC: 0x080020a8
+73885:arm_itm-1: Timestamp: 772252 (exact)
+73941:arm_itm-1: PC: 0x080020c6
+73975:arm_itm-1: Timestamp: 773275 (exact)
+74031:arm_itm-1: PC: 0x080020cc
+74065:arm_itm-1: Timestamp: 774298 (exact)
+74121:arm_itm-1: PC: 0x0800206e
+74155:arm_itm-1: Timestamp: 775321 (exact)
+74211:arm_itm-1: PC: 0x080020ac
+74245:arm_itm-1: Timestamp: 776344 (exact)
+74301:arm_itm-1: PC: 0x080020c6
+74335:arm_itm-1: Timestamp: 777367 (exact)
+74391:arm_itm-1: PC: 0x080020c2
+74425:arm_itm-1: Timestamp: 778390 (exact)
+74481:arm_itm-1: PC: 0x0800206e
+74515:arm_itm-1: Timestamp: 779413 (exact)
+74571:arm_itm-1: PC: 0x080020b0
+74605:arm_itm-1: Timestamp: 780436 (exact)
+74661:arm_itm-1: PC: 0x080020c6
+74695:arm_itm-1: Timestamp: 781459 (exact)
+74751:arm_itm-1: PC: 0x080020c2
+74785:arm_itm-1: Timestamp: 782482 (exact)
+74841:arm_itm-1: PC: 0x080020a8
+74875:arm_itm-1: Timestamp: 783505 (exact)
+74931:arm_itm-1: PC: 0x080020b0
+74965:arm_itm-1: Timestamp: 784528 (exact)
+75021:arm_itm-1: PC: 0x080020ca
+75055:arm_itm-1: Timestamp: 785551 (exact)
+75111:arm_itm-1: PC: 0x080020c2
+75145:arm_itm-1: Timestamp: 786574 (exact)
+75201:arm_itm-1: PC: 0x080020a8
+75235:arm_itm-1: Timestamp: 787597 (exact)
+75291:arm_itm-1: PC: 0x080020b0
+75325:arm_itm-1: Timestamp: 788620 (exact)
+75381:arm_itm-1: PC: 0x080020c6
+75415:arm_itm-1: Timestamp: 789643 (exact)
+75471:arm_itm-1: PC: 0x080020c2
+75505:arm_itm-1: Timestamp: 790666 (exact)
+75561:arm_itm-1: PC: 0x0800206e
+75595:arm_itm-1: Timestamp: 791689 (exact)
+75651:arm_itm-1: PC: 0x080020b0
+75685:arm_itm-1: Timestamp: 792712 (exact)
+75741:arm_itm-1: PC: 0x080020c6
+75775:arm_itm-1: Timestamp: 793735 (exact)
+75831:arm_itm-1: PC: 0x080020c2
+75865:arm_itm-1: Timestamp: 794758 (exact)
+75921:arm_itm-1: PC: 0x080020a8
+75955:arm_itm-1: Timestamp: 795781 (exact)
+76011:arm_itm-1: PC: 0x080020b0
+76045:arm_itm-1: Timestamp: 796804 (exact)
+76101:arm_itm-1: PC: 0x080020cc
+76135:arm_itm-1: Timestamp: 797827 (exact)
+76191:arm_itm-1: PC: 0x0800206e
+76225:arm_itm-1: Timestamp: 798850 (exact)
+76281:arm_itm-1: PC: 0x080020aa
+76315:arm_itm-1: Timestamp: 799873 (exact)
+76349:arm_itm-1: Thread
+76350:arm_itm-1: Enter: IRQ 30
+76384:arm_itm-1: Timestamp: 800765 (exact)
+76440:arm_itm-1: PC: 0x080009e6
+76474:arm_itm-1: Timestamp: 800895 (exact)
+76508:arm_itm-1: Watchpoint 0: address 0x????1410
+76564:arm_itm-1: Watchpoint 0: Write data 0x00040000
+76576:arm_itm-1: Overflow
+76610:arm_itm-1: IRQ 30
+76611:arm_itm-1: Resume: Thread
+76667:arm_itm-1: PC: 0x080020a8
+76701:arm_itm-1: Timestamp: 802388 (event and timestamp delayed)
+76757:arm_itm-1: PC: 0x080020c6
+76791:arm_itm-1: Timestamp: 803197 (timestamp delayed)
+76847:arm_itm-1: PC: 0x080020c2
+76881:arm_itm-1: Timestamp: 803964 (exact)
+76937:arm_itm-1: PC: 0x080020a8
+76971:arm_itm-1: Timestamp: 804987 (exact)
+77027:arm_itm-1: PC: 0x080020b0
+77061:arm_itm-1: Timestamp: 806010 (exact)
+77117:arm_itm-1: PC: 0x080020c6
+77151:arm_itm-1: Timestamp: 807033 (exact)
+77207:arm_itm-1: PC: 0x080020c2
+77241:arm_itm-1: Timestamp: 808056 (exact)
+77297:arm_itm-1: PC: 0x080020a8
+77331:arm_itm-1: Timestamp: 809079 (exact)
+77387:arm_itm-1: PC: 0x080020c6
+77421:arm_itm-1: Timestamp: 810102 (exact)
+77477:arm_itm-1: PC: 0x080020cc
+77511:arm_itm-1: Timestamp: 811125 (exact)
+77567:arm_itm-1: PC: 0x0800206e
+77601:arm_itm-1: Timestamp: 812148 (exact)
+77657:arm_itm-1: PC: 0x080020ae
+77691:arm_itm-1: Timestamp: 813171 (exact)
+77747:arm_itm-1: PC: 0x080020c6
+77781:arm_itm-1: Timestamp: 814194 (exact)
+77837:arm_itm-1: PC: 0x080020c2
+77871:arm_itm-1: Timestamp: 815217 (exact)
+77927:arm_itm-1: PC: 0x080020a8
+77961:arm_itm-1: Timestamp: 816240 (exact)
+78017:arm_itm-1: PC: 0x080020b0
+78051:arm_itm-1: Timestamp: 817263 (exact)
+78107:arm_itm-1: PC: 0x080020c6
+78141:arm_itm-1: Timestamp: 818286 (exact)
+78197:arm_itm-1: PC: 0x080020c2
+78231:arm_itm-1: Timestamp: 819309 (exact)
+78287:arm_itm-1: PC: 0x080020a8
+78321:arm_itm-1: Timestamp: 820332 (exact)
+78377:arm_itm-1: PC: 0x080020b0
+78411:arm_itm-1: Timestamp: 821355 (exact)
+78467:arm_itm-1: PC: 0x080020c6
+78501:arm_itm-1: Timestamp: 822378 (exact)
+78557:arm_itm-1: PC: 0x080020c2
+78591:arm_itm-1: Timestamp: 823401 (exact)
+78647:arm_itm-1: PC: 0x080020a8
+78681:arm_itm-1: Timestamp: 824424 (exact)
+78737:arm_itm-1: PC: 0x080020b0
+78771:arm_itm-1: Timestamp: 825447 (exact)
+78827:arm_itm-1: PC: 0x080020c8
+78861:arm_itm-1: Timestamp: 826470 (exact)
+78917:arm_itm-1: PC: 0x080020cc
+78951:arm_itm-1: Timestamp: 827493 (exact)
+79007:arm_itm-1: PC: 0x0800206e
+79041:arm_itm-1: Timestamp: 828516 (exact)
+79097:arm_itm-1: PC: 0x080020b0
+79131:arm_itm-1: Timestamp: 829539 (exact)
+79187:arm_itm-1: PC: 0x080020c6
+79221:arm_itm-1: Timestamp: 830562 (exact)
+79277:arm_itm-1: PC: 0x080020c2
+79311:arm_itm-1: Timestamp: 831585 (exact)
+79367:arm_itm-1: PC: 0x080020a8
+79401:arm_itm-1: Timestamp: 832608 (exact)
+79457:arm_itm-1: PC: 0x080020b0
+79491:arm_itm-1: Timestamp: 833631 (exact)
+79547:arm_itm-1: PC: 0x080020cc
+79581:arm_itm-1: Timestamp: 834654 (exact)
+79637:arm_itm-1: PC: 0x0800206e
+79671:arm_itm-1: Timestamp: 835677 (exact)
+79727:arm_itm-1: PC: 0x080020ac
+79761:arm_itm-1: Timestamp: 836700 (exact)
+79817:arm_itm-1: PC: 0x080020c6
+79851:arm_itm-1: Timestamp: 837723 (exact)
+79907:arm_itm-1: PC: 0x080020c2
+79941:arm_itm-1: Timestamp: 838746 (exact)
+79997:arm_itm-1: PC: 0x080020a8
+80031:arm_itm-1: Timestamp: 839769 (exact)
+80087:arm_itm-1: PC: 0x080020b0
+80121:arm_itm-1: Timestamp: 840792 (exact)
+80177:arm_itm-1: PC: 0x080020ca
+80211:arm_itm-1: Timestamp: 841815 (exact)
+80267:arm_itm-1: PC: 0x0800206c
+80301:arm_itm-1: Timestamp: 842838 (exact)
+80357:arm_itm-1: PC: 0x080020a8
+80391:arm_itm-1: Timestamp: 843861 (exact)
+80447:arm_itm-1: PC: 0x080020c6
+80481:arm_itm-1: Timestamp: 844884 (exact)
+80537:arm_itm-1: PC: 0x080020cc
+80571:arm_itm-1: Timestamp: 845907 (exact)
+80627:arm_itm-1: PC: 0x0800206e
+80661:arm_itm-1: Timestamp: 846930 (exact)
+80717:arm_itm-1: PC: 0x080020aa
+80751:arm_itm-1: Timestamp: 847953 (exact)
+80807:arm_itm-1: PC: 0x080020c6
+80841:arm_itm-1: Timestamp: 848976 (exact)
+80897:arm_itm-1: PC: 0x080020c2
+80931:arm_itm-1: Timestamp: 849999 (exact)
+80987:arm_itm-1: PC: 0x0800206e
+81021:arm_itm-1: Timestamp: 851022 (exact)
+81077:arm_itm-1: PC: 0x080020b0
+81111:arm_itm-1: Timestamp: 852045 (exact)
+81167:arm_itm-1: PC: 0x080020b0
+81201:arm_itm-1: Timestamp: 853068 (exact)
+81257:arm_itm-1: PC: 0x080020cc
+81291:arm_itm-1: Timestamp: 854091 (exact)
+81347:arm_itm-1: PC: 0x0800206e
+81381:arm_itm-1: Timestamp: 855114 (exact)
+81437:arm_itm-1: PC: 0x080020aa
+81471:arm_itm-1: Timestamp: 856137 (exact)
+81527:arm_itm-1: PC: 0x080020c6
+81561:arm_itm-1: Timestamp: 857160 (exact)
+81617:arm_itm-1: PC: 0x080020ca
+81651:arm_itm-1: Timestamp: 858183 (exact)
+81707:arm_itm-1: PC: 0x0800206c
+81741:arm_itm-1: Timestamp: 859206 (exact)
+81797:arm_itm-1: PC: 0x080020aa
+81831:arm_itm-1: Timestamp: 860229 (exact)
+81887:arm_itm-1: PC: 0x080020c6
+81921:arm_itm-1: Timestamp: 861252 (exact)
+81977:arm_itm-1: PC: 0x080020c2
+82011:arm_itm-1: Timestamp: 862275 (exact)
+82067:arm_itm-1: PC: 0x0800206e
+82101:arm_itm-1: Timestamp: 863298 (exact)
+82157:arm_itm-1: PC: 0x080020b0
+82191:arm_itm-1: Timestamp: 864321 (exact)
+82247:arm_itm-1: PC: 0x080020c6
+82281:arm_itm-1: Timestamp: 865344 (exact)
+82337:arm_itm-1: PC: 0x080020c2
+82371:arm_itm-1: Timestamp: 866367 (exact)
+82427:arm_itm-1: PC: 0x080020a8
+82461:arm_itm-1: Timestamp: 867390 (exact)
+82517:arm_itm-1: PC: 0x080020b0
+82551:arm_itm-1: Timestamp: 868413 (exact)
+82607:arm_itm-1: PC: 0x080020cc
+82641:arm_itm-1: Timestamp: 869436 (exact)
+82697:arm_itm-1: PC: 0x0800206e
+82731:arm_itm-1: Timestamp: 870459 (exact)
+82787:arm_itm-1: PC: 0x080020ae
+82821:arm_itm-1: Timestamp: 871482 (exact)
+82877:arm_itm-1: PC: 0x080020c6
+82911:arm_itm-1: Timestamp: 872505 (exact)
+82945:arm_itm-1: Thread
+82946:arm_itm-1: Enter: IRQ 30
+82980:arm_itm-1: Timestamp: 872693 (exact)
+83014:arm_itm-1: Watchpoint 0: address 0x????1410
+83070:arm_itm-1: Watchpoint 0: Write data 0x00000004
+83082:arm_itm-1: Overflow
+83116:arm_itm-1: IRQ 30
+83117:arm_itm-1: Exit: SysTick
+83151:arm_itm-1: Resume: Thread
+83207:arm_itm-1: PC: 0x080020aa
+83241:arm_itm-1: Timestamp: 874488 (event and timestamp delayed)
+83297:arm_itm-1: PC: 0x080020c6
+83331:arm_itm-1: Timestamp: 875207 (event and timestamp delayed)
+83387:arm_itm-1: PC: 0x080020c2
+83421:arm_itm-1: Timestamp: 875926 (event and timestamp delayed)
+83477:arm_itm-1: PC: 0x080020a8
+83511:arm_itm-1: Timestamp: 876645 (timestamp delayed)
+83567:arm_itm-1: PC: 0x080020b0
+83601:arm_itm-1: Timestamp: 877619 (exact)
+83657:arm_itm-1: PC: 0x080020c8
+83691:arm_itm-1: Timestamp: 878642 (exact)
+83747:arm_itm-1: PC: 0x0800206c
+83781:arm_itm-1: Timestamp: 879665 (exact)
+83837:arm_itm-1: PC: 0x080020a8
+83871:arm_itm-1: Timestamp: 880688 (exact)
+83927:arm_itm-1: PC: 0x080020c6
+83961:arm_itm-1: Timestamp: 881711 (exact)
+84017:arm_itm-1: PC: 0x080020c2
+84051:arm_itm-1: Timestamp: 882734 (exact)
+84107:arm_itm-1: PC: 0x0800206e
+84141:arm_itm-1: Timestamp: 883757 (exact)
+84197:arm_itm-1: PC: 0x080020b0
+84231:arm_itm-1: Timestamp: 884780 (exact)
+84287:arm_itm-1: PC: 0x080020c6
+84321:arm_itm-1: Timestamp: 885803 (exact)
+84377:arm_itm-1: PC: 0x080020c2
+84411:arm_itm-1: Timestamp: 886826 (exact)
+84467:arm_itm-1: PC: 0x080020a8
+84501:arm_itm-1: Timestamp: 887849 (exact)
+84557:arm_itm-1: PC: 0x080020b0
+84591:arm_itm-1: Timestamp: 888872 (exact)
+84647:arm_itm-1: PC: 0x080020c8
+84681:arm_itm-1: Timestamp: 889895 (exact)
+84737:arm_itm-1: PC: 0x0800206c
+84771:arm_itm-1: Timestamp: 890918 (exact)
+84827:arm_itm-1: PC: 0x080020a8
+84861:arm_itm-1: Timestamp: 891941 (exact)
+84917:arm_itm-1: PC: 0x080020b0
+84951:arm_itm-1: Timestamp: 892964 (exact)
+85007:arm_itm-1: PC: 0x080020c6
+85041:arm_itm-1: Timestamp: 893987 (exact)
+85097:arm_itm-1: PC: 0x080020c2
+85131:arm_itm-1: Timestamp: 895010 (exact)
+85187:arm_itm-1: PC: 0x080020a8
+85221:arm_itm-1: Timestamp: 896033 (exact)
+85277:arm_itm-1: PC: 0x080020b0
+85311:arm_itm-1: Timestamp: 897056 (exact)
+85367:arm_itm-1: PC: 0x080020ca
+85401:arm_itm-1: Timestamp: 898079 (exact)
+85457:arm_itm-1: PC: 0x0800206c
+85491:arm_itm-1: Timestamp: 899102 (exact)
+85547:arm_itm-1: PC: 0x080020a8
+85581:arm_itm-1: Timestamp: 900125 (exact)
+85637:arm_itm-1: PC: 0x080020b0
+85671:arm_itm-1: Timestamp: 901148 (exact)
+85727:arm_itm-1: PC: 0x080020c8
+85761:arm_itm-1: Timestamp: 902171 (exact)
+85817:arm_itm-1: PC: 0x0800206c
+85851:arm_itm-1: Timestamp: 903194 (exact)
+85907:arm_itm-1: PC: 0x080020a8
+85941:arm_itm-1: Timestamp: 904217 (exact)
+85997:arm_itm-1: PC: 0x080020c6
+86031:arm_itm-1: Timestamp: 905240 (exact)
+86087:arm_itm-1: PC: 0x080020cc
+86121:arm_itm-1: Timestamp: 906263 (exact)
+86177:arm_itm-1: PC: 0x0800206e
+86211:arm_itm-1: Timestamp: 907286 (exact)
+86267:arm_itm-1: PC: 0x080020b0
+86301:arm_itm-1: Timestamp: 908309 (exact)
+86357:arm_itm-1: PC: 0x080020c6
+86391:arm_itm-1: Timestamp: 909332 (exact)
+86447:arm_itm-1: PC: 0x080020c2
+86481:arm_itm-1: Timestamp: 910355 (exact)
+86537:arm_itm-1: PC: 0x080020a8
+86571:arm_itm-1: Timestamp: 911378 (exact)
+86627:arm_itm-1: PC: 0x080020b0
+86661:arm_itm-1: Timestamp: 912401 (exact)
+86717:arm_itm-1: PC: 0x080020cc
+86751:arm_itm-1: Timestamp: 913424 (exact)
+86807:arm_itm-1: PC: 0x0800206e
+86841:arm_itm-1: Timestamp: 914447 (exact)
+86897:arm_itm-1: PC: 0x080020aa
+86931:arm_itm-1: Timestamp: 915470 (exact)
+86987:arm_itm-1: PC: 0x080020c6
+87021:arm_itm-1: Timestamp: 916493 (exact)
+87077:arm_itm-1: PC: 0x080020cc
+87111:arm_itm-1: Timestamp: 917516 (exact)
+87167:arm_itm-1: PC: 0x0800206e
+87201:arm_itm-1: Timestamp: 918539 (exact)
+87257:arm_itm-1: PC: 0x080020b0
+87291:arm_itm-1: Timestamp: 919562 (exact)
+87347:arm_itm-1: PC: 0x080020c6
+87381:arm_itm-1: Timestamp: 920585 (exact)
+87437:arm_itm-1: PC: 0x080020c2
+87471:arm_itm-1: Timestamp: 921608 (exact)
+87527:arm_itm-1: PC: 0x0800206e
+87561:arm_itm-1: Timestamp: 922631 (exact)
+87617:arm_itm-1: PC: 0x080020b0
+87651:arm_itm-1: Timestamp: 923654 (exact)
+87707:arm_itm-1: PC: 0x080020c8
+87741:arm_itm-1: Timestamp: 924677 (exact)
+87797:arm_itm-1: PC: 0x080020cc
+87831:arm_itm-1: Timestamp: 925700 (exact)
+87887:arm_itm-1: PC: 0x0800206e
+87921:arm_itm-1: Timestamp: 926723 (exact)
+87977:arm_itm-1: PC: 0x080020ae
+88011:arm_itm-1: Timestamp: 927746 (exact)
+88067:arm_itm-1: PC: 0x080020c6
+88101:arm_itm-1: Timestamp: 928769 (exact)
+88157:arm_itm-1: PC: 0x080020c2
+88191:arm_itm-1: Timestamp: 929792 (exact)
+88247:arm_itm-1: PC: 0x0800206e
+88281:arm_itm-1: Timestamp: 930815 (exact)
+88337:arm_itm-1: PC: 0x080020ac
+88371:arm_itm-1: Timestamp: 931838 (exact)
+88427:arm_itm-1: PC: 0x080020c6
+88461:arm_itm-1: Timestamp: 932861 (exact)
+88517:arm_itm-1: PC: 0x080020c2
+88551:arm_itm-1: Timestamp: 933884 (exact)
+88607:arm_itm-1: PC: 0x080020a8
+88641:arm_itm-1: Timestamp: 934907 (exact)
+88697:arm_itm-1: PC: 0x080020b0
+88731:arm_itm-1: Timestamp: 935930 (exact)
+88787:arm_itm-1: PC: 0x080020c8
+88821:arm_itm-1: Timestamp: 936953 (exact)
+88877:arm_itm-1: PC: 0x0800206c
+88911:arm_itm-1: Timestamp: 937976 (exact)
+88967:arm_itm-1: PC: 0x080020a8
+89001:arm_itm-1: Timestamp: 938999 (exact)
+89057:arm_itm-1: PC: 0x080020c6
+89091:arm_itm-1: Timestamp: 940022 (exact)
+89147:arm_itm-1: PC: 0x080020cc
+89181:arm_itm-1: Timestamp: 941045 (exact)
+89237:arm_itm-1: PC: 0x0800206e
+89271:arm_itm-1: Timestamp: 942068 (exact)
+89327:arm_itm-1: PC: 0x080020b0
+89361:arm_itm-1: Timestamp: 943091 (exact)
+89417:arm_itm-1: PC: 0x080020c6
+89451:arm_itm-1: Timestamp: 944114 (exact)
+89485:arm_itm-1: Thread
+89486:arm_itm-1: Enter: IRQ 30
+89520:arm_itm-1: Timestamp: 944625 (exact)
+89554:arm_itm-1: Watchpoint 0: address 0x????1410
+89610:arm_itm-1: Watchpoint 0: Write data 0x00040000
+89622:arm_itm-1: Overflow
+89656:arm_itm-1: IRQ 30
+89657:arm_itm-1: Resume: Thread
+89691:arm_itm-1: Thread
+89692:arm_itm-1: Enter: SysTick
+89704:arm_itm-1: Overflow
+89738:arm_itm-1: SysTick
+89739:arm_itm-1: Resume: Thread
+89795:arm_itm-1: PC: 0x080022f2
+89851:arm_itm-1: PC: 0x080020c8
+89885:arm_itm-1: Timestamp: 946903 (event and timestamp delayed)
+89941:arm_itm-1: PC: 0x0800206c
+89975:arm_itm-1: Timestamp: 947622 (event and timestamp delayed)
+90031:arm_itm-1: PC: 0x080020a8
+90065:arm_itm-1: Timestamp: 948341 (timestamp delayed)
+90121:arm_itm-1: PC: 0x080020c6
+90155:arm_itm-1: Timestamp: 949229 (exact)
+90211:arm_itm-1: PC: 0x080020c2
+90245:arm_itm-1: Timestamp: 950252 (exact)
+90301:arm_itm-1: PC: 0x0800206e
+90335:arm_itm-1: Timestamp: 951275 (exact)
+90391:arm_itm-1: PC: 0x080020b0
+90425:arm_itm-1: Timestamp: 952298 (exact)
+90481:arm_itm-1: PC: 0x080020c6
+90515:arm_itm-1: Timestamp: 953321 (exact)
+90571:arm_itm-1: PC: 0x080020c2
+90605:arm_itm-1: Timestamp: 954344 (exact)
+90661:arm_itm-1: PC: 0x080020a8
+90695:arm_itm-1: Timestamp: 955367 (exact)
+90751:arm_itm-1: PC: 0x080020b0
+90785:arm_itm-1: Timestamp: 956390 (exact)
+90841:arm_itm-1: PC: 0x080020c8
+90875:arm_itm-1: Timestamp: 957413 (exact)
+90931:arm_itm-1: PC: 0x080020c2
+90965:arm_itm-1: Timestamp: 958436 (exact)
+91021:arm_itm-1: PC: 0x080020a8
+91055:arm_itm-1: Timestamp: 959459 (exact)
+91111:arm_itm-1: PC: 0x080020b0
+91145:arm_itm-1: Timestamp: 960482 (exact)
+91201:arm_itm-1: PC: 0x080020c6
+91235:arm_itm-1: Timestamp: 961505 (exact)
+91291:arm_itm-1: PC: 0x080020c2
+91325:arm_itm-1: Timestamp: 962528 (exact)
+91381:arm_itm-1: PC: 0x080020a8
+91415:arm_itm-1: Timestamp: 963551 (exact)
+91471:arm_itm-1: PC: 0x080020b0
+91505:arm_itm-1: Timestamp: 964574 (exact)
+91561:arm_itm-1: PC: 0x080020c8
+91595:arm_itm-1: Timestamp: 965597 (exact)
+91651:arm_itm-1: PC: 0x080020c2
+91685:arm_itm-1: Timestamp: 966620 (exact)
+91741:arm_itm-1: PC: 0x0800206e
+91775:arm_itm-1: Timestamp: 967643 (exact)
+91831:arm_itm-1: PC: 0x080020b0
+91865:arm_itm-1: Timestamp: 968666 (exact)
+91921:arm_itm-1: PC: 0x080020c8
+91955:arm_itm-1: Timestamp: 969689 (exact)
+92011:arm_itm-1: PC: 0x0800206c
+92045:arm_itm-1: Timestamp: 970712 (exact)
+92101:arm_itm-1: PC: 0x080020a8
+92135:arm_itm-1: Timestamp: 971735 (exact)
+92191:arm_itm-1: PC: 0x080020b0
+92225:arm_itm-1: Timestamp: 972758 (exact)
+92281:arm_itm-1: PC: 0x080020cc
+92315:arm_itm-1: Timestamp: 973781 (exact)
+92371:arm_itm-1: PC: 0x0800206e
+92405:arm_itm-1: Timestamp: 974804 (exact)
+92461:arm_itm-1: PC: 0x080020ae
+92495:arm_itm-1: Timestamp: 975827 (exact)
+92551:arm_itm-1: PC: 0x080020c6
+92585:arm_itm-1: Timestamp: 976850 (exact)
+92641:arm_itm-1: PC: 0x080020c2
+92675:arm_itm-1: Timestamp: 977873 (exact)
+92731:arm_itm-1: PC: 0x080020a8
+92765:arm_itm-1: Timestamp: 978896 (exact)
+92821:arm_itm-1: PC: 0x080020b0
+92855:arm_itm-1: Timestamp: 979919 (exact)
+92911:arm_itm-1: PC: 0x080020cc
+92945:arm_itm-1: Timestamp: 980942 (exact)
+93001:arm_itm-1: PC: 0x0800206c
+93035:arm_itm-1: Timestamp: 981965 (exact)
+93091:arm_itm-1: PC: 0x080020a8
+93125:arm_itm-1: Timestamp: 982988 (exact)
+93181:arm_itm-1: PC: 0x080020b0
+93215:arm_itm-1: Timestamp: 984011 (exact)
+93271:arm_itm-1: PC: 0x080020cc
+93305:arm_itm-1: Timestamp: 985034 (exact)
+93361:arm_itm-1: PC: 0x0800206e
+93395:arm_itm-1: Timestamp: 986057 (exact)
+93451:arm_itm-1: PC: 0x080020aa
+93485:arm_itm-1: Timestamp: 987080 (exact)
+93541:arm_itm-1: PC: 0x080020c6
+93575:arm_itm-1: Timestamp: 988103 (exact)
+93631:arm_itm-1: PC: 0x080020cc
+93665:arm_itm-1: Timestamp: 989126 (exact)
+93721:arm_itm-1: PC: 0x0800206e
+93755:arm_itm-1: Timestamp: 990149 (exact)
+93811:arm_itm-1: PC: 0x080020b0
+93845:arm_itm-1: Timestamp: 991172 (exact)
+93901:arm_itm-1: PC: 0x080020c6
+93935:arm_itm-1: Timestamp: 992195 (exact)
+93991:arm_itm-1: PC: 0x080020cc
+94025:arm_itm-1: Timestamp: 993218 (exact)
+94081:arm_itm-1: PC: 0x0800206e
+94115:arm_itm-1: Timestamp: 994241 (exact)
+94171:arm_itm-1: PC: 0x080020ac
+94205:arm_itm-1: Timestamp: 995264 (exact)
+94261:arm_itm-1: PC: 0x080020c6
+94295:arm_itm-1: Timestamp: 996287 (exact)
+94351:arm_itm-1: PC: 0x080020cc
+94385:arm_itm-1: Timestamp: 997310 (exact)
+94441:arm_itm-1: PC: 0x0800206e
+94475:arm_itm-1: Timestamp: 998333 (exact)
+94531:arm_itm-1: PC: 0x080020aa
+94565:arm_itm-1: Timestamp: 999356 (exact)
+94621:arm_itm-1: PC: 0x080020c6
+94655:arm_itm-1: Timestamp: 1000379 (exact)
+94711:arm_itm-1: PC: 0x080020c2
+94745:arm_itm-1: Timestamp: 1001402 (exact)
+94801:arm_itm-1: PC: 0x0800206e
+94835:arm_itm-1: Timestamp: 1002425 (exact)
+94891:arm_itm-1: PC: 0x080020b0
+94925:arm_itm-1: Timestamp: 1003448 (exact)
+94981:arm_itm-1: PC: 0x080020c8
+95015:arm_itm-1: Timestamp: 1004471 (exact)
+95071:arm_itm-1: PC: 0x0800206c
+95105:arm_itm-1: Timestamp: 1005494 (exact)
+95161:arm_itm-1: PC: 0x080020a8
+95195:arm_itm-1: Timestamp: 1006517 (exact)
+95251:arm_itm-1: PC: 0x080020c6
+95285:arm_itm-1: Timestamp: 1007540 (exact)
+95341:arm_itm-1: PC: 0x080020cc
+95375:arm_itm-1: Timestamp: 1008563 (exact)
+95431:arm_itm-1: PC: 0x0800206e
+95465:arm_itm-1: Timestamp: 1009586 (exact)
+95521:arm_itm-1: PC: 0x080020b0
+95555:arm_itm-1: Timestamp: 1010609 (exact)
+95611:arm_itm-1: PC: 0x080020c6
+95645:arm_itm-1: Timestamp: 1011632 (exact)
+95701:arm_itm-1: PC: 0x080020c2
+95735:arm_itm-1: Timestamp: 1012655 (exact)
+95791:arm_itm-1: PC: 0x080020a8
+95825:arm_itm-1: Timestamp: 1013678 (exact)
+95881:arm_itm-1: PC: 0x080020b0
+95915:arm_itm-1: Timestamp: 1014701 (exact)
+95971:arm_itm-1: PC: 0x080020c8
+96005:arm_itm-1: Timestamp: 1015724 (exact)
+96039:arm_itm-1: Thread
+96040:arm_itm-1: Enter: IRQ 30
+96074:arm_itm-1: Timestamp: 1016552 (exact)
+96130:arm_itm-1: PC: 0x08000b60
+96164:arm_itm-1: Timestamp: 1016746 (exact)
+96198:arm_itm-1: Watchpoint 0: address 0x????1410
+96254:arm_itm-1: Watchpoint 0: Write data 0x00000004
+96266:arm_itm-1: Overflow
+96300:arm_itm-1: IRQ 30
+96301:arm_itm-1: Resume: Thread
+96335:arm_itm-1: Timestamp: 1017725 (event and timestamp delayed)
+96391:arm_itm-1: PC: 0x080020c6
+96425:arm_itm-1: Timestamp: 1018534 (event and timestamp delayed)
+96481:arm_itm-1: PC: 0x080020c2
+96515:arm_itm-1: Timestamp: 1019253 (event and timestamp delayed)
+96571:arm_itm-1: PC: 0x080020a8
+96605:arm_itm-1: Timestamp: 1019972 (timestamp delayed)
+96661:arm_itm-1: PC: 0x080020c6
+96695:arm_itm-1: Timestamp: 1020837 (exact)
+96751:arm_itm-1: PC: 0x080020cc
+96785:arm_itm-1: Timestamp: 1021860 (exact)
+96841:arm_itm-1: PC: 0x0800206e
+96875:arm_itm-1: Timestamp: 1022883 (exact)
+96931:arm_itm-1: PC: 0x080020ac
+96965:arm_itm-1: Timestamp: 1023906 (exact)
+97021:arm_itm-1: PC: 0x080020c6
+97055:arm_itm-1: Timestamp: 1024929 (exact)
+97111:arm_itm-1: PC: 0x080020c2
+97145:arm_itm-1: Timestamp: 1025952 (exact)
+97201:arm_itm-1: PC: 0x0800206e
+97235:arm_itm-1: Timestamp: 1026975 (exact)
+97291:arm_itm-1: PC: 0x080020b0
+97325:arm_itm-1: Timestamp: 1027998 (exact)
+97381:arm_itm-1: PC: 0x080020c6
+97415:arm_itm-1: Timestamp: 1029021 (exact)
+97471:arm_itm-1: PC: 0x080020c2
+97505:arm_itm-1: Timestamp: 1030044 (exact)
+97561:arm_itm-1: PC: 0x080020a8
+97595:arm_itm-1: Timestamp: 1031067 (exact)
+97651:arm_itm-1: PC: 0x080020b0
+97685:arm_itm-1: Timestamp: 1032090 (exact)
+97741:arm_itm-1: PC: 0x080020c6
+97775:arm_itm-1: Timestamp: 1033113 (exact)
+97831:arm_itm-1: PC: 0x080020c2
+97865:arm_itm-1: Timestamp: 1034136 (exact)
+97921:arm_itm-1: PC: 0x080020a8
+97955:arm_itm-1: Timestamp: 1035159 (exact)
+98011:arm_itm-1: PC: 0x080020b0
+98045:arm_itm-1: Timestamp: 1036182 (exact)
+98101:arm_itm-1: PC: 0x080020c6
+98135:arm_itm-1: Timestamp: 1037205 (exact)
+98191:arm_itm-1: PC: 0x080020cc
+98225:arm_itm-1: Timestamp: 1038228 (exact)
+98281:arm_itm-1: PC: 0x0800206e
+98315:arm_itm-1: Timestamp: 1039251 (exact)
+98371:arm_itm-1: PC: 0x080020b0
+98405:arm_itm-1: Timestamp: 1040274 (exact)
+98461:arm_itm-1: PC: 0x080020c6
+98495:arm_itm-1: Timestamp: 1041297 (exact)
+98551:arm_itm-1: PC: 0x080020c2
+98585:arm_itm-1: Timestamp: 1042320 (exact)
+98641:arm_itm-1: PC: 0x080020a8
+98675:arm_itm-1: Timestamp: 1043343 (exact)
+98731:arm_itm-1: PC: 0x080020b0
+98765:arm_itm-1: Timestamp: 1044366 (exact)
+98821:arm_itm-1: PC: 0x080020cc
+98855:arm_itm-1: Timestamp: 1045389 (exact)
+98911:arm_itm-1: PC: 0x0800206e
+98945:arm_itm-1: Timestamp: 1046412 (exact)
+99001:arm_itm-1: PC: 0x080020aa
+99035:arm_itm-1: Timestamp: 1047435 (exact)
+99091:arm_itm-1: PC: 0x080020c6
+99125:arm_itm-1: Timestamp: 1048458 (exact)
+99181:arm_itm-1: PC: 0x080020c2
+99215:arm_itm-1: Timestamp: 1049481 (exact)
+99271:arm_itm-1: PC: 0x080020a8
+99305:arm_itm-1: Timestamp: 1050504 (exact)
+99361:arm_itm-1: PC: 0x080020b0
+99395:arm_itm-1: Timestamp: 1051527 (exact)
+99451:arm_itm-1: PC: 0x080020c8
+99485:arm_itm-1: Timestamp: 1052550 (exact)
+99541:arm_itm-1: PC: 0x080020c2
+99575:arm_itm-1: Timestamp: 1053573 (exact)
+99631:arm_itm-1: PC: 0x080020a8
+99665:arm_itm-1: Timestamp: 1054596 (exact)
+99721:arm_itm-1: PC: 0x080020c6
+99755:arm_itm-1: Timestamp: 1055619 (exact)
+99811:arm_itm-1: PC: 0x080020cc
+99845:arm_itm-1: Timestamp: 1056642 (exact)
+99901:arm_itm-1: PC: 0x0800206e
+99935:arm_itm-1: Timestamp: 1057665 (exact)
+99991:arm_itm-1: PC: 0x080020a8
+100025:arm_itm-1: Timestamp: 1058688 (exact)
+100081:arm_itm-1: PC: 0x080020c6
+100115:arm_itm-1: Timestamp: 1059711 (exact)
+100171:arm_itm-1: PC: 0x080020c2
+100205:arm_itm-1: Timestamp: 1060734 (exact)
+100261:arm_itm-1: PC: 0x0800206e
+100295:arm_itm-1: Timestamp: 1061757 (exact)
+100351:arm_itm-1: PC: 0x080020ae
+100385:arm_itm-1: Timestamp: 1062780 (exact)
+100441:arm_itm-1: PC: 0x080020b0
+100475:arm_itm-1: Timestamp: 1063803 (exact)
+100531:arm_itm-1: PC: 0x080020cc
+100565:arm_itm-1: Timestamp: 1064826 (exact)
+100621:arm_itm-1: PC: 0x0800206e
+100655:arm_itm-1: Timestamp: 1065849 (exact)
+100711:arm_itm-1: PC: 0x080020aa
+100745:arm_itm-1: Timestamp: 1066872 (exact)
+100801:arm_itm-1: PC: 0x080020c6
+100835:arm_itm-1: Timestamp: 1067895 (exact)
+100891:arm_itm-1: PC: 0x080020c8
+100925:arm_itm-1: Timestamp: 1068918 (exact)
+100981:arm_itm-1: PC: 0x0800206c
+101015:arm_itm-1: Timestamp: 1069941 (exact)
+101071:arm_itm-1: PC: 0x080020a8
+101105:arm_itm-1: Timestamp: 1070964 (exact)
+101161:arm_itm-1: PC: 0x080020c6
+101195:arm_itm-1: Timestamp: 1071987 (exact)
+101251:arm_itm-1: PC: 0x080020c2
+101285:arm_itm-1: Timestamp: 1073010 (exact)
+101341:arm_itm-1: PC: 0x0800206e
+101375:arm_itm-1: Timestamp: 1074033 (exact)
+101431:arm_itm-1: PC: 0x080020b0
+101465:arm_itm-1: Timestamp: 1075056 (exact)
+101521:arm_itm-1: PC: 0x080020c6
+101555:arm_itm-1: Timestamp: 1076079 (exact)
+101611:arm_itm-1: PC: 0x080020c2
+101645:arm_itm-1: Timestamp: 1077102 (exact)
+101701:arm_itm-1: PC: 0x080020a8
+101735:arm_itm-1: Timestamp: 1078125 (exact)
+101791:arm_itm-1: PC: 0x080020b0
+101825:arm_itm-1: Timestamp: 1079148 (exact)
+101881:arm_itm-1: PC: 0x080020cc
+101915:arm_itm-1: Timestamp: 1080171 (exact)
+101971:arm_itm-1: PC: 0x0800206e
+102005:arm_itm-1: Timestamp: 1081194 (exact)
+102061:arm_itm-1: PC: 0x080020ac
+102095:arm_itm-1: Timestamp: 1082217 (exact)
+102151:arm_itm-1: PC: 0x080020c6
+102185:arm_itm-1: Timestamp: 1083240 (exact)
+102241:arm_itm-1: PC: 0x080020c2
+102275:arm_itm-1: Timestamp: 1084263 (exact)
+102331:arm_itm-1: PC: 0x080020a8
+102365:arm_itm-1: Timestamp: 1085286 (exact)
+102421:arm_itm-1: PC: 0x080020b0
+102455:arm_itm-1: Timestamp: 1086309 (exact)
+102511:arm_itm-1: PC: 0x080020c6
+102545:arm_itm-1: Timestamp: 1087332 (exact)
+102601:arm_itm-1: PC: 0x080020c2
+102635:arm_itm-1: Timestamp: 1088355 (exact)
+102669:arm_itm-1: Thread
+102670:arm_itm-1: Enter: IRQ 30
+102693:arm_itm-1: Timestamp: 1088480 (exact)
+102727:arm_itm-1: Watchpoint 0: address 0x????1410
+102783:arm_itm-1: Watchpoint 0: Write data 0x00040000
+102795:arm_itm-1: Overflow
+102829:arm_itm-1: IRQ 30
+102830:arm_itm-1: Enter: SysTick
+102842:arm_itm-1: Overflow
+102876:arm_itm-1: SysTick
+102877:arm_itm-1: Enter: PendSV
+102889:arm_itm-1: Overflow
+102945:arm_itm-1: Watchpoint 2: PC 0x080004fa
+102957:arm_itm-1: Overflow
+103013:arm_itm-1: Watchpoint 2: Write data 0x00000003
+103025:arm_itm-1: Overflow
+103059:arm_itm-1: PendSV
+103060:arm_itm-1: Resume: Thread
+103072:arm_itm-1: Overflow
+103128:arm_itm-1: PC: 0x080020c2
+103184:arm_itm-1: PC: 0x080020a8
+103218:arm_itm-1: Timestamp: 1092317 (event and timestamp delayed)
+103274:arm_itm-1: PC: 0x080020b0
+103308:arm_itm-1: Timestamp: 1093036 (event and timestamp delayed)
+103364:arm_itm-1: PC: 0x080020ca
+103398:arm_itm-1: Timestamp: 1093755 (event and timestamp delayed)
+103454:arm_itm-1: PC: 0x0800206c
+103488:arm_itm-1: Timestamp: 1094494 (exact)
+103544:arm_itm-1: PC: 0x080020a8
+103578:arm_itm-1: Timestamp: 1095517 (exact)
+103634:arm_itm-1: PC: 0x080020c6
+103668:arm_itm-1: Timestamp: 1096540 (exact)
+103724:arm_itm-1: PC: 0x080020cc
+103758:arm_itm-1: Timestamp: 1097563 (exact)
+103814:arm_itm-1: PC: 0x0800206e
+103848:arm_itm-1: Timestamp: 1098586 (exact)
+103904:arm_itm-1: PC: 0x080020ac
+103938:arm_itm-1: Timestamp: 1099609 (exact)
+103994:arm_itm-1: PC: 0x080020c6
+104028:arm_itm-1: Timestamp: 1100632 (exact)
+104084:arm_itm-1: PC: 0x080020c2
+104118:arm_itm-1: Timestamp: 1101655 (exact)
+104174:arm_itm-1: PC: 0x0800206e
+104208:arm_itm-1: Timestamp: 1102678 (exact)
+104264:arm_itm-1: PC: 0x080020b0
+104298:arm_itm-1: Timestamp: 1103701 (exact)
+104354:arm_itm-1: PC: 0x080020c6
+104388:arm_itm-1: Timestamp: 1104724 (exact)
+104444:arm_itm-1: PC: 0x080020cc
+104478:arm_itm-1: Timestamp: 1105747 (exact)
+104534:arm_itm-1: PC: 0x0800206e
+104568:arm_itm-1: Timestamp: 1106770 (exact)
+104624:arm_itm-1: PC: 0x080020aa
+104658:arm_itm-1: Timestamp: 1107793 (exact)
+104714:arm_itm-1: PC: 0x080020c6
+104748:arm_itm-1: Timestamp: 1108816 (exact)
+104804:arm_itm-1: PC: 0x080020c2
+104838:arm_itm-1: Timestamp: 1109839 (exact)
+104894:arm_itm-1: PC: 0x0800206c
+104928:arm_itm-1: Timestamp: 1110862 (exact)
+104984:arm_itm-1: PC: 0x080020aa
+105018:arm_itm-1: Timestamp: 1111885 (exact)
+105074:arm_itm-1: PC: 0x080020c6
+105108:arm_itm-1: Timestamp: 1112908 (exact)
+105164:arm_itm-1: PC: 0x080020c2
+105198:arm_itm-1: Timestamp: 1113931 (exact)
+105254:arm_itm-1: PC: 0x080020a8
+105288:arm_itm-1: Timestamp: 1114954 (exact)
+105344:arm_itm-1: PC: 0x080020b0
+105378:arm_itm-1: Timestamp: 1115977 (exact)
+105434:arm_itm-1: PC: 0x080020c6
+105468:arm_itm-1: Timestamp: 1117000 (exact)
+105524:arm_itm-1: PC: 0x080020c2
+105558:arm_itm-1: Timestamp: 1118023 (exact)
+105614:arm_itm-1: PC: 0x080020a8
+105648:arm_itm-1: Timestamp: 1119046 (exact)
+105704:arm_itm-1: PC: 0x080020c6
+105738:arm_itm-1: Timestamp: 1120069 (exact)
+105794:arm_itm-1: PC: 0x080020cc
+105828:arm_itm-1: Timestamp: 1121092 (exact)
+105884:arm_itm-1: PC: 0x0800206e
+105918:arm_itm-1: Timestamp: 1122115 (exact)
+105974:arm_itm-1: PC: 0x080020ae
+106008:arm_itm-1: Timestamp: 1123138 (exact)
+106064:arm_itm-1: PC: 0x080020c6
+106098:arm_itm-1: Timestamp: 1124161 (exact)
+106154:arm_itm-1: PC: 0x080020c2
+106188:arm_itm-1: Timestamp: 1125184 (exact)
+106244:arm_itm-1: PC: 0x080020a8
+106278:arm_itm-1: Timestamp: 1126207 (exact)
+106334:arm_itm-1: PC: 0x080020b0
+106368:arm_itm-1: Timestamp: 1127230 (exact)
+106424:arm_itm-1: PC: 0x080020c6
+106458:arm_itm-1: Timestamp: 1128253 (exact)
+106514:arm_itm-1: PC: 0x080020c2
+106548:arm_itm-1: Timestamp: 1129276 (exact)
+106604:arm_itm-1: PC: 0x080020a8
+106638:arm_itm-1: Timestamp: 1130299 (exact)
+106694:arm_itm-1: PC: 0x080020b0
+106728:arm_itm-1: Timestamp: 1131322 (exact)
+106784:arm_itm-1: PC: 0x080020cc
+106818:arm_itm-1: Timestamp: 1132345 (exact)
+106874:arm_itm-1: PC: 0x0800206c
+106908:arm_itm-1: Timestamp: 1133368 (exact)
+106964:arm_itm-1: PC: 0x080020a8
+106998:arm_itm-1: Timestamp: 1134391 (exact)
+107054:arm_itm-1: PC: 0x080020c6
+107088:arm_itm-1: Timestamp: 1135414 (exact)
+107144:arm_itm-1: PC: 0x080020c8
+107178:arm_itm-1: Timestamp: 1136437 (exact)
+107234:arm_itm-1: PC: 0x0800206c
+107268:arm_itm-1: Timestamp: 1137460 (exact)
+107324:arm_itm-1: PC: 0x080020a8
+107358:arm_itm-1: Timestamp: 1138483 (exact)
+107414:arm_itm-1: PC: 0x080020c6
+107448:arm_itm-1: Timestamp: 1139506 (exact)
+107504:arm_itm-1: PC: 0x080020cc
+107538:arm_itm-1: Timestamp: 1140529 (exact)
+107594:arm_itm-1: PC: 0x080020c2
+107628:arm_itm-1: Timestamp: 1141552 (exact)
+107684:arm_itm-1: PC: 0x080020a8
+107718:arm_itm-1: Timestamp: 1142575 (exact)
+107774:arm_itm-1: PC: 0x080020b0
+107808:arm_itm-1: Timestamp: 1143598 (exact)
+107864:arm_itm-1: PC: 0x080020cc
+107898:arm_itm-1: Timestamp: 1144621 (exact)
+107954:arm_itm-1: PC: 0x0800206e
+107988:arm_itm-1: Timestamp: 1145644 (exact)
+108044:arm_itm-1: PC: 0x080020aa
+108078:arm_itm-1: Timestamp: 1146667 (exact)
+108134:arm_itm-1: PC: 0x080020c6
+108168:arm_itm-1: Timestamp: 1147690 (exact)
+108224:arm_itm-1: PC: 0x080020c2
+108258:arm_itm-1: Timestamp: 1148713 (exact)
+108314:arm_itm-1: PC: 0x080020a8
+108348:arm_itm-1: Timestamp: 1149736 (exact)
+108404:arm_itm-1: PC: 0x080020b0
+108438:arm_itm-1: Timestamp: 1150759 (exact)
+108494:arm_itm-1: PC: 0x080020c8
+108528:arm_itm-1: Timestamp: 1151782 (exact)
+108584:arm_itm-1: PC: 0x0800206c
+108618:arm_itm-1: Timestamp: 1152805 (exact)
+108674:arm_itm-1: PC: 0x080020a8
+108708:arm_itm-1: Timestamp: 1153828 (exact)
+108764:arm_itm-1: PC: 0x080020c6
+108798:arm_itm-1: Timestamp: 1154851 (exact)
+108854:arm_itm-1: PC: 0x080020c2
+108888:arm_itm-1: Timestamp: 1155874 (exact)
+108944:arm_itm-1: PC: 0x0800206e
+108978:arm_itm-1: Timestamp: 1156897 (exact)
+109034:arm_itm-1: PC: 0x080020b0
+109068:arm_itm-1: Timestamp: 1157920 (exact)
+109124:arm_itm-1: PC: 0x080020c6
+109158:arm_itm-1: Timestamp: 1158943 (exact)
+109214:arm_itm-1: PC: 0x080020c2
+109248:arm_itm-1: Timestamp: 1159966 (exact)
+109282:arm_itm-1: Thread
+109283:arm_itm-1: Enter: IRQ 30
+109317:arm_itm-1: Timestamp: 1160410 (exact)
+109351:arm_itm-1: Watchpoint 0: address 0x????1410
+109407:arm_itm-1: Watchpoint 0: Write data 0x00000004
+109419:arm_itm-1: Overflow
+109453:arm_itm-1: IRQ 30
+109454:arm_itm-1: Resume: Thread
+109466:arm_itm-1: Overflow
+109500:arm_itm-1: Thread
+109501:arm_itm-1: Resume: Thread
+109557:arm_itm-1: PC: 0x08001e02
+109591:arm_itm-1: Timestamp: 1161944 (event and timestamp delayed)
+109647:arm_itm-1: PC: 0x080020c2
+109681:arm_itm-1: Timestamp: 1162753 (event and timestamp delayed)
+109737:arm_itm-1: PC: 0x080020a8
+109771:arm_itm-1: Timestamp: 1163472 (event and timestamp delayed)
+109827:arm_itm-1: PC: 0x080020b0
+109861:arm_itm-1: Timestamp: 1164191 (timestamp delayed)
+109917:arm_itm-1: PC: 0x080020c8
+109951:arm_itm-1: Timestamp: 1165080 (exact)
+110007:arm_itm-1: PC: 0x0800206c
+110041:arm_itm-1: Timestamp: 1166103 (exact)
+110097:arm_itm-1: PC: 0x0800206e
+110131:arm_itm-1: Timestamp: 1167126 (exact)
+110187:arm_itm-1: PC: 0x080020b0
+110221:arm_itm-1: Timestamp: 1168149 (exact)
+110277:arm_itm-1: PC: 0x080020c8
+110311:arm_itm-1: Timestamp: 1169172 (exact)
+110367:arm_itm-1: PC: 0x080020c2
+110401:arm_itm-1: Timestamp: 1170195 (exact)
+110457:arm_itm-1: PC: 0x080020a8
+110491:arm_itm-1: Timestamp: 1171218 (exact)
+110547:arm_itm-1: PC: 0x080020ae
+110581:arm_itm-1: Timestamp: 1172241 (exact)
+110637:arm_itm-1: PC: 0x080020c6
+110671:arm_itm-1: Timestamp: 1173264 (exact)
+110727:arm_itm-1: PC: 0x080020c2
+110761:arm_itm-1: Timestamp: 1174287 (exact)
+110817:arm_itm-1: PC: 0x080020a8
+110851:arm_itm-1: Timestamp: 1175310 (exact)
+110907:arm_itm-1: PC: 0x080020b0
+110941:arm_itm-1: Timestamp: 1176333 (exact)
+110997:arm_itm-1: PC: 0x080020ca
+111031:arm_itm-1: Timestamp: 1177356 (exact)
+111087:arm_itm-1: PC: 0x0800206c
+111121:arm_itm-1: Timestamp: 1178379 (exact)
+111177:arm_itm-1: PC: 0x080020aa
+111211:arm_itm-1: Timestamp: 1179402 (exact)
+111267:arm_itm-1: PC: 0x080020c6
+111301:arm_itm-1: Timestamp: 1180425 (exact)
+111357:arm_itm-1: PC: 0x080020c2
+111391:arm_itm-1: Timestamp: 1181448 (exact)
+111447:arm_itm-1: PC: 0x0800206e
+111481:arm_itm-1: Timestamp: 1182471 (exact)
+111537:arm_itm-1: PC: 0x080020b0
+111571:arm_itm-1: Timestamp: 1183494 (exact)
+111627:arm_itm-1: PC: 0x080020c8
+111661:arm_itm-1: Timestamp: 1184517 (exact)
+111717:arm_itm-1: PC: 0x0800206c
+111751:arm_itm-1: Timestamp: 1185540 (exact)
+111807:arm_itm-1: PC: 0x080020a8
+111841:arm_itm-1: Timestamp: 1186563 (exact)
+111897:arm_itm-1: PC: 0x080020c6
+111931:arm_itm-1: Timestamp: 1187586 (exact)
+111987:arm_itm-1: PC: 0x080020cc
+112021:arm_itm-1: Timestamp: 1188609 (exact)
+112077:arm_itm-1: PC: 0x0800206e
+112111:arm_itm-1: Timestamp: 1189632 (exact)
+112167:arm_itm-1: PC: 0x080020aa
+112201:arm_itm-1: Timestamp: 1190655 (exact)
+112257:arm_itm-1: PC: 0x080020c6
+112291:arm_itm-1: Timestamp: 1191678 (exact)
+112347:arm_itm-1: PC: 0x080020c2
+112381:arm_itm-1: Timestamp: 1192701 (exact)
+112437:arm_itm-1: PC: 0x0800206e
+112471:arm_itm-1: Timestamp: 1193724 (exact)
+112527:arm_itm-1: PC: 0x080020b0
+112561:arm_itm-1: Timestamp: 1194747 (exact)
+112617:arm_itm-1: PC: 0x080020c6
+112651:arm_itm-1: Timestamp: 1195770 (exact)
+112707:arm_itm-1: PC: 0x080020c2
+112741:arm_itm-1: Timestamp: 1196793 (exact)
+112797:arm_itm-1: PC: 0x0800206e
+112831:arm_itm-1: Timestamp: 1197816 (exact)
+112887:arm_itm-1: PC: 0x080020aa
+112921:arm_itm-1: Timestamp: 1198839 (exact)
+112977:arm_itm-1: PC: 0x080020c6
+113011:arm_itm-1: Timestamp: 1199862 (exact)
+113067:arm_itm-1: PC: 0x080020c2
+113101:arm_itm-1: Timestamp: 1200885 (exact)
+113157:arm_itm-1: PC: 0x080020a8
+113191:arm_itm-1: Timestamp: 1201908 (exact)
+113247:arm_itm-1: PC: 0x080020a8
+113281:arm_itm-1: Timestamp: 1202931 (exact)
+113337:arm_itm-1: PC: 0x080020c6
+113371:arm_itm-1: Timestamp: 1203954 (exact)
+113427:arm_itm-1: PC: 0x080020c2
+113461:arm_itm-1: Timestamp: 1204977 (exact)
+113517:arm_itm-1: PC: 0x0800206e
+113551:arm_itm-1: Timestamp: 1206000 (exact)
+113607:arm_itm-1: PC: 0x080020b0
+113641:arm_itm-1: Timestamp: 1207023 (exact)
+113697:arm_itm-1: PC: 0x080020c6
+113731:arm_itm-1: Timestamp: 1208046 (exact)
+113787:arm_itm-1: PC: 0x080020c2
+113821:arm_itm-1: Timestamp: 1209069 (exact)
+113877:arm_itm-1: PC: 0x080020a8
+113911:arm_itm-1: Timestamp: 1210092 (exact)
+113967:arm_itm-1: PC: 0x080020b0
+114001:arm_itm-1: Timestamp: 1211115 (exact)
+114057:arm_itm-1: PC: 0x080020cc
+114091:arm_itm-1: Timestamp: 1212138 (exact)
+114147:arm_itm-1: PC: 0x0800206e
+114181:arm_itm-1: Timestamp: 1213161 (exact)
+114237:arm_itm-1: PC: 0x080020aa
+114271:arm_itm-1: Timestamp: 1214184 (exact)
+114327:arm_itm-1: PC: 0x080020c6
+114361:arm_itm-1: Timestamp: 1215207 (exact)
+114417:arm_itm-1: PC: 0x080020c2
+114451:arm_itm-1: Timestamp: 1216230 (exact)
+114507:arm_itm-1: PC: 0x080020a8
+114541:arm_itm-1: Timestamp: 1217253 (exact)
+114597:arm_itm-1: PC: 0x080020b0
+114631:arm_itm-1: Timestamp: 1218276 (exact)
+114687:arm_itm-1: PC: 0x080020c8
+114721:arm_itm-1: Timestamp: 1219299 (exact)
+114777:arm_itm-1: PC: 0x0800206c
+114811:arm_itm-1: Timestamp: 1220322 (exact)
+114867:arm_itm-1: PC: 0x080020a8
+114901:arm_itm-1: Timestamp: 1221345 (exact)
+114957:arm_itm-1: PC: 0x080020b0
+114991:arm_itm-1: Timestamp: 1222368 (exact)
+115047:arm_itm-1: PC: 0x080020cc
+115081:arm_itm-1: Timestamp: 1223391 (exact)
+115137:arm_itm-1: PC: 0x0800206e
+115171:arm_itm-1: Timestamp: 1224414 (exact)
+115227:arm_itm-1: PC: 0x080020aa
+115261:arm_itm-1: Timestamp: 1225437 (exact)
+115317:arm_itm-1: PC: 0x080020c6
+115351:arm_itm-1: Timestamp: 1226460 (exact)
+115407:arm_itm-1: PC: 0x080020cc
+115441:arm_itm-1: Timestamp: 1227483 (exact)
+115497:arm_itm-1: PC: 0x080020c2
+115531:arm_itm-1: Timestamp: 1228506 (exact)
+115587:arm_itm-1: PC: 0x080020a8
+115621:arm_itm-1: Timestamp: 1229529 (exact)
+115677:arm_itm-1: PC: 0x080020c6
+115711:arm_itm-1: Timestamp: 1230552 (exact)
+115767:arm_itm-1: PC: 0x080020cc
+115801:arm_itm-1: Timestamp: 1231575 (exact)
+115835:arm_itm-1: Thread
+115836:arm_itm-1: Enter: IRQ 30
+115870:arm_itm-1: Timestamp: 1232339 (exact)
+115904:arm_itm-1: Watchpoint 0: address 0x????1410
+115960:arm_itm-1: Watchpoint 0: Write data 0x00040000
+115994:arm_itm-1: Timestamp: 1232582 (exact)
+116006:arm_itm-1: Overflow
+116040:arm_itm-1: IRQ 30
+116041:arm_itm-1: Resume: Thread
+116053:arm_itm-1: Overflow
+116087:arm_itm-1: Thread
+116088:arm_itm-1: Resume: Thread
+116144:arm_itm-1: PC: 0x08000642
+116200:arm_itm-1: PC: 0x080020c6
+116234:arm_itm-1: Timestamp: 1234412 (event and timestamp delayed)
+116290:arm_itm-1: PC: 0x080020c2
+116324:arm_itm-1: Timestamp: 1235131 (event and timestamp delayed)
+116380:arm_itm-1: PC: 0x080020a8
+116414:arm_itm-1: Timestamp: 1235850 (timestamp delayed)
+116470:arm_itm-1: PC: 0x080020b0
+116504:arm_itm-1: Timestamp: 1236689 (exact)
+116560:arm_itm-1: PC: 0x080020cc
+116594:arm_itm-1: Timestamp: 1237712 (exact)
+116650:arm_itm-1: PC: 0x080020c2
+116684:arm_itm-1: Timestamp: 1238735 (exact)
+116740:arm_itm-1: PC: 0x080020a8
+116774:arm_itm-1: Timestamp: 1239758 (exact)
+116830:arm_itm-1: PC: 0x080020b0
+116864:arm_itm-1: Timestamp: 1240781 (exact)
+116920:arm_itm-1: PC: 0x080020cc
+116954:arm_itm-1: Timestamp: 1241804 (exact)
+117010:arm_itm-1: PC: 0x0800206e
+117044:arm_itm-1: Timestamp: 1242827 (exact)
+117100:arm_itm-1: PC: 0x080020a8
+117134:arm_itm-1: Timestamp: 1243850 (exact)
+117190:arm_itm-1: PC: 0x080020c6
+117224:arm_itm-1: Timestamp: 1244873 (exact)
+117280:arm_itm-1: PC: 0x080020c2
+117314:arm_itm-1: Timestamp: 1245896 (exact)
+117370:arm_itm-1: PC: 0x080020a8
+117404:arm_itm-1: Timestamp: 1246919 (exact)
+117460:arm_itm-1: PC: 0x080020b0
+117494:arm_itm-1: Timestamp: 1247942 (exact)
+117550:arm_itm-1: PC: 0x080020c6
+117584:arm_itm-1: Timestamp: 1248965 (exact)
+117640:arm_itm-1: PC: 0x080020c2
+117674:arm_itm-1: Timestamp: 1249988 (exact)
+117730:arm_itm-1: PC: 0x080020a8
+117764:arm_itm-1: Timestamp: 1251011 (exact)
+117820:arm_itm-1: PC: 0x080020c6
+117854:arm_itm-1: Timestamp: 1252034 (exact)
+117910:arm_itm-1: PC: 0x080020cc
+117944:arm_itm-1: Timestamp: 1253057 (exact)
+118000:arm_itm-1: PC: 0x0800206e
+118034:arm_itm-1: Timestamp: 1254080 (exact)
+118090:arm_itm-1: PC: 0x080020ae
+118124:arm_itm-1: Timestamp: 1255103 (exact)
+118180:arm_itm-1: PC: 0x080020c6
+118214:arm_itm-1: Timestamp: 1256126 (exact)
+118270:arm_itm-1: PC: 0x080020c2
+118304:arm_itm-1: Timestamp: 1257149 (exact)
+118360:arm_itm-1: PC: 0x080020a8
+118394:arm_itm-1: Timestamp: 1258172 (exact)
+118450:arm_itm-1: PC: 0x080020b0
+118484:arm_itm-1: Timestamp: 1259195 (exact)
+118540:arm_itm-1: PC: 0x080020c6
+118574:arm_itm-1: Timestamp: 1260218 (exact)
+118630:arm_itm-1: PC: 0x080020c2
+118664:arm_itm-1: Timestamp: 1261241 (exact)
+118720:arm_itm-1: PC: 0x080020a8
+118754:arm_itm-1: Timestamp: 1262264 (exact)
+118810:arm_itm-1: PC: 0x080020b0
+118844:arm_itm-1: Timestamp: 1263287 (exact)
+118900:arm_itm-1: PC: 0x080020cc
+118934:arm_itm-1: Timestamp: 1264310 (exact)
+118990:arm_itm-1: PC: 0x080020c2
+119024:arm_itm-1: Timestamp: 1265333 (exact)
+119080:arm_itm-1: PC: 0x080020a8
+119114:arm_itm-1: Timestamp: 1266356 (exact)
+119170:arm_itm-1: PC: 0x080020b0
+119204:arm_itm-1: Timestamp: 1267379 (exact)
+119260:arm_itm-1: PC: 0x080020c8
+119294:arm_itm-1: Timestamp: 1268402 (exact)
+119350:arm_itm-1: PC: 0x0800206c
+119384:arm_itm-1: Timestamp: 1269425 (exact)
+119440:arm_itm-1: PC: 0x0800206e
+119474:arm_itm-1: Timestamp: 1270448 (exact)
+119530:arm_itm-1: PC: 0x080020b0
+119564:arm_itm-1: Timestamp: 1271471 (exact)
+119620:arm_itm-1: PC: 0x080020c6
+119654:arm_itm-1: Timestamp: 1272494 (exact)
+119710:arm_itm-1: PC: 0x080020c2
+119744:arm_itm-1: Timestamp: 1273517 (exact)
+119800:arm_itm-1: PC: 0x080020a8
+119834:arm_itm-1: Timestamp: 1274540 (exact)
+119890:arm_itm-1: PC: 0x080020b0
+119924:arm_itm-1: Timestamp: 1275563 (exact)
+119980:arm_itm-1: PC: 0x080020cc
+120014:arm_itm-1: Timestamp: 1276586 (exact)
+120070:arm_itm-1: PC: 0x0800206e
+120104:arm_itm-1: Timestamp: 1277609 (exact)
+120160:arm_itm-1: PC: 0x080020ac
+120194:arm_itm-1: Timestamp: 1278632 (exact)
+120250:arm_itm-1: PC: 0x080020c6
+120284:arm_itm-1: Timestamp: 1279655 (exact)
+120340:arm_itm-1: PC: 0x080020c2
+120374:arm_itm-1: Timestamp: 1280678 (exact)
+120430:arm_itm-1: PC: 0x080020a8
+120464:arm_itm-1: Timestamp: 1281701 (exact)
+120520:arm_itm-1: PC: 0x080020b0
+120554:arm_itm-1: Timestamp: 1282724 (exact)
+120610:arm_itm-1: PC: 0x080020ca
+120644:arm_itm-1: Timestamp: 1283747 (exact)
+120700:arm_itm-1: PC: 0x0800206c
+120734:arm_itm-1: Timestamp: 1284770 (exact)
+120790:arm_itm-1: PC: 0x080020a8
+120824:arm_itm-1: Timestamp: 1285793 (exact)
+120880:arm_itm-1: PC: 0x080020c6
+120914:arm_itm-1: Timestamp: 1286816 (exact)
+120970:arm_itm-1: PC: 0x080020cc
+121004:arm_itm-1: Timestamp: 1287839 (exact)
+121060:arm_itm-1: PC: 0x0800206e
+121094:arm_itm-1: Timestamp: 1288862 (exact)
+121150:arm_itm-1: PC: 0x080020ac
+121184:arm_itm-1: Timestamp: 1289885 (exact)
+121240:arm_itm-1: PC: 0x080020c6
+121274:arm_itm-1: Timestamp: 1290908 (exact)
+121330:arm_itm-1: PC: 0x080020c2
+121364:arm_itm-1: Timestamp: 1291931 (exact)
+121420:arm_itm-1: PC: 0x0800206e
+121454:arm_itm-1: Timestamp: 1292954 (exact)
+121510:arm_itm-1: PC: 0x080020b0
+121544:arm_itm-1: Timestamp: 1293977 (exact)
+121600:arm_itm-1: PC: 0x080020c6
+121634:arm_itm-1: Timestamp: 1295000 (exact)
+121690:arm_itm-1: PC: 0x080020cc
+121724:arm_itm-1: Timestamp: 1296023 (exact)
+121780:arm_itm-1: PC: 0x0800206e
+121814:arm_itm-1: Timestamp: 1297046 (exact)
+121870:arm_itm-1: PC: 0x080020aa
+121904:arm_itm-1: Timestamp: 1298069 (exact)
+121960:arm_itm-1: PC: 0x080020c6
+121994:arm_itm-1: Timestamp: 1299092 (exact)
+122050:arm_itm-1: PC: 0x080020c2
+122084:arm_itm-1: Timestamp: 1300115 (exact)
+122140:arm_itm-1: PC: 0x0800206c
+122174:arm_itm-1: Timestamp: 1301138 (exact)
+122230:arm_itm-1: PC: 0x080020aa
+122264:arm_itm-1: Timestamp: 1302161 (exact)
+122320:arm_itm-1: PC: 0x080020c6
+122354:arm_itm-1: Timestamp: 1303184 (exact)
+122410:arm_itm-1: PC: 0x080020c2
+122444:arm_itm-1: Timestamp: 1304207 (exact)
+122478:arm_itm-1: Thread
+122479:arm_itm-1: Enter: IRQ 30
+122502:arm_itm-1: Timestamp: 1304267 (exact)
+122536:arm_itm-1: Watchpoint 0: address 0x????1410
+122592:arm_itm-1: Watchpoint 0: Write data 0x00000004
+122604:arm_itm-1: Overflow
+122638:arm_itm-1: IRQ 30
+122639:arm_itm-1: Resume: Thread
+122695:arm_itm-1: PC: 0x080020c6
+122729:arm_itm-1: Timestamp: 1305738 (event and timestamp delayed)
+122785:arm_itm-1: PC: 0x080020ca
+122819:arm_itm-1: Timestamp: 1306547 (event and timestamp delayed)
+122875:arm_itm-1: PC: 0x0800206c
+122909:arm_itm-1: Timestamp: 1307275 (exact)
+122965:arm_itm-1: PC: 0x080020aa
+122999:arm_itm-1: Timestamp: 1308298 (exact)
+123055:arm_itm-1: PC: 0x080020c6
+123089:arm_itm-1: Timestamp: 1309321 (exact)
+123145:arm_itm-1: PC: 0x080020c2
+123179:arm_itm-1: Timestamp: 1310344 (exact)
+123235:arm_itm-1: PC: 0x0800206e
+123269:arm_itm-1: Timestamp: 1311367 (exact)
+123325:arm_itm-1: PC: 0x080020b0
+123359:arm_itm-1: Timestamp: 1312390 (exact)
+123415:arm_itm-1: PC: 0x080020c6
+123449:arm_itm-1: Timestamp: 1313413 (exact)
+123505:arm_itm-1: PC: 0x080020c2
+123539:arm_itm-1: Timestamp: 1314436 (exact)
+123595:arm_itm-1: PC: 0x080020a8
+123629:arm_itm-1: Timestamp: 1315459 (exact)
+123685:arm_itm-1: PC: 0x080020b0
+123719:arm_itm-1: Timestamp: 1316482 (exact)
+123775:arm_itm-1: PC: 0x080020cc
+123809:arm_itm-1: Timestamp: 1317505 (exact)
+123865:arm_itm-1: PC: 0x0800206e
+123899:arm_itm-1: Timestamp: 1318528 (exact)
+123955:arm_itm-1: PC: 0x080020ae
+123989:arm_itm-1: Timestamp: 1319551 (exact)
+124045:arm_itm-1: PC: 0x080020c6
+124079:arm_itm-1: Timestamp: 1320574 (exact)
+124135:arm_itm-1: PC: 0x080020c2
+124169:arm_itm-1: Timestamp: 1321597 (exact)
+124225:arm_itm-1: PC: 0x080020a8
+124259:arm_itm-1: Timestamp: 1322620 (exact)
+124315:arm_itm-1: PC: 0x080020b0
+124349:arm_itm-1: Timestamp: 1323643 (exact)
+124405:arm_itm-1: PC: 0x080020c6
+124439:arm_itm-1: Timestamp: 1324666 (exact)
+124495:arm_itm-1: PC: 0x080020c2
+124529:arm_itm-1: Timestamp: 1325689 (exact)
+124585:arm_itm-1: PC: 0x080020a8
+124619:arm_itm-1: Timestamp: 1326712 (exact)
+124675:arm_itm-1: PC: 0x080020b0
+124709:arm_itm-1: Timestamp: 1327735 (exact)
+124765:arm_itm-1: PC: 0x080020c8
+124799:arm_itm-1: Timestamp: 1328758 (exact)
+124855:arm_itm-1: PC: 0x0800206c
+124889:arm_itm-1: Timestamp: 1329781 (exact)
+124945:arm_itm-1: PC: 0x080020a8
+124979:arm_itm-1: Timestamp: 1330804 (exact)
+125035:arm_itm-1: PC: 0x080020b0
+125069:arm_itm-1: Timestamp: 1331827 (exact)
+125125:arm_itm-1: PC: 0x080020c8
+125159:arm_itm-1: Timestamp: 1332850 (exact)
+125215:arm_itm-1: PC: 0x080020c2
+125249:arm_itm-1: Timestamp: 1333873 (exact)
+125305:arm_itm-1: PC: 0x080020a8
+125339:arm_itm-1: Timestamp: 1334896 (exact)
+125395:arm_itm-1: PC: 0x080020c6
+125429:arm_itm-1: Timestamp: 1335919 (exact)
+125485:arm_itm-1: PC: 0x080020c6
+125519:arm_itm-1: Timestamp: 1336942 (exact)
+125575:arm_itm-1: PC: 0x080020c2
+125609:arm_itm-1: Timestamp: 1337965 (exact)
+125665:arm_itm-1: PC: 0x080020a8
+125699:arm_itm-1: Timestamp: 1338988 (exact)
+125755:arm_itm-1: PC: 0x080020b0
+125789:arm_itm-1: Timestamp: 1340011 (exact)
+125845:arm_itm-1: PC: 0x080020cc
+125879:arm_itm-1: Timestamp: 1341034 (exact)
+125935:arm_itm-1: PC: 0x0800206c
+125969:arm_itm-1: Timestamp: 1342057 (exact)
+126025:arm_itm-1: PC: 0x080020aa
+126059:arm_itm-1: Timestamp: 1343080 (exact)
+126115:arm_itm-1: PC: 0x080020c6
+126149:arm_itm-1: Timestamp: 1344103 (exact)
+126205:arm_itm-1: PC: 0x080020c2
+126239:arm_itm-1: Timestamp: 1345126 (exact)
+126295:arm_itm-1: PC: 0x080020a8
+126329:arm_itm-1: Timestamp: 1346149 (exact)
+126385:arm_itm-1: PC: 0x080020b0
+126419:arm_itm-1: Timestamp: 1347172 (exact)
+126475:arm_itm-1: PC: 0x080020c8
+126509:arm_itm-1: Timestamp: 1348195 (exact)
+126565:arm_itm-1: PC: 0x0800206c
+126599:arm_itm-1: Timestamp: 1349218 (exact)
+126655:arm_itm-1: PC: 0x080020a8
+126689:arm_itm-1: Timestamp: 1350241 (exact)
+126745:arm_itm-1: PC: 0x080020c6
+126779:arm_itm-1: Timestamp: 1351264 (exact)
+126835:arm_itm-1: PC: 0x080020cc
+126869:arm_itm-1: Timestamp: 1352287 (exact)
+126925:arm_itm-1: PC: 0x0800206e
+126959:arm_itm-1: Timestamp: 1353310 (exact)
+127015:arm_itm-1: PC: 0x080020b0
+127049:arm_itm-1: Timestamp: 1354333 (exact)
+127105:arm_itm-1: PC: 0x080020c6
+127139:arm_itm-1: Timestamp: 1355356 (exact)
+127195:arm_itm-1: PC: 0x080020c2
+127229:arm_itm-1: Timestamp: 1356379 (exact)
+127285:arm_itm-1: PC: 0x0800206e
+127319:arm_itm-1: Timestamp: 1357402 (exact)
+127375:arm_itm-1: PC: 0x080020b0
+127409:arm_itm-1: Timestamp: 1358425 (exact)
+127465:arm_itm-1: PC: 0x080020c8
+127499:arm_itm-1: Timestamp: 1359448 (exact)
+127555:arm_itm-1: PC: 0x080020c2
+127589:arm_itm-1: Timestamp: 1360471 (exact)
+127645:arm_itm-1: PC: 0x080020a8
+127679:arm_itm-1: Timestamp: 1361494 (exact)
+127735:arm_itm-1: PC: 0x080020aa
+127769:arm_itm-1: Timestamp: 1362517 (exact)
+127825:arm_itm-1: PC: 0x080020c6
+127859:arm_itm-1: Timestamp: 1363540 (exact)
+127915:arm_itm-1: PC: 0x080020c2
+127949:arm_itm-1: Timestamp: 1364563 (exact)
+128005:arm_itm-1: PC: 0x080020a8
+128039:arm_itm-1: Timestamp: 1365586 (exact)
+128095:arm_itm-1: PC: 0x080020b0
+128129:arm_itm-1: Timestamp: 1366609 (exact)
+128185:arm_itm-1: PC: 0x080020c6
+128219:arm_itm-1: Timestamp: 1367632 (exact)
+128275:arm_itm-1: PC: 0x080020c2
+128309:arm_itm-1: Timestamp: 1368655 (exact)
+128365:arm_itm-1: PC: 0x0800206e
+128399:arm_itm-1: Timestamp: 1369678 (exact)
+128455:arm_itm-1: PC: 0x080020b0
+128489:arm_itm-1: Timestamp: 1370701 (exact)
+128545:arm_itm-1: PC: 0x080020c8
+128579:arm_itm-1: Timestamp: 1371724 (exact)
+128635:arm_itm-1: PC: 0x080020c2
+128669:arm_itm-1: Timestamp: 1372747 (exact)
+128725:arm_itm-1: PC: 0x080020a8
+128759:arm_itm-1: Timestamp: 1373770 (exact)
+128815:arm_itm-1: PC: 0x080020b0
+128849:arm_itm-1: Timestamp: 1374793 (exact)
+128905:arm_itm-1: PC: 0x080020cc
+128939:arm_itm-1: Timestamp: 1375816 (exact)
+128973:arm_itm-1: Thread
+128974:arm_itm-1: Enter: IRQ 30
+129008:arm_itm-1: Timestamp: 1376196 (exact)
+129042:arm_itm-1: Watchpoint 0: address 0x????1410
+129098:arm_itm-1: Watchpoint 0: Write data 0x00040000
+129110:arm_itm-1: Overflow
+129144:arm_itm-1: IRQ 30
+129145:arm_itm-1: Enter: SysTick
+129157:arm_itm-1: Overflow
+129191:arm_itm-1: SysTick
+129192:arm_itm-1: Resume: Thread
+129248:arm_itm-1: PC: 0x08001ed6
+129282:arm_itm-1: Timestamp: 1377793 (event and timestamp delayed)
+129338:arm_itm-1: PC: 0x080020cc
+129372:arm_itm-1: Timestamp: 1378602 (event and timestamp delayed)
+129428:arm_itm-1: PC: 0x0800206e
+129462:arm_itm-1: Timestamp: 1379321 (event and timestamp delayed)
+129518:arm_itm-1: PC: 0x080020b0
+129552:arm_itm-1: Timestamp: 1380040 (timestamp delayed)
+129608:arm_itm-1: PC: 0x080020c6
+129642:arm_itm-1: Timestamp: 1380930 (exact)
+129698:arm_itm-1: PC: 0x080020c2
+129732:arm_itm-1: Timestamp: 1381953 (exact)
+129788:arm_itm-1: PC: 0x080020a8
+129822:arm_itm-1: Timestamp: 1382976 (exact)
+129878:arm_itm-1: PC: 0x080020b0
+129912:arm_itm-1: Timestamp: 1383999 (exact)
+129968:arm_itm-1: PC: 0x080020cc
+130002:arm_itm-1: Timestamp: 1385022 (exact)
+130058:arm_itm-1: PC: 0x0800206e
+130092:arm_itm-1: Timestamp: 1386045 (exact)
+130148:arm_itm-1: PC: 0x080020ac
+130182:arm_itm-1: Timestamp: 1387068 (exact)
+130238:arm_itm-1: PC: 0x080020c6
+130272:arm_itm-1: Timestamp: 1388091 (exact)
+130328:arm_itm-1: PC: 0x080020c2
+130362:arm_itm-1: Timestamp: 1389114 (exact)
+130418:arm_itm-1: PC: 0x080020a8
+130452:arm_itm-1: Timestamp: 1390137 (exact)
+130508:arm_itm-1: PC: 0x080020b0
+130542:arm_itm-1: Timestamp: 1391160 (exact)
+130598:arm_itm-1: PC: 0x080020ca
+130632:arm_itm-1: Timestamp: 1392183 (exact)
+130688:arm_itm-1: PC: 0x0800206c
+130722:arm_itm-1: Timestamp: 1393206 (exact)
+130778:arm_itm-1: PC: 0x080020a8
+130812:arm_itm-1: Timestamp: 1394229 (exact)
+130868:arm_itm-1: PC: 0x080020c6
+130902:arm_itm-1: Timestamp: 1395252 (exact)
+130958:arm_itm-1: PC: 0x080020cc
+130992:arm_itm-1: Timestamp: 1396275 (exact)
+131048:arm_itm-1: PC: 0x0800206e
+131082:arm_itm-1: Timestamp: 1397298 (exact)
+131138:arm_itm-1: PC: 0x080020aa
+131172:arm_itm-1: Timestamp: 1398321 (exact)
+131228:arm_itm-1: PC: 0x080020c6
+131262:arm_itm-1: Timestamp: 1399344 (exact)
+131318:arm_itm-1: PC: 0x080020c2
+131352:arm_itm-1: Timestamp: 1400367 (exact)
+131408:arm_itm-1: PC: 0x0800206e
+131442:arm_itm-1: Timestamp: 1401390 (exact)
+131498:arm_itm-1: PC: 0x080020b0
+131532:arm_itm-1: Timestamp: 1402413 (exact)
+131588:arm_itm-1: PC: 0x080020b0
+131622:arm_itm-1: Timestamp: 1403436 (exact)
+131678:arm_itm-1: PC: 0x080020cc
+131712:arm_itm-1: Timestamp: 1404459 (exact)
+131768:arm_itm-1: PC: 0x0800206e
+131802:arm_itm-1: Timestamp: 1405482 (exact)
+131858:arm_itm-1: PC: 0x080020aa
+131892:arm_itm-1: Timestamp: 1406505 (exact)
+131948:arm_itm-1: PC: 0x080020c6
+131982:arm_itm-1: Timestamp: 1407528 (exact)
+132038:arm_itm-1: PC: 0x080020ca
+132072:arm_itm-1: Timestamp: 1408551 (exact)
+132128:arm_itm-1: PC: 0x0800206c
+132162:arm_itm-1: Timestamp: 1409574 (exact)
+132218:arm_itm-1: PC: 0x080020aa
+132252:arm_itm-1: Timestamp: 1410597 (exact)
+132308:arm_itm-1: PC: 0x080020c6
+132342:arm_itm-1: Timestamp: 1411620 (exact)
+132398:arm_itm-1: PC: 0x080020c2
+132432:arm_itm-1: Timestamp: 1412643 (exact)
+132488:arm_itm-1: PC: 0x0800206e
+132522:arm_itm-1: Timestamp: 1413666 (exact)
+132578:arm_itm-1: PC: 0x080020b0
+132612:arm_itm-1: Timestamp: 1414689 (exact)
+132668:arm_itm-1: PC: 0x080020c6
+132702:arm_itm-1: Timestamp: 1415712 (exact)
+132758:arm_itm-1: PC: 0x080020c2
+132792:arm_itm-1: Timestamp: 1416735 (exact)
+132848:arm_itm-1: PC: 0x080020a8
+132882:arm_itm-1: Timestamp: 1417758 (exact)
+132938:arm_itm-1: PC: 0x080020b0
+132972:arm_itm-1: Timestamp: 1418781 (exact)
+133028:arm_itm-1: PC: 0x080020cc
+133062:arm_itm-1: Timestamp: 1419804 (exact)
+133118:arm_itm-1: PC: 0x0800206e
+133152:arm_itm-1: Timestamp: 1420827 (exact)
+133208:arm_itm-1: PC: 0x080020ae
+133242:arm_itm-1: Timestamp: 1421850 (exact)
+133298:arm_itm-1: PC: 0x080020c6
+133332:arm_itm-1: Timestamp: 1422873 (exact)
+133388:arm_itm-1: PC: 0x080020c2
+133422:arm_itm-1: Timestamp: 1423896 (exact)
+133478:arm_itm-1: PC: 0x080020a8
+133512:arm_itm-1: Timestamp: 1424919 (exact)
+133568:arm_itm-1: PC: 0x080020b0
+133602:arm_itm-1: Timestamp: 1425942 (exact)
+133658:arm_itm-1: PC: 0x080020c6
+133692:arm_itm-1: Timestamp: 1426965 (exact)
+133748:arm_itm-1: PC: 0x080020c2
+133782:arm_itm-1: Timestamp: 1427988 (exact)
+133838:arm_itm-1: PC: 0x080020a8
+133872:arm_itm-1: Timestamp: 1429011 (exact)
+133928:arm_itm-1: PC: 0x080020b0
+133962:arm_itm-1: Timestamp: 1430034 (exact)
+134018:arm_itm-1: PC: 0x080020cc
+134052:arm_itm-1: Timestamp: 1431057 (exact)
+134108:arm_itm-1: PC: 0x0800206c
+134142:arm_itm-1: Timestamp: 1432080 (exact)
+134198:arm_itm-1: PC: 0x080020a8
+134232:arm_itm-1: Timestamp: 1433103 (exact)
+134288:arm_itm-1: PC: 0x080020b0
+134322:arm_itm-1: Timestamp: 1434126 (exact)
+134378:arm_itm-1: PC: 0x080020c8
+134412:arm_itm-1: Timestamp: 1435149 (exact)
+134468:arm_itm-1: PC: 0x0800206c
+134502:arm_itm-1: Timestamp: 1436172 (exact)
+134558:arm_itm-1: PC: 0x080020a8
+134592:arm_itm-1: Timestamp: 1437195 (exact)
+134648:arm_itm-1: PC: 0x080020c6
+134682:arm_itm-1: Timestamp: 1438218 (exact)
+134738:arm_itm-1: PC: 0x080020cc
+134772:arm_itm-1: Timestamp: 1439241 (exact)
+134828:arm_itm-1: PC: 0x080020c2
+134862:arm_itm-1: Timestamp: 1440264 (exact)
+134918:arm_itm-1: PC: 0x080020a8
+134952:arm_itm-1: Timestamp: 1441287 (exact)
+135008:arm_itm-1: PC: 0x080020b0
+135042:arm_itm-1: Timestamp: 1442310 (exact)
+135098:arm_itm-1: PC: 0x080020cc
+135132:arm_itm-1: Timestamp: 1443333 (exact)
+135188:arm_itm-1: PC: 0x0800206e
+135222:arm_itm-1: Timestamp: 1444356 (exact)
+135278:arm_itm-1: PC: 0x080020aa
+135312:arm_itm-1: Timestamp: 1445379 (exact)
+135368:arm_itm-1: PC: 0x080020c6
+135402:arm_itm-1: Timestamp: 1446402 (exact)
+135458:arm_itm-1: PC: 0x080020c2
+135492:arm_itm-1: Timestamp: 1447425 (exact)
+135526:arm_itm-1: Thread
+135527:arm_itm-1: Enter: IRQ 30
+135561:arm_itm-1: Timestamp: 1448125 (exact)
+135595:arm_itm-1: Watchpoint 0: address 0x????1410
+135651:arm_itm-1: Watchpoint 0: Write data 0x00000004
+135685:arm_itm-1: Timestamp: 1448370 (exact)
+135697:arm_itm-1: Overflow
+135731:arm_itm-1: IRQ 30
+135732:arm_itm-1: Resume: Thread
+135766:arm_itm-1: Thread
+135767:arm_itm-1: Enter: SysTick
+135779:arm_itm-1: Overflow
+135813:arm_itm-1: SysTick
+135814:arm_itm-1: Enter: PendSV
+135826:arm_itm-1: Overflow
+135882:arm_itm-1: Watchpoint 2: PC 0x08000512
+135894:arm_itm-1: Overflow
+135950:arm_itm-1: Watchpoint 2: Write data 0x00000004
+135962:arm_itm-1: Overflow
+135996:arm_itm-1: PendSV
+135997:arm_itm-1: Resume: Thread
+136009:arm_itm-1: Overflow
+136065:arm_itm-1: PC: 0x080020a8
+136099:arm_itm-1: Timestamp: 1451386 (event and timestamp delayed)
+136155:arm_itm-1: PC: 0x080020b0
+136189:arm_itm-1: Timestamp: 1452285 (event and timestamp delayed)
+136245:arm_itm-1: PC: 0x080020c6
+136279:arm_itm-1: Timestamp: 1453004 (event and timestamp delayed)
+136335:arm_itm-1: PC: 0x080020c2
+136369:arm_itm-1: Timestamp: 1453723 (timestamp delayed)
+136425:arm_itm-1: PC: 0x080020a8
+136459:arm_itm-1: Timestamp: 1454586 (exact)
+136515:arm_itm-1: PC: 0x080020b0
+136549:arm_itm-1: Timestamp: 1455609 (exact)
+136605:arm_itm-1: PC: 0x080020cc
+136639:arm_itm-1: Timestamp: 1456632 (exact)
+136695:arm_itm-1: PC: 0x080020c2
+136729:arm_itm-1: Timestamp: 1457655 (exact)
+136785:arm_itm-1: PC: 0x080020a8
+136819:arm_itm-1: Timestamp: 1458678 (exact)
+136875:arm_itm-1: PC: 0x080020c6
+136909:arm_itm-1: Timestamp: 1459701 (exact)
+136965:arm_itm-1: PC: 0x080020c6
+136999:arm_itm-1: Timestamp: 1460724 (exact)
+137055:arm_itm-1: PC: 0x080020c2
+137089:arm_itm-1: Timestamp: 1461747 (exact)
+137145:arm_itm-1: PC: 0x080020a8
+137179:arm_itm-1: Timestamp: 1462770 (exact)
+137235:arm_itm-1: PC: 0x080020b0
+137269:arm_itm-1: Timestamp: 1463793 (exact)
+137325:arm_itm-1: PC: 0x080020cc
+137359:arm_itm-1: Timestamp: 1464816 (exact)
+137415:arm_itm-1: PC: 0x080020c2
+137449:arm_itm-1: Timestamp: 1465839 (exact)
+137505:arm_itm-1: PC: 0x080020a8
+137539:arm_itm-1: Timestamp: 1466862 (exact)
+137595:arm_itm-1: PC: 0x080020b0
+137629:arm_itm-1: Timestamp: 1467885 (exact)
+137685:arm_itm-1: PC: 0x080020cc
+137719:arm_itm-1: Timestamp: 1468908 (exact)
+137775:arm_itm-1: PC: 0x0800206e
+137809:arm_itm-1: Timestamp: 1469931 (exact)
+137865:arm_itm-1: PC: 0x080020a8
+137899:arm_itm-1: Timestamp: 1470954 (exact)
+137955:arm_itm-1: PC: 0x080020c6
+137989:arm_itm-1: Timestamp: 1471977 (exact)
+138045:arm_itm-1: PC: 0x080020c2
+138079:arm_itm-1: Timestamp: 1473000 (exact)
+138135:arm_itm-1: PC: 0x0800206e
+138169:arm_itm-1: Timestamp: 1474023 (exact)
+138225:arm_itm-1: PC: 0x080020b0
+138259:arm_itm-1: Timestamp: 1475046 (exact)
+138315:arm_itm-1: PC: 0x080020c6
+138349:arm_itm-1: Timestamp: 1476069 (exact)
+138405:arm_itm-1: PC: 0x080020c2
+138439:arm_itm-1: Timestamp: 1477092 (exact)
+138495:arm_itm-1: PC: 0x080020a8
+138529:arm_itm-1: Timestamp: 1478115 (exact)
+138585:arm_itm-1: PC: 0x080020c6
+138619:arm_itm-1: Timestamp: 1479138 (exact)
+138675:arm_itm-1: PC: 0x080020cc
+138709:arm_itm-1: Timestamp: 1480161 (exact)
+138765:arm_itm-1: PC: 0x0800206e
+138799:arm_itm-1: Timestamp: 1481184 (exact)
+138855:arm_itm-1: PC: 0x080020ac
+138889:arm_itm-1: Timestamp: 1482207 (exact)
+138945:arm_itm-1: PC: 0x080020c6
+138979:arm_itm-1: Timestamp: 1483230 (exact)
+139035:arm_itm-1: PC: 0x080020c2
+139069:arm_itm-1: Timestamp: 1484253 (exact)
+139125:arm_itm-1: PC: 0x0800206e
+139159:arm_itm-1: Timestamp: 1485276 (exact)
+139215:arm_itm-1: PC: 0x080020b0
+139249:arm_itm-1: Timestamp: 1486299 (exact)
+139305:arm_itm-1: PC: 0x080020c6
+139339:arm_itm-1: Timestamp: 1487322 (exact)
+139395:arm_itm-1: PC: 0x080020c2
+139429:arm_itm-1: Timestamp: 1488345 (exact)
+139485:arm_itm-1: PC: 0x080020a8
+139519:arm_itm-1: Timestamp: 1489368 (exact)
+139575:arm_itm-1: PC: 0x080020b0
+139609:arm_itm-1: Timestamp: 1490391 (exact)
+139665:arm_itm-1: PC: 0x080020c6
+139699:arm_itm-1: Timestamp: 1491414 (exact)
+139755:arm_itm-1: PC: 0x080020c2
+139789:arm_itm-1: Timestamp: 1492437 (exact)
+139845:arm_itm-1: PC: 0x0800206e
+139879:arm_itm-1: Timestamp: 1493460 (exact)
+139935:arm_itm-1: PC: 0x080020b0
+139969:arm_itm-1: Timestamp: 1494483 (exact)
+140025:arm_itm-1: PC: 0x080020c6
+140059:arm_itm-1: Timestamp: 1495506 (exact)
+140115:arm_itm-1: PC: 0x080020cc
+140149:arm_itm-1: Timestamp: 1496529 (exact)
+140205:arm_itm-1: PC: 0x0800206e
+140239:arm_itm-1: Timestamp: 1497552 (exact)
+140295:arm_itm-1: PC: 0x080020b0
+140329:arm_itm-1: Timestamp: 1498575 (exact)
+140385:arm_itm-1: PC: 0x080020c6
+140419:arm_itm-1: Timestamp: 1499598 (exact)
+140475:arm_itm-1: PC: 0x080020c2
+140509:arm_itm-1: Timestamp: 1500621 (exact)
+140565:arm_itm-1: PC: 0x080020a8
+140599:arm_itm-1: Timestamp: 1501644 (exact)
+140655:arm_itm-1: PC: 0x080020b0
+140689:arm_itm-1: Timestamp: 1502667 (exact)
+140745:arm_itm-1: PC: 0x080020cc
+140779:arm_itm-1: Timestamp: 1503690 (exact)
+140835:arm_itm-1: PC: 0x0800206e
+140869:arm_itm-1: Timestamp: 1504713 (exact)
+140925:arm_itm-1: PC: 0x080020aa
+140959:arm_itm-1: Timestamp: 1505736 (exact)
+141015:arm_itm-1: PC: 0x080020c6
+141049:arm_itm-1: Timestamp: 1506759 (exact)
+141105:arm_itm-1: PC: 0x080020c2
+141139:arm_itm-1: Timestamp: 1507782 (exact)
+141195:arm_itm-1: PC: 0x080020a8
+141229:arm_itm-1: Timestamp: 1508805 (exact)
+141285:arm_itm-1: PC: 0x080020b0
+141319:arm_itm-1: Timestamp: 1509828 (exact)
+141375:arm_itm-1: PC: 0x080020c8
+141409:arm_itm-1: Timestamp: 1510851 (exact)
+141465:arm_itm-1: PC: 0x080020c2
+141499:arm_itm-1: Timestamp: 1511874 (exact)
+141555:arm_itm-1: PC: 0x080020a8
+141589:arm_itm-1: Timestamp: 1512897 (exact)
+141645:arm_itm-1: PC: 0x080020c6
+141679:arm_itm-1: Timestamp: 1513920 (exact)
+141735:arm_itm-1: PC: 0x080020cc
+141769:arm_itm-1: Timestamp: 1514943 (exact)
+141825:arm_itm-1: PC: 0x0800206e
+141859:arm_itm-1: Timestamp: 1515966 (exact)
+141915:arm_itm-1: PC: 0x080020a8
+141949:arm_itm-1: Timestamp: 1516989 (exact)
+142005:arm_itm-1: PC: 0x080020c6
+142039:arm_itm-1: Timestamp: 1518012 (exact)
+142095:arm_itm-1: PC: 0x080020c2
+142129:arm_itm-1: Timestamp: 1519035 (exact)
+142163:arm_itm-1: Thread
+142164:arm_itm-1: Enter: IRQ 30
+142198:arm_itm-1: Timestamp: 1520055 (exact)
+142254:arm_itm-1: PC: 0x0800078e
+142266:arm_itm-1: Timestamp: 1520057 (exact)
+142300:arm_itm-1: Watchpoint 0: address 0x????1410
+142356:arm_itm-1: Watchpoint 0: Write data 0x00040000
+142368:arm_itm-1: Overflow
+142402:arm_itm-1: IRQ 30
+142403:arm_itm-1: Resume: Thread
+142437:arm_itm-1: Timestamp: 1521048 (event and timestamp delayed)
+142493:arm_itm-1: PC: 0x080020c2
+142527:arm_itm-1: Timestamp: 1521857 (event and timestamp delayed)
+142583:arm_itm-1: PC: 0x080020a8
+142617:arm_itm-1: Timestamp: 1522576 (event and timestamp delayed)
+142673:arm_itm-1: PC: 0x080020b0
+142707:arm_itm-1: Timestamp: 1523295 (timestamp delayed)
+142763:arm_itm-1: PC: 0x080020cc
+142797:arm_itm-1: Timestamp: 1524148 (exact)
+142853:arm_itm-1: PC: 0x0800206e
+142887:arm_itm-1: Timestamp: 1525171 (exact)
+142943:arm_itm-1: PC: 0x080020ac
+142977:arm_itm-1: Timestamp: 1526194 (exact)
+143033:arm_itm-1: PC: 0x080020c6
+143067:arm_itm-1: Timestamp: 1527217 (exact)
+143123:arm_itm-1: PC: 0x080020c2
+143157:arm_itm-1: Timestamp: 1528240 (exact)
+143213:arm_itm-1: PC: 0x080020a8
+143247:arm_itm-1: Timestamp: 1529263 (exact)
+143303:arm_itm-1: PC: 0x080020b0
+143337:arm_itm-1: Timestamp: 1530286 (exact)
+143393:arm_itm-1: PC: 0x080020c6
+143427:arm_itm-1: Timestamp: 1531309 (exact)
+143483:arm_itm-1: PC: 0x080020c2
+143517:arm_itm-1: Timestamp: 1532332 (exact)
+143573:arm_itm-1: PC: 0x080020a8
+143607:arm_itm-1: Timestamp: 1533355 (exact)
+143663:arm_itm-1: PC: 0x080020b0
+143697:arm_itm-1: Timestamp: 1534378 (exact)
+143753:arm_itm-1: PC: 0x080020c8
+143787:arm_itm-1: Timestamp: 1535401 (exact)
+143843:arm_itm-1: PC: 0x0800206c
+143877:arm_itm-1: Timestamp: 1536424 (exact)
+143933:arm_itm-1: PC: 0x0800206e
+143967:arm_itm-1: Timestamp: 1537447 (exact)
+144023:arm_itm-1: PC: 0x080020b0
+144057:arm_itm-1: Timestamp: 1538470 (exact)
+144113:arm_itm-1: PC: 0x080020c6
+144147:arm_itm-1: Timestamp: 1539493 (exact)
+144203:arm_itm-1: PC: 0x080020c2
+144237:arm_itm-1: Timestamp: 1540516 (exact)
+144293:arm_itm-1: PC: 0x080020a8
+144327:arm_itm-1: Timestamp: 1541539 (exact)
+144383:arm_itm-1: PC: 0x080020ac
+144417:arm_itm-1: Timestamp: 1542562 (exact)
+144473:arm_itm-1: PC: 0x080020c6
+144507:arm_itm-1: Timestamp: 1543585 (exact)
+144563:arm_itm-1: PC: 0x080020c2
+144597:arm_itm-1: Timestamp: 1544608 (exact)
+144653:arm_itm-1: PC: 0x080020a8
+144687:arm_itm-1: Timestamp: 1545631 (exact)
+144743:arm_itm-1: PC: 0x080020b0
+144777:arm_itm-1: Timestamp: 1546654 (exact)
+144833:arm_itm-1: PC: 0x080020c8
+144867:arm_itm-1: Timestamp: 1547677 (exact)
+144923:arm_itm-1: PC: 0x0800206c
+144957:arm_itm-1: Timestamp: 1548700 (exact)
+145013:arm_itm-1: PC: 0x080020a8
+145047:arm_itm-1: Timestamp: 1549723 (exact)
+145103:arm_itm-1: PC: 0x080020c6
+145137:arm_itm-1: Timestamp: 1550746 (exact)
+145193:arm_itm-1: PC: 0x080020c2
+145227:arm_itm-1: Timestamp: 1551769 (exact)
+145283:arm_itm-1: PC: 0x0800206e
+145317:arm_itm-1: Timestamp: 1552792 (exact)
+145373:arm_itm-1: PC: 0x080020b0
+145407:arm_itm-1: Timestamp: 1553815 (exact)
+145463:arm_itm-1: PC: 0x080020c6
+145497:arm_itm-1: Timestamp: 1554838 (exact)
+145553:arm_itm-1: PC: 0x080020c2
+145587:arm_itm-1: Timestamp: 1555861 (exact)
+145643:arm_itm-1: PC: 0x080020a8
+145677:arm_itm-1: Timestamp: 1556884 (exact)
+145733:arm_itm-1: PC: 0x080020b0
+145767:arm_itm-1: Timestamp: 1557907 (exact)
+145823:arm_itm-1: PC: 0x080020cc
+145857:arm_itm-1: Timestamp: 1558930 (exact)
+145913:arm_itm-1: PC: 0x0800206e
+145947:arm_itm-1: Timestamp: 1559953 (exact)
+146003:arm_itm-1: PC: 0x080020a8
+146037:arm_itm-1: Timestamp: 1560976 (exact)
+146093:arm_itm-1: PC: 0x080020c6
+146127:arm_itm-1: Timestamp: 1561999 (exact)
+146183:arm_itm-1: PC: 0x080020cc
+146217:arm_itm-1: Timestamp: 1563022 (exact)
+146273:arm_itm-1: PC: 0x0800206e
+146307:arm_itm-1: Timestamp: 1564045 (exact)
+146363:arm_itm-1: PC: 0x080020b0
+146397:arm_itm-1: Timestamp: 1565068 (exact)
+146453:arm_itm-1: PC: 0x080020c6
+146487:arm_itm-1: Timestamp: 1566091 (exact)
+146543:arm_itm-1: PC: 0x080020c2
+146577:arm_itm-1: Timestamp: 1567114 (exact)
+146633:arm_itm-1: PC: 0x0800206c
+146667:arm_itm-1: Timestamp: 1568137 (exact)
+146723:arm_itm-1: PC: 0x080020aa
+146757:arm_itm-1: Timestamp: 1569160 (exact)
+146813:arm_itm-1: PC: 0x080020c6
+146847:arm_itm-1: Timestamp: 1570183 (exact)
+146903:arm_itm-1: PC: 0x080020c2
+146937:arm_itm-1: Timestamp: 1571206 (exact)
+146993:arm_itm-1: PC: 0x0800206e
+147027:arm_itm-1: Timestamp: 1572229 (exact)
+147083:arm_itm-1: PC: 0x080020a8
+147117:arm_itm-1: Timestamp: 1573252 (exact)
+147173:arm_itm-1: PC: 0x080020c6
+147207:arm_itm-1: Timestamp: 1574275 (exact)
+147263:arm_itm-1: PC: 0x080020cc
+147297:arm_itm-1: Timestamp: 1575298 (exact)
+147353:arm_itm-1: PC: 0x0800206e
+147387:arm_itm-1: Timestamp: 1576321 (exact)
+147443:arm_itm-1: PC: 0x080020b0
+147477:arm_itm-1: Timestamp: 1577344 (exact)
+147533:arm_itm-1: PC: 0x080020c6
+147567:arm_itm-1: Timestamp: 1578367 (exact)
+147623:arm_itm-1: PC: 0x080020c2
+147657:arm_itm-1: Timestamp: 1579390 (exact)
+147713:arm_itm-1: PC: 0x080020a8
+147747:arm_itm-1: Timestamp: 1580413 (exact)
+147803:arm_itm-1: PC: 0x080020b0
+147837:arm_itm-1: Timestamp: 1581436 (exact)
+147893:arm_itm-1: PC: 0x080020cc
+147927:arm_itm-1: Timestamp: 1582459 (exact)
+147983:arm_itm-1: PC: 0x0800206c
+148017:arm_itm-1: Timestamp: 1583482 (exact)
+148073:arm_itm-1: PC: 0x080020aa
+148107:arm_itm-1: Timestamp: 1584505 (exact)
+148163:arm_itm-1: PC: 0x080020c6
+148197:arm_itm-1: Timestamp: 1585528 (exact)
+148253:arm_itm-1: PC: 0x080020c2
+148287:arm_itm-1: Timestamp: 1586551 (exact)
+148343:arm_itm-1: PC: 0x080020a8
+148377:arm_itm-1: Timestamp: 1587574 (exact)
+148433:arm_itm-1: PC: 0x080020b0
+148467:arm_itm-1: Timestamp: 1588597 (exact)
+148523:arm_itm-1: PC: 0x080020c8
+148557:arm_itm-1: Timestamp: 1589620 (exact)
+148613:arm_itm-1: PC: 0x0800206c
+148647:arm_itm-1: Timestamp: 1590643 (exact)
+148703:arm_itm-1: PC: 0x080020a8
+148737:arm_itm-1: Timestamp: 1591666 (exact)
+148771:arm_itm-1: Thread
+148772:arm_itm-1: Enter: IRQ 30
+148806:arm_itm-1: Timestamp: 1591982 (exact)
+148840:arm_itm-1: Watchpoint 0: address 0x????1410
+148896:arm_itm-1: Watchpoint 0: Write data 0x00000004
+148908:arm_itm-1: Overflow
+148942:arm_itm-1: IRQ 30
+148943:arm_itm-1: Enter: SysTick
+148955:arm_itm-1: Overflow
+148989:arm_itm-1: SysTick
+148990:arm_itm-1: Resume: Thread
+149046:arm_itm-1: PC: 0x08002dbe
+149080:arm_itm-1: Timestamp: 1593651 (event and timestamp delayed)
+149136:arm_itm-1: PC: 0x080020a8
+149170:arm_itm-1: Timestamp: 1594460 (event and timestamp delayed)
+149226:arm_itm-1: PC: 0x080020b0
+149260:arm_itm-1: Timestamp: 1595179 (event and timestamp delayed)
+149316:arm_itm-1: PC: 0x080020cc
+149350:arm_itm-1: Timestamp: 1595898 (timestamp delayed)
+149406:arm_itm-1: PC: 0x0800206c
+149440:arm_itm-1: Timestamp: 1596780 (exact)
+149496:arm_itm-1: PC: 0x080020a8
+149530:arm_itm-1: Timestamp: 1597803 (exact)
+149586:arm_itm-1: PC: 0x080020b0
+149620:arm_itm-1: Timestamp: 1598826 (exact)
+149676:arm_itm-1: PC: 0x080020c8
+149710:arm_itm-1: Timestamp: 1599849 (exact)
+149766:arm_itm-1: PC: 0x0800206c
+149800:arm_itm-1: Timestamp: 1600872 (exact)
+149856:arm_itm-1: PC: 0x080020a8
+149890:arm_itm-1: Timestamp: 1601895 (exact)
+149946:arm_itm-1: PC: 0x080020c6
+149980:arm_itm-1: Timestamp: 1602918 (exact)
+150036:arm_itm-1: PC: 0x080020cc
+150070:arm_itm-1: Timestamp: 1603941 (exact)
+150126:arm_itm-1: PC: 0x080020c2
+150160:arm_itm-1: Timestamp: 1604964 (exact)
+150216:arm_itm-1: PC: 0x080020a8
+150250:arm_itm-1: Timestamp: 1605987 (exact)
+150306:arm_itm-1: PC: 0x080020b0
+150340:arm_itm-1: Timestamp: 1607010 (exact)
+150396:arm_itm-1: PC: 0x080020cc
+150430:arm_itm-1: Timestamp: 1608033 (exact)
+150486:arm_itm-1: PC: 0x0800206e
+150520:arm_itm-1: Timestamp: 1609056 (exact)
+150576:arm_itm-1: PC: 0x080020aa
+150610:arm_itm-1: Timestamp: 1610079 (exact)
+150666:arm_itm-1: PC: 0x080020c6
+150700:arm_itm-1: Timestamp: 1611102 (exact)
+150756:arm_itm-1: PC: 0x080020c2
+150790:arm_itm-1: Timestamp: 1612125 (exact)
+150846:arm_itm-1: PC: 0x080020a8
+150880:arm_itm-1: Timestamp: 1613148 (exact)
+150936:arm_itm-1: PC: 0x080020b0
+150970:arm_itm-1: Timestamp: 1614171 (exact)
+151026:arm_itm-1: PC: 0x080020c8
+151060:arm_itm-1: Timestamp: 1615194 (exact)
+151116:arm_itm-1: PC: 0x0800206c
+151150:arm_itm-1: Timestamp: 1616217 (exact)
+151206:arm_itm-1: PC: 0x080020a8
+151240:arm_itm-1: Timestamp: 1617240 (exact)
+151296:arm_itm-1: PC: 0x080020c6
+151330:arm_itm-1: Timestamp: 1618263 (exact)
+151386:arm_itm-1: PC: 0x080020c2
+151420:arm_itm-1: Timestamp: 1619286 (exact)
+151476:arm_itm-1: PC: 0x0800206e
+151510:arm_itm-1: Timestamp: 1620309 (exact)
+151566:arm_itm-1: PC: 0x080020b0
+151600:arm_itm-1: Timestamp: 1621332 (exact)
+151656:arm_itm-1: PC: 0x080020c6
+151690:arm_itm-1: Timestamp: 1622355 (exact)
+151746:arm_itm-1: PC: 0x080020c2
+151780:arm_itm-1: Timestamp: 1623378 (exact)
+151836:arm_itm-1: PC: 0x080020a8
+151870:arm_itm-1: Timestamp: 1624401 (exact)
+151926:arm_itm-1: PC: 0x080020b0
+151960:arm_itm-1: Timestamp: 1625424 (exact)
+152016:arm_itm-1: PC: 0x080020c8
+152050:arm_itm-1: Timestamp: 1626447 (exact)
+152106:arm_itm-1: PC: 0x080020c2
+152140:arm_itm-1: Timestamp: 1627470 (exact)
+152196:arm_itm-1: PC: 0x080020a8
+152230:arm_itm-1: Timestamp: 1628493 (exact)
+152286:arm_itm-1: PC: 0x080020b0
+152320:arm_itm-1: Timestamp: 1629516 (exact)
+152376:arm_itm-1: PC: 0x080020c6
+152410:arm_itm-1: Timestamp: 1630539 (exact)
+152466:arm_itm-1: PC: 0x080020c2
+152500:arm_itm-1: Timestamp: 1631562 (exact)
+152556:arm_itm-1: PC: 0x080020a8
+152590:arm_itm-1: Timestamp: 1632585 (exact)
+152646:arm_itm-1: PC: 0x080020b0
+152680:arm_itm-1: Timestamp: 1633608 (exact)
+152736:arm_itm-1: PC: 0x080020c8
+152770:arm_itm-1: Timestamp: 1634631 (exact)
+152826:arm_itm-1: PC: 0x080020c2
+152860:arm_itm-1: Timestamp: 1635654 (exact)
+152916:arm_itm-1: PC: 0x0800206e
+152950:arm_itm-1: Timestamp: 1636677 (exact)
+153006:arm_itm-1: PC: 0x080020b0
+153040:arm_itm-1: Timestamp: 1637700 (exact)
+153096:arm_itm-1: PC: 0x080020c8
+153130:arm_itm-1: Timestamp: 1638723 (exact)
+153186:arm_itm-1: PC: 0x0800206c
+153220:arm_itm-1: Timestamp: 1639746 (exact)
+153276:arm_itm-1: PC: 0x080020a8
+153310:arm_itm-1: Timestamp: 1640769 (exact)
+153366:arm_itm-1: PC: 0x080020b0
+153400:arm_itm-1: Timestamp: 1641792 (exact)
+153456:arm_itm-1: PC: 0x080020cc
+153490:arm_itm-1: Timestamp: 1642815 (exact)
+153546:arm_itm-1: PC: 0x0800206e
+153580:arm_itm-1: Timestamp: 1643838 (exact)
+153636:arm_itm-1: PC: 0x080020ae
+153670:arm_itm-1: Timestamp: 1644861 (exact)
+153726:arm_itm-1: PC: 0x080020c6
+153760:arm_itm-1: Timestamp: 1645884 (exact)
+153816:arm_itm-1: PC: 0x080020c2
+153850:arm_itm-1: Timestamp: 1646907 (exact)
+153906:arm_itm-1: PC: 0x080020a8
+153940:arm_itm-1: Timestamp: 1647930 (exact)
+153996:arm_itm-1: PC: 0x080020b0
+154030:arm_itm-1: Timestamp: 1648953 (exact)
+154086:arm_itm-1: PC: 0x080020cc
+154120:arm_itm-1: Timestamp: 1649976 (exact)
+154176:arm_itm-1: PC: 0x0800206c
+154210:arm_itm-1: Timestamp: 1650999 (exact)
+154266:arm_itm-1: PC: 0x080020a8
+154300:arm_itm-1: Timestamp: 1652022 (exact)
+154356:arm_itm-1: PC: 0x080020b0
+154390:arm_itm-1: Timestamp: 1653045 (exact)
+154446:arm_itm-1: PC: 0x080020cc
+154480:arm_itm-1: Timestamp: 1654068 (exact)
+154536:arm_itm-1: PC: 0x0800206e
+154570:arm_itm-1: Timestamp: 1655091 (exact)
+154626:arm_itm-1: PC: 0x080020aa
+154660:arm_itm-1: Timestamp: 1656114 (exact)
+154716:arm_itm-1: PC: 0x080020c6
+154750:arm_itm-1: Timestamp: 1657137 (exact)
+154806:arm_itm-1: PC: 0x080020cc
+154840:arm_itm-1: Timestamp: 1658160 (exact)
+154896:arm_itm-1: PC: 0x0800206e
+154930:arm_itm-1: Timestamp: 1659183 (exact)
+154986:arm_itm-1: PC: 0x080020b0
+155020:arm_itm-1: Timestamp: 1660206 (exact)
+155076:arm_itm-1: PC: 0x080020c6
+155110:arm_itm-1: Timestamp: 1661229 (exact)
+155166:arm_itm-1: PC: 0x080020cc
+155200:arm_itm-1: Timestamp: 1662252 (exact)
+155256:arm_itm-1: PC: 0x0800206e
+155290:arm_itm-1: Timestamp: 1663275 (exact)
+155324:arm_itm-1: Thread
+155325:arm_itm-1: Enter: IRQ 30
+155359:arm_itm-1: Timestamp: 1663911 (exact)
+155393:arm_itm-1: Watchpoint 0: address 0x????1410
+155449:arm_itm-1: Watchpoint 0: Write data 0x00040000
+155483:arm_itm-1: Timestamp: 1664176 (timestamp delayed)
+155495:arm_itm-1: Overflow
+155529:arm_itm-1: IRQ 30
+155530:arm_itm-1: Enter: SysTick
+155542:arm_itm-1: Overflow
+155576:arm_itm-1: SysTick
+155577:arm_itm-1: Resume: Thread
+155633:arm_itm-1: PC: 0x080020a8
+155689:arm_itm-1: PC: 0x0800206e
+155723:arm_itm-1: Timestamp: 1666065 (event and timestamp delayed)
+155779:arm_itm-1: PC: 0x080020a8
+155813:arm_itm-1: Timestamp: 1666784 (event and timestamp delayed)
+155869:arm_itm-1: PC: 0x080020c6
+155903:arm_itm-1: Timestamp: 1667503 (timestamp delayed)
+155959:arm_itm-1: PC: 0x080020cc
+155993:arm_itm-1: Timestamp: 1668389 (exact)
+156049:arm_itm-1: PC: 0x0800206e
+156083:arm_itm-1: Timestamp: 1669412 (exact)
+156139:arm_itm-1: PC: 0x080020ae
+156173:arm_itm-1: Timestamp: 1670435 (exact)
+156229:arm_itm-1: PC: 0x080020b0
+156263:arm_itm-1: Timestamp: 1671458 (exact)
+156319:arm_itm-1: PC: 0x080020cc
+156353:arm_itm-1: Timestamp: 1672481 (exact)
+156409:arm_itm-1: PC: 0x0800206e
+156443:arm_itm-1: Timestamp: 1673504 (exact)
+156499:arm_itm-1: PC: 0x080020ac
+156533:arm_itm-1: Timestamp: 1674527 (exact)
+156589:arm_itm-1: PC: 0x080020c6
+156623:arm_itm-1: Timestamp: 1675550 (exact)
+156679:arm_itm-1: PC: 0x080020c2
+156713:arm_itm-1: Timestamp: 1676573 (exact)
+156769:arm_itm-1: PC: 0x080020a8
+156803:arm_itm-1: Timestamp: 1677596 (exact)
+156859:arm_itm-1: PC: 0x080020b0
+156893:arm_itm-1: Timestamp: 1678619 (exact)
+156949:arm_itm-1: PC: 0x080020c8
+156983:arm_itm-1: Timestamp: 1679642 (exact)
+157039:arm_itm-1: PC: 0x0800206c
+157073:arm_itm-1: Timestamp: 1680665 (exact)
+157129:arm_itm-1: PC: 0x080020a8
+157163:arm_itm-1: Timestamp: 1681688 (exact)
+157219:arm_itm-1: PC: 0x080020c6
+157253:arm_itm-1: Timestamp: 1682711 (exact)
+157309:arm_itm-1: PC: 0x080020cc
+157343:arm_itm-1: Timestamp: 1683734 (exact)
+157399:arm_itm-1: PC: 0x0800206e
+157433:arm_itm-1: Timestamp: 1684757 (exact)
+157489:arm_itm-1: PC: 0x080020b0
+157523:arm_itm-1: Timestamp: 1685780 (exact)
+157579:arm_itm-1: PC: 0x080020c6
+157613:arm_itm-1: Timestamp: 1686803 (exact)
+157669:arm_itm-1: PC: 0x080020c2
+157703:arm_itm-1: Timestamp: 1687826 (exact)
+157759:arm_itm-1: PC: 0x080020a8
+157793:arm_itm-1: Timestamp: 1688849 (exact)
+157849:arm_itm-1: PC: 0x080020b0
+157883:arm_itm-1: Timestamp: 1689872 (exact)
+157939:arm_itm-1: PC: 0x080020c8
+157973:arm_itm-1: Timestamp: 1690895 (exact)
+158029:arm_itm-1: PC: 0x080020c2
+158063:arm_itm-1: Timestamp: 1691918 (exact)
+158119:arm_itm-1: PC: 0x080020a8
+158153:arm_itm-1: Timestamp: 1692941 (exact)
+158209:arm_itm-1: PC: 0x080020b0
+158243:arm_itm-1: Timestamp: 1693964 (exact)
+158299:arm_itm-1: PC: 0x080020cc
+158333:arm_itm-1: Timestamp: 1694987 (exact)
+158389:arm_itm-1: PC: 0x0800206e
+158423:arm_itm-1: Timestamp: 1696010 (exact)
+158479:arm_itm-1: PC: 0x080020a8
+158513:arm_itm-1: Timestamp: 1697033 (exact)
+158569:arm_itm-1: PC: 0x080020b0
+158603:arm_itm-1: Timestamp: 1698056 (exact)
+158659:arm_itm-1: PC: 0x080020ca
+158693:arm_itm-1: Timestamp: 1699079 (exact)
+158749:arm_itm-1: PC: 0x0800206c
+158783:arm_itm-1: Timestamp: 1700102 (exact)
+158839:arm_itm-1: PC: 0x080020a8
+158873:arm_itm-1: Timestamp: 1701125 (exact)
+158929:arm_itm-1: PC: 0x080020b0
+158963:arm_itm-1: Timestamp: 1702148 (exact)
+159019:arm_itm-1: PC: 0x080020c6
+159053:arm_itm-1: Timestamp: 1703171 (exact)
+159109:arm_itm-1: PC: 0x080020c2
+159143:arm_itm-1: Timestamp: 1704194 (exact)
+159199:arm_itm-1: PC: 0x080020a8
+159233:arm_itm-1: Timestamp: 1705217 (exact)
+159289:arm_itm-1: PC: 0x080020c6
+159323:arm_itm-1: Timestamp: 1706240 (exact)
+159379:arm_itm-1: PC: 0x080020cc
+159413:arm_itm-1: Timestamp: 1707263 (exact)
+159469:arm_itm-1: PC: 0x0800206e
+159503:arm_itm-1: Timestamp: 1708286 (exact)
+159559:arm_itm-1: PC: 0x080020ac
+159593:arm_itm-1: Timestamp: 1709309 (exact)
+159649:arm_itm-1: PC: 0x080020c6
+159683:arm_itm-1: Timestamp: 1710332 (exact)
+159739:arm_itm-1: PC: 0x080020c2
+159773:arm_itm-1: Timestamp: 1711355 (exact)
+159829:arm_itm-1: PC: 0x080020a8
+159863:arm_itm-1: Timestamp: 1712378 (exact)
+159919:arm_itm-1: PC: 0x080020b0
+159953:arm_itm-1: Timestamp: 1713401 (exact)
+160009:arm_itm-1: PC: 0x080020ca
+160043:arm_itm-1: Timestamp: 1714424 (exact)
+160099:arm_itm-1: PC: 0x0800206c
+160133:arm_itm-1: Timestamp: 1715447 (exact)
+160189:arm_itm-1: PC: 0x080020aa
+160223:arm_itm-1: Timestamp: 1716470 (exact)
+160279:arm_itm-1: PC: 0x080020c6
+160313:arm_itm-1: Timestamp: 1717493 (exact)
+160369:arm_itm-1: PC: 0x080020c2
+160403:arm_itm-1: Timestamp: 1718516 (exact)
+160459:arm_itm-1: PC: 0x0800206e
+160493:arm_itm-1: Timestamp: 1719539 (exact)
+160549:arm_itm-1: PC: 0x080020ac
+160583:arm_itm-1: Timestamp: 1720562 (exact)
+160639:arm_itm-1: PC: 0x080020c6
+160673:arm_itm-1: Timestamp: 1721585 (exact)
+160729:arm_itm-1: PC: 0x080020c2
+160763:arm_itm-1: Timestamp: 1722608 (exact)
+160819:arm_itm-1: PC: 0x080020a8
+160853:arm_itm-1: Timestamp: 1723631 (exact)
+160909:arm_itm-1: PC: 0x080020b0
+160943:arm_itm-1: Timestamp: 1724654 (exact)
+160999:arm_itm-1: PC: 0x080020c6
+161033:arm_itm-1: Timestamp: 1725677 (exact)
+161089:arm_itm-1: PC: 0x080020c2
+161123:arm_itm-1: Timestamp: 1726700 (exact)
+161179:arm_itm-1: PC: 0x0800206e
+161213:arm_itm-1: Timestamp: 1727723 (exact)
+161269:arm_itm-1: PC: 0x080020ae
+161303:arm_itm-1: Timestamp: 1728746 (exact)
+161359:arm_itm-1: PC: 0x080020c6
+161393:arm_itm-1: Timestamp: 1729769 (exact)
+161449:arm_itm-1: PC: 0x080020c2
+161483:arm_itm-1: Timestamp: 1730792 (exact)
+161539:arm_itm-1: PC: 0x080020a8
+161573:arm_itm-1: Timestamp: 1731815 (exact)
+161629:arm_itm-1: PC: 0x080020aa
+161663:arm_itm-1: Timestamp: 1732838 (exact)
+161719:arm_itm-1: PC: 0x080020c6
+161753:arm_itm-1: Timestamp: 1733861 (exact)
+161809:arm_itm-1: PC: 0x080020c2
+161843:arm_itm-1: Timestamp: 1734884 (exact)
+161877:arm_itm-1: Thread
+161878:arm_itm-1: Enter: IRQ 30
+161912:arm_itm-1: Timestamp: 1735840 (exact)
+161968:arm_itm-1: PC: 0x08000932
+161991:arm_itm-1: Timestamp: 1735906 (exact)
+162025:arm_itm-1: Watchpoint 0: address 0x????1410
+162081:arm_itm-1: Watchpoint 0: Write data 0x00000004
+162093:arm_itm-1: Overflow
+162127:arm_itm-1: IRQ 30
+162128:arm_itm-1: Resume: Thread
+162162:arm_itm-1: Timestamp: 1736923 (event and timestamp delayed)
+162218:arm_itm-1: PC: 0x080020c2
+162252:arm_itm-1: Timestamp: 1737732 (event and timestamp delayed)
+162308:arm_itm-1: PC: 0x0800206e
+162342:arm_itm-1: Timestamp: 1738451 (event and timestamp delayed)
+162398:arm_itm-1: PC: 0x080020aa
+162432:arm_itm-1: Timestamp: 1739170 (timestamp delayed)
+162488:arm_itm-1: PC: 0x080020c6
+162522:arm_itm-1: Timestamp: 1739997 (exact)
+162578:arm_itm-1: PC: 0x080020c2
+162612:arm_itm-1: Timestamp: 1741020 (exact)
+162668:arm_itm-1: PC: 0x080020a8
+162702:arm_itm-1: Timestamp: 1742043 (exact)
+162758:arm_itm-1: PC: 0x080020b0
+162792:arm_itm-1: Timestamp: 1743066 (exact)
+162848:arm_itm-1: PC: 0x080020c8
+162882:arm_itm-1: Timestamp: 1744089 (exact)
+162938:arm_itm-1: PC: 0x0800206c
+162972:arm_itm-1: Timestamp: 1745112 (exact)
+163028:arm_itm-1: PC: 0x080020a8
+163062:arm_itm-1: Timestamp: 1746135 (exact)
+163118:arm_itm-1: PC: 0x080020c6
+163152:arm_itm-1: Timestamp: 1747158 (exact)
+163208:arm_itm-1: PC: 0x080020cc
+163242:arm_itm-1: Timestamp: 1748181 (exact)
+163298:arm_itm-1: PC: 0x0800206e
+163332:arm_itm-1: Timestamp: 1749204 (exact)
+163388:arm_itm-1: PC: 0x080020b0
+163422:arm_itm-1: Timestamp: 1750227 (exact)
+163478:arm_itm-1: PC: 0x080020c6
+163512:arm_itm-1: Timestamp: 1751250 (exact)
+163568:arm_itm-1: PC: 0x080020c2
+163602:arm_itm-1: Timestamp: 1752273 (exact)
+163658:arm_itm-1: PC: 0x080020a8
+163692:arm_itm-1: Timestamp: 1753296 (exact)
+163748:arm_itm-1: PC: 0x080020b0
+163782:arm_itm-1: Timestamp: 1754319 (exact)
+163838:arm_itm-1: PC: 0x080020cc
+163872:arm_itm-1: Timestamp: 1755342 (exact)
+163928:arm_itm-1: PC: 0x0800206c
+163962:arm_itm-1: Timestamp: 1756365 (exact)
+164018:arm_itm-1: PC: 0x080020a8
+164052:arm_itm-1: Timestamp: 1757388 (exact)
+164108:arm_itm-1: PC: 0x080020c6
+164142:arm_itm-1: Timestamp: 1758411 (exact)
+164198:arm_itm-1: PC: 0x080020cc
+164232:arm_itm-1: Timestamp: 1759434 (exact)
+164288:arm_itm-1: PC: 0x0800206e
+164322:arm_itm-1: Timestamp: 1760457 (exact)
+164378:arm_itm-1: PC: 0x080020aa
+164412:arm_itm-1: Timestamp: 1761480 (exact)
+164468:arm_itm-1: PC: 0x080020c6
+164502:arm_itm-1: Timestamp: 1762503 (exact)
+164558:arm_itm-1: PC: 0x080020c8
+164592:arm_itm-1: Timestamp: 1763526 (exact)
+164648:arm_itm-1: PC: 0x0800206c
+164682:arm_itm-1: Timestamp: 1764549 (exact)
+164738:arm_itm-1: PC: 0x080020a8
+164772:arm_itm-1: Timestamp: 1765572 (exact)
+164828:arm_itm-1: PC: 0x080020c6
+164862:arm_itm-1: Timestamp: 1766595 (exact)
+164918:arm_itm-1: PC: 0x080020cc
+164952:arm_itm-1: Timestamp: 1767618 (exact)
+165008:arm_itm-1: PC: 0x080020c2
+165042:arm_itm-1: Timestamp: 1768641 (exact)
+165098:arm_itm-1: PC: 0x080020a8
+165132:arm_itm-1: Timestamp: 1769664 (exact)
+165188:arm_itm-1: PC: 0x080020c6
+165222:arm_itm-1: Timestamp: 1770687 (exact)
+165278:arm_itm-1: PC: 0x080020cc
+165312:arm_itm-1: Timestamp: 1771710 (exact)
+165368:arm_itm-1: PC: 0x0800206e
+165402:arm_itm-1: Timestamp: 1772733 (exact)
+165458:arm_itm-1: PC: 0x080020aa
+165492:arm_itm-1: Timestamp: 1773756 (exact)
+165548:arm_itm-1: PC: 0x080020c6
+165582:arm_itm-1: Timestamp: 1774779 (exact)
+165638:arm_itm-1: PC: 0x080020c2
+165672:arm_itm-1: Timestamp: 1775802 (exact)
+165728:arm_itm-1: PC: 0x080020a8
+165762:arm_itm-1: Timestamp: 1776825 (exact)
+165818:arm_itm-1: PC: 0x080020b0
+165852:arm_itm-1: Timestamp: 1777848 (exact)
+165908:arm_itm-1: PC: 0x080020c8
+165942:arm_itm-1: Timestamp: 1778871 (exact)
+165998:arm_itm-1: PC: 0x0800206c
+166032:arm_itm-1: Timestamp: 1779894 (exact)
+166088:arm_itm-1: PC: 0x080020a8
+166122:arm_itm-1: Timestamp: 1780917 (exact)
+166178:arm_itm-1: PC: 0x080020c6
+166212:arm_itm-1: Timestamp: 1781940 (exact)
+166268:arm_itm-1: PC: 0x080020c2
+166302:arm_itm-1: Timestamp: 1782963 (exact)
+166358:arm_itm-1: PC: 0x0800206e
+166392:arm_itm-1: Timestamp: 1783986 (exact)
+166448:arm_itm-1: PC: 0x080020b0
+166482:arm_itm-1: Timestamp: 1785009 (exact)
+166538:arm_itm-1: PC: 0x080020c6
+166572:arm_itm-1: Timestamp: 1786032 (exact)
+166628:arm_itm-1: PC: 0x080020c2
+166662:arm_itm-1: Timestamp: 1787055 (exact)
+166718:arm_itm-1: PC: 0x080020a8
+166752:arm_itm-1: Timestamp: 1788078 (exact)
+166808:arm_itm-1: PC: 0x080020b0
+166842:arm_itm-1: Timestamp: 1789101 (exact)
+166898:arm_itm-1: PC: 0x080020c8
+166932:arm_itm-1: Timestamp: 1790124 (exact)
+166988:arm_itm-1: PC: 0x0800206c
+167022:arm_itm-1: Timestamp: 1791147 (exact)
+167078:arm_itm-1: PC: 0x080020a8
+167112:arm_itm-1: Timestamp: 1792170 (exact)
+167168:arm_itm-1: PC: 0x080020b0
+167202:arm_itm-1: Timestamp: 1793193 (exact)
+167258:arm_itm-1: PC: 0x080020cc
+167292:arm_itm-1: Timestamp: 1794216 (exact)
+167348:arm_itm-1: PC: 0x080020c2
+167382:arm_itm-1: Timestamp: 1795239 (exact)
+167438:arm_itm-1: PC: 0x080020a8
+167472:arm_itm-1: Timestamp: 1796262 (exact)
+167528:arm_itm-1: PC: 0x080020b0
+167562:arm_itm-1: Timestamp: 1797285 (exact)
+167618:arm_itm-1: PC: 0x080020ca
+167652:arm_itm-1: Timestamp: 1798308 (exact)
+167708:arm_itm-1: PC: 0x0800206c
+167742:arm_itm-1: Timestamp: 1799331 (exact)
+167798:arm_itm-1: PC: 0x080020a8
+167832:arm_itm-1: Timestamp: 1800354 (exact)
+167888:arm_itm-1: PC: 0x080020b0
+167922:arm_itm-1: Timestamp: 1801377 (exact)
+167978:arm_itm-1: PC: 0x080020c8
+168012:arm_itm-1: Timestamp: 1802400 (exact)
+168068:arm_itm-1: PC: 0x0800206c
+168102:arm_itm-1: Timestamp: 1803423 (exact)
+168158:arm_itm-1: PC: 0x080020a8
+168192:arm_itm-1: Timestamp: 1804446 (exact)
+168248:arm_itm-1: PC: 0x080020c6
+168282:arm_itm-1: Timestamp: 1805469 (exact)
+168338:arm_itm-1: PC: 0x080020cc
+168372:arm_itm-1: Timestamp: 1806492 (exact)
+168428:arm_itm-1: PC: 0x0800206e
+168462:arm_itm-1: Timestamp: 1807515 (exact)
+168496:arm_itm-1: Thread
+168497:arm_itm-1: Enter: IRQ 30
+168531:arm_itm-1: Timestamp: 1807767 (exact)
+168565:arm_itm-1: Watchpoint 0: address 0x????1410
+168621:arm_itm-1: Watchpoint 0: Write data 0x00040000
+168633:arm_itm-1: Overflow
+168667:arm_itm-1: IRQ 30
+168668:arm_itm-1: Enter: SysTick
+168702:arm_itm-1: SysTick
+168703:arm_itm-1: Exit: SysTick
+168737:arm_itm-1: Enter: PendSV
+168749:arm_itm-1: Overflow
+168783:arm_itm-1: PendSV
+168784:arm_itm-1: Resume: Thread
+168796:arm_itm-1: Overflow
+168852:arm_itm-1: PC: 0x0800201e
+168886:arm_itm-1: Timestamp: 1810039 (event and timestamp delayed)
+168898:arm_itm-1: Overflow
+168954:arm_itm-1: Watchpoint 2: PC 0x080004fa
+168966:arm_itm-1: Overflow
+169022:arm_itm-1: Watchpoint 2: Write data 0x00000005
+169034:arm_itm-1: Overflow
+169068:arm_itm-1: Thread
+169069:arm_itm-1: Resume: Thread
+169081:arm_itm-1: Overflow
+169137:arm_itm-1: PC: 0x080020a8
+169171:arm_itm-1: Timestamp: 1812288 (event and timestamp delayed)
+169227:arm_itm-1: PC: 0x080020c6
+169261:arm_itm-1: Timestamp: 1813187 (event and timestamp delayed)
+169317:arm_itm-1: PC: 0x080020c2
+169351:arm_itm-1: Timestamp: 1813906 (timestamp delayed)
+169407:arm_itm-1: PC: 0x0800206e
+169441:arm_itm-1: Timestamp: 1814677 (exact)
+169497:arm_itm-1: PC: 0x080020ae
+169531:arm_itm-1: Timestamp: 1815700 (exact)
+169587:arm_itm-1: PC: 0x080020c6
+169621:arm_itm-1: Timestamp: 1816723 (exact)
+169677:arm_itm-1: PC: 0x080020c2
+169711:arm_itm-1: Timestamp: 1817746 (exact)
+169767:arm_itm-1: PC: 0x080020a8
+169801:arm_itm-1: Timestamp: 1818769 (exact)
+169857:arm_itm-1: PC: 0x080020b0
+169891:arm_itm-1: Timestamp: 1819792 (exact)
+169947:arm_itm-1: PC: 0x080020cc
+169981:arm_itm-1: Timestamp: 1820815 (exact)
+170037:arm_itm-1: PC: 0x0800206e
+170071:arm_itm-1: Timestamp: 1821838 (exact)
+170127:arm_itm-1: PC: 0x080020aa
+170161:arm_itm-1: Timestamp: 1822861 (exact)
+170217:arm_itm-1: PC: 0x080020c6
+170251:arm_itm-1: Timestamp: 1823884 (exact)
+170307:arm_itm-1: PC: 0x080020c2
+170341:arm_itm-1: Timestamp: 1824907 (exact)
+170397:arm_itm-1: PC: 0x080020a8
+170431:arm_itm-1: Timestamp: 1825930 (exact)
+170487:arm_itm-1: PC: 0x080020b0
+170521:arm_itm-1: Timestamp: 1826953 (exact)
+170577:arm_itm-1: PC: 0x080020c6
+170611:arm_itm-1: Timestamp: 1827976 (exact)
+170667:arm_itm-1: PC: 0x080020c2
+170701:arm_itm-1: Timestamp: 1828999 (exact)
+170757:arm_itm-1: PC: 0x080020a8
+170791:arm_itm-1: Timestamp: 1830022 (exact)
+170847:arm_itm-1: PC: 0x080020b0
+170881:arm_itm-1: Timestamp: 1831045 (exact)
+170937:arm_itm-1: PC: 0x080020cc
+170971:arm_itm-1: Timestamp: 1832068 (exact)
+171027:arm_itm-1: PC: 0x080020c2
+171061:arm_itm-1: Timestamp: 1833091 (exact)
+171117:arm_itm-1: PC: 0x080020a8
+171151:arm_itm-1: Timestamp: 1834114 (exact)
+171207:arm_itm-1: PC: 0x080020c6
+171241:arm_itm-1: Timestamp: 1835137 (exact)
+171297:arm_itm-1: PC: 0x080020c6
+171331:arm_itm-1: Timestamp: 1836160 (exact)
+171387:arm_itm-1: PC: 0x080020c2
+171421:arm_itm-1: Timestamp: 1837183 (exact)
+171477:arm_itm-1: PC: 0x080020a8
+171511:arm_itm-1: Timestamp: 1838206 (exact)
+171567:arm_itm-1: PC: 0x080020b0
+171601:arm_itm-1: Timestamp: 1839229 (exact)
+171657:arm_itm-1: PC: 0x080020cc
+171691:arm_itm-1: Timestamp: 1840252 (exact)
+171747:arm_itm-1: PC: 0x080020c2
+171781:arm_itm-1: Timestamp: 1841275 (exact)
+171837:arm_itm-1: PC: 0x080020a8
+171871:arm_itm-1: Timestamp: 1842298 (exact)
+171927:arm_itm-1: PC: 0x080020b0
+171961:arm_itm-1: Timestamp: 1843321 (exact)
+172017:arm_itm-1: PC: 0x080020cc
+172051:arm_itm-1: Timestamp: 1844344 (exact)
+172107:arm_itm-1: PC: 0x0800206e
+172141:arm_itm-1: Timestamp: 1845367 (exact)
+172197:arm_itm-1: PC: 0x080020a8
+172231:arm_itm-1: Timestamp: 1846390 (exact)
+172287:arm_itm-1: PC: 0x080020c6
+172321:arm_itm-1: Timestamp: 1847413 (exact)
+172377:arm_itm-1: PC: 0x080020c2
+172411:arm_itm-1: Timestamp: 1848436 (exact)
+172467:arm_itm-1: PC: 0x0800206e
+172501:arm_itm-1: Timestamp: 1849459 (exact)
+172557:arm_itm-1: PC: 0x080020b0
+172591:arm_itm-1: Timestamp: 1850482 (exact)
+172647:arm_itm-1: PC: 0x080020c6
+172681:arm_itm-1: Timestamp: 1851505 (exact)
+172737:arm_itm-1: PC: 0x080020c2
+172771:arm_itm-1: Timestamp: 1852528 (exact)
+172827:arm_itm-1: PC: 0x080020a8
+172861:arm_itm-1: Timestamp: 1853551 (exact)
+172917:arm_itm-1: PC: 0x080020c6
+172951:arm_itm-1: Timestamp: 1854574 (exact)
+173007:arm_itm-1: PC: 0x080020cc
+173041:arm_itm-1: Timestamp: 1855597 (exact)
+173097:arm_itm-1: PC: 0x0800206e
+173131:arm_itm-1: Timestamp: 1856620 (exact)
+173187:arm_itm-1: PC: 0x080020ac
+173221:arm_itm-1: Timestamp: 1857643 (exact)
+173277:arm_itm-1: PC: 0x080020c6
+173311:arm_itm-1: Timestamp: 1858666 (exact)
+173367:arm_itm-1: PC: 0x080020c2
+173401:arm_itm-1: Timestamp: 1859689 (exact)
+173457:arm_itm-1: PC: 0x0800206e
+173491:arm_itm-1: Timestamp: 1860712 (exact)
+173547:arm_itm-1: PC: 0x080020b0
+173581:arm_itm-1: Timestamp: 1861735 (exact)
+173637:arm_itm-1: PC: 0x080020c6
+173671:arm_itm-1: Timestamp: 1862758 (exact)
+173727:arm_itm-1: PC: 0x080020c2
+173761:arm_itm-1: Timestamp: 1863781 (exact)
+173817:arm_itm-1: PC: 0x080020a8
+173851:arm_itm-1: Timestamp: 1864804 (exact)
+173907:arm_itm-1: PC: 0x080020b0
+173941:arm_itm-1: Timestamp: 1865827 (exact)
+173997:arm_itm-1: PC: 0x080020c6
+174031:arm_itm-1: Timestamp: 1866850 (exact)
+174087:arm_itm-1: PC: 0x080020c2
+174121:arm_itm-1: Timestamp: 1867873 (exact)
+174177:arm_itm-1: PC: 0x0800206e
+174211:arm_itm-1: Timestamp: 1868896 (exact)
+174267:arm_itm-1: PC: 0x080020b0
+174301:arm_itm-1: Timestamp: 1869919 (exact)
