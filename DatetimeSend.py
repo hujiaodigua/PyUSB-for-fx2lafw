@@ -26,4 +26,5 @@ def DatetimeSend(My_IP_address, My_Port, b_str_Sec):
 
 if __name__ == '__main__':
     b_str_Sec = bytes(str(int(time.time()) + 10), encoding = 'utf8')
-    DatetimeSend('192.168.0.101', 10000, b_str_Sec)
+    DatetimeSend('192.168.0.188', 10000, b_str_Sec)    # 做实验需要监听多个port
+    DatetimeSend('192.168.0.188', 10001, b_str_Sec)
